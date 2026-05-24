@@ -28,3 +28,9 @@ pnpm-debug.log*
 src/content/docs/**
 !src/content/docs/index.mdx
 
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
