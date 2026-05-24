@@ -4,13 +4,17 @@ import sitemap from '@astrojs/sitemap';
 import backlinks from './astro.backlinks.ts';
 import remarkWikiLinks from './remark-wikilinks.ts';
 
+import cloudflare from "@astrojs/cloudflare";
+
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://devonmeadows.com',
-	markdown: {
+    site: 'https://devonmeadows.com',
+
+    markdown: {
 		remarkPlugins: [remarkWikiLinks],
 	},
-	integrations: [
+
+    integrations: [
 		tailwind({
 			// Don't apply Tailwind's base styles - preserve our design system
 			applyBaseStyles: false,
@@ -22,5 +26,7 @@ export default defineConfig({
 			lastmod: new Date(),
 		}),
 	],
-});
 
+    output: "hybrid",
+    adapter: cloudflare()
+});
