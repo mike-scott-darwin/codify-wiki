@@ -8,7 +8,7 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://devonmeadows.com',
+    site: 'https://codify-wiki.michael-a6c.workers.dev',
 
     markdown: {
 		remarkPlugins: [remarkWikiLinks],
