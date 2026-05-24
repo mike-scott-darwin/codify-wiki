@@ -1,34 +1,30 @@
 ---
-title: "My Working Notes"
-created: 2026-01-21
+title: "Working Notes"
+created: 2026-05-24
 visibility: public
 status: live
 tags: [home, welcome]
 aliases: ["home", "welcome"]
-summary: "Welcome to my working notes. A public wiki of ideas in progress."
+summary: "Working notes from building Codify — marketing infrastructure for the agentic era."
 ---
 
-Welcome to my working notes.
+These are working notes from building [[Codify]] — marketing infrastructure for the agentic era.
 
-This is a public wiki built with [[Commune]] — a platform for sharing your thinking without algorithmic feeds. Just your ideas, connected by [[Evergreen Notes|explicit links]].
+Not polished posts. Atomic notes connected by [[WikiLinks]]. Ideas in progress, decisions in the open, frameworks I'm using on real client work.
 
-## How This Works
+## What's here
 
-Every note here follows the [[Atomic Notes]] principle: one idea per note. Notes connect to each other through [[Associative linking over hierarchies|WikiLinks]], not folders. The result is a network of thoughts that grows organically.
+- **Mechanism notes** — how a swarm of AI agents shares one brain that compounds
+- **Field notes** — what's working and what's not on real outbound campaigns
+- **Decision rationales** — why we pivoted, why we picked one frame over another
+- **Working drafts** — half-formed ideas before they get codified
 
-## Start Exploring
+## How it works
 
-**Core concepts:**
-- [[Evergreen Notes]] — Notes that compound value over time
-- [[Atomic Notes]] — One idea per note
-- [[Build in Public]] — Share the messy process, not just polished outputs
+One concept per note. Links between concepts instead of folders. Month 6 should outperform month 1 — that's the test.
 
-**Influences:**
-- [[Andy Matuschak's Notes]] — The gold standard for public working notes
-- [[Zettelkasten Method]] — The original networked note system
+## Find me
 
-## Why Public?
-
-[[Learning in public accelerates growth]]. When you externalize your thinking, you sharpen it. Others can build on your ideas. You become discoverable to people interested in similar things.
-
-This wiki is an example of what you can build with [[Commune]].
+- X: [@mikescot](https://x.com/mikescot)
+- GitHub: [mike-scott-darwin](https://github.com/mike-scott-darwin)
+- Codify: [codify.build](https://codify.build)
