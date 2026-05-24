@@ -84,7 +84,7 @@ function getRelativeDate(dateString: string): string {
     <meta property="og:type" content="article" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:site_name" content="Commune" />
-    <meta property="og:image" content="https://wiki-codify.build/og-image.jpg" />
+    <meta property="og:image" content="https://wiki.codify.build/og-image.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     {data.created && <meta property="article:published_time" content={`${data.created}T00:00:00-07:00`} />}
@@ -94,13 +94,13 @@ function getRelativeDate(dateString: string): string {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={data.summary || title} />
-    <meta name="twitter:image" content="https://wiki-codify.build/og-image.jpg" />
+    <meta name="twitter:image" content="https://wiki.codify.build/og-image.jpg" />
 
     <!-- Author -->
     <meta name="author" content={data.author || 'Mike'} />
 
     <link rel="icon" type="image/png" href="/favicon-32x32.png" />
-    <PlausibleScript domain="wiki-codify.build" />
+    <PlausibleScript domain="wiki.codify.build" />
 
     <!-- JSON-LD Structured Data: Article + BreadcrumbList -->
     <script type="application/ld+json" set:html={JSON.stringify({
@@ -110,17 +110,17 @@ function getRelativeDate(dateString: string): string {
           "@type": "Article",
           "headline": title,
           "description": data.summary || title,
-          "image": "https://wiki-codify.build/og-image.jpg",
+          "image": "https://wiki.codify.build/og-image.jpg",
           "author": {
             "@type": "Person",
             "name": data.author || 'Mike',
-            "url": "https://wiki-codify.build/"
+            "url": "https://wiki.codify.build/"
           },
           "datePublished": `${data.created || data.updated}T00:00:00-07:00`,
           "dateModified": `${data.updated || data.created}T00:00:00-07:00`,
           "url": Astro.url.href,
           "isPartOf": {
-            "@id": "https://wiki-codify.build/#website"
+            "@id": "https://wiki.codify.build/#website"
           }
         },
         {
@@ -130,7 +130,7 @@ function getRelativeDate(dateString: string): string {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://wiki-codify.build/"
+              "item": "https://wiki.codify.build/"
             },
             {
               "@type": "ListItem",
