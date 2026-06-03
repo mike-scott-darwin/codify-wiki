@@ -1,280 +1,737 @@
 {
-  "/notes/andy-matuschaks-notes/": {
-    "slug": "/notes/andy-matuschaks-notes/",
-    "title": "Andy Matuschak's Notes",
+  "/notes/a-worked-example/": {
+    "slug": "/notes/a-worked-example/",
+    "title": "A worked example",
     "collection": "notes",
     "aliases": [
-      "Andy Matuschaks Notes"
+      "a-worked-example"
     ],
     "outbound": [
-      "/notes/evergreen-notes/",
-      "/notes/my-working-notes/",
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/what-is-commune/",
-      "/notes/build-in-public/"
+      "/notes/station-1-snapshot/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-graduation-walkthrough/",
+      "/notes/the-codify-case-study/",
+      "/notes/the-static-brain/"
     ],
     "inbound": [
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/atomic-notes/",
-      "/notes/evergreen-notes/",
-      "/notes/my-working-notes/",
-      "/notes/zettelkasten-method/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/how-codify-works/",
+      "/notes/research-step/",
+      "/notes/station-1-snapshot/",
+      "/notes/the-graduation-walkthrough/",
+      "/notes/writing-step/"
     ],
     "tags": [
-      "note-taking",
-      "knowledge-management",
-      "digital-gardens"
+      "proof",
+      "worked-example",
+      "snapshot",
+      "redline"
     ],
     "status": "live",
-    "updated": "2025-10-17T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z"
   },
-  "/notes/associative-linking-over-hierarchies/": {
-    "slug": "/notes/associative-linking-over-hierarchies/",
-    "title": "Associative linking over hierarchies",
+  "/notes/clients-while-you-sleep/": {
+    "slug": "/notes/clients-while-you-sleep/",
+    "title": "Clients while you sleep",
     "collection": "notes",
     "aliases": [
-      "associative ontologies",
-      "network thinking",
-      "non-hierarchical organization"
+      "clients-while-you-sleep"
     ],
     "outbound": [
-      "/notes/andy-matuschaks-notes/",
-      "/notes/evergreen-notes/",
-      "/notes/zettelkasten-method/"
+      "/notes/the-static-brain/",
+      "/notes/research-step/",
+      "/notes/writing-step/",
+      "/notes/outreach-step/",
+      "/notes/packaging-step/",
+      "/notes/review-step/",
+      "/notes/the-morning-brief/",
+      "/notes/the-compounding-loop/",
+      "/notes/a-worked-example/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/"
     ],
     "inbound": [
-      "/notes/andy-matuschaks-notes/",
-      "/notes/atomic-notes/",
-      "/notes/evergreen-notes/",
-      "/notes/my-working-notes/",
-      "/notes/titles-are-takeaways-not-labels/",
-      "/notes/zettelkasten-method/"
+      "/notes/a-worked-example/",
+      "/notes/how-codify-works/",
+      "/notes/outreach-step/",
+      "/notes/packaging-step/",
+      "/notes/research-step/",
+      "/notes/review-step/",
+      "/notes/station-1-snapshot/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-growing-library/",
+      "/notes/the-morning-brief/",
+      "/notes/what-changes/",
+      "/notes/writing-step/"
     ],
     "tags": [
-      "knowledge-management",
-      "organization",
-      "networks",
-      "thinking"
+      "flagship-play",
+      "mechanism"
     ],
     "status": "live",
-    "updated": "2025-10-15T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z",
+    "isStarred": true
   },
-  "/notes/atomic-notes/": {
-    "slug": "/notes/atomic-notes/",
-    "title": "Atomic Notes",
+  "/notes/common-questions/": {
+    "slug": "/notes/common-questions/",
+    "title": "Common questions",
     "collection": "notes",
     "aliases": [
-      "atomic",
-      "atomic-notes"
+      "common-questions"
     ],
     "outbound": [
-      "/notes/evergreen-notes/",
-      "/notes/titles-are-takeaways-not-labels/",
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/andy-matuschaks-notes/",
-      "/notes/build-in-public/"
+      "/notes/the-static-brain/",
+      "/notes/the-genius-with-amnesia/",
+      "/notes/the-compounding-loop/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/you-own-everything/",
+      "/notes/station-1-snapshot/",
+      "/notes/the-graduation-path/",
+      "/notes/who-its-for/"
     ],
     "inbound": [
-      "/notes/evergreen-notes/",
-      "/notes/my-working-notes/"
+      "/notes/how-codify-works/",
+      "/notes/who-its-for/"
     ],
     "tags": [
-      "writing",
-      "thinking"
+      "objections",
+      "faq"
     ],
     "status": "live",
-    "updated": "2025-10-17T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z"
   },
-  "/notes/build-in-public/": {
-    "slug": "/notes/build-in-public/",
-    "title": "Build in Public",
+  "/notes/how-codify-works/": {
+    "slug": "/notes/how-codify-works/",
+    "title": "How Codify Works",
     "collection": "notes",
     "aliases": [
-      "building in public",
-      "transparent development",
-      "open development"
+      "how-codify-works",
+      "start-here",
+      "how-it-works"
     ],
     "outbound": [
-      "/notes/what-is-commune/",
-      "/notes/evergreen-notes/",
-      "/notes/learning-in-public-accelerates-growth/"
+      "/notes/the-compounding-loop/",
+      "/notes/the-managed-service/",
+      "/notes/the-genius-with-amnesia/",
+      "/notes/what-changes/",
+      "/notes/the-graduation-path/",
+      "/notes/station-1-snapshot/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/",
+      "/notes/training-by-voice-note/",
+      "/notes/the-static-brain/",
+      "/notes/the-growing-library/",
+      "/notes/you-own-everything/",
+      "/notes/the-graduation-walkthrough/",
+      "/notes/a-worked-example/",
+      "/notes/the-codify-case-study/",
+      "/notes/who-its-for/",
+      "/notes/common-questions/"
     ],
-    "inbound": [
-      "/notes/andy-matuschaks-notes/",
-      "/notes/atomic-notes/",
-      "/notes/learning-in-public-accelerates-growth/",
-      "/notes/my-working-notes/"
-    ],
+    "inbound": [],
     "tags": [
-      "transparency",
-      "learning",
-      "community",
-      "entrepreneurship"
+      "moc",
+      "codify-flow"
     ],
     "status": "live",
-    "updated": "2025-10-17T00:00:00.000Z"
+    "updated": "2026-06-03T00:00:00.000Z"
   },
-  "/notes/evergreen-notes/": {
-    "slug": "/notes/evergreen-notes/",
-    "title": "Evergreen Notes",
+  "/notes/outreach-step/": {
+    "slug": "/notes/outreach-step/",
+    "title": "Outreach step",
     "collection": "notes",
     "aliases": [
-      "evergreen",
-      "evergreen-notes"
+      "outreach-step"
     ],
     "outbound": [
-      "/notes/atomic-notes/",
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/titles-are-takeaways-not-labels/",
-      "/notes/andy-matuschaks-notes/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/writing-step/",
+      "/notes/training-by-voice-note/",
+      "/notes/packaging-step/"
     ],
     "inbound": [
-      "/notes/andy-matuschaks-notes/",
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/atomic-notes/",
-      "/notes/build-in-public/",
-      "/notes/learning-in-public-accelerates-growth/",
-      "/notes/my-working-notes/",
-      "/notes/titles-are-takeaways-not-labels/",
-      "/notes/what-is-commune/",
-      "/notes/zettelkasten-method/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/packaging-step/",
+      "/notes/writing-step/"
     ],
     "tags": [
-      "writing",
-      "thinking",
-      "knowledge-management"
+      "play-step"
     ],
     "status": "live",
-    "updated": "2025-10-17T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z"
   },
-  "/notes/learning-in-public-accelerates-growth/": {
-    "slug": "/notes/learning-in-public-accelerates-growth/",
-    "title": "Learning in public accelerates growth",
-    "collection": "notes",
-    "aliases": [],
-    "outbound": [
-      "/notes/build-in-public/",
-      "/notes/what-is-commune/",
-      "/notes/evergreen-notes/"
-    ],
-    "inbound": [
-      "/notes/build-in-public/",
-      "/notes/my-working-notes/"
-    ],
-    "tags": [
-      "learning",
-      "public",
-      "feedback",
-      "growth"
-    ],
-    "status": "live"
-  },
-  "/notes/my-working-notes/": {
-    "slug": "/notes/my-working-notes/",
-    "title": "My Working Notes",
+  "/notes/packaging-step/": {
+    "slug": "/notes/packaging-step/",
+    "title": "Packaging step",
     "collection": "notes",
     "aliases": [
-      "home",
-      "welcome"
+      "packaging-step"
     ],
     "outbound": [
-      "/notes/what-is-commune/",
-      "/notes/evergreen-notes/",
-      "/notes/atomic-notes/",
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/build-in-public/",
-      "/notes/andy-matuschaks-notes/",
-      "/notes/zettelkasten-method/",
-      "/notes/learning-in-public-accelerates-growth/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/",
+      "/notes/review-step/",
+      "/notes/outreach-step/"
     ],
     "inbound": [
-      "/notes/andy-matuschaks-notes/",
-      "/notes/what-is-commune/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/outreach-step/",
+      "/notes/review-step/"
     ],
     "tags": [
-      "home",
-      "welcome"
-    ],
-    "status": "live"
-  },
-  "/notes/titles-are-takeaways-not-labels/": {
-    "slug": "/notes/titles-are-takeaways-not-labels/",
-    "title": "Titles are takeaways, not labels",
-    "collection": "notes",
-    "aliases": [
-      "note titles",
-      "takeaway titles",
-      "claim titles"
-    ],
-    "outbound": [
-      "/notes/evergreen-notes/",
-      "/notes/associative-linking-over-hierarchies/"
-    ],
-    "inbound": [
-      "/notes/atomic-notes/",
-      "/notes/evergreen-notes/"
-    ],
-    "tags": [
-      "writing",
-      "titles",
-      "clarity",
-      "claims"
+      "play-step"
     ],
     "status": "live",
-    "updated": "2025-10-15T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z"
   },
-  "/notes/what-is-commune/": {
-    "slug": "/notes/what-is-commune/",
-    "title": "Commune",
+  "/notes/research-step/": {
+    "slug": "/notes/research-step/",
+    "title": "Research step",
     "collection": "notes",
     "aliases": [
-      "commune",
-      "what is commune",
-      "about commune",
-      "commune platform"
+      "research-step"
     ],
     "outbound": [
-      "/notes/what-is-commune/",
-      "/notes/evergreen-notes/",
-      "/notes/my-working-notes/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/writing-step/",
+      "/notes/a-worked-example/",
+      "/notes/the-static-brain/"
     ],
     "inbound": [
-      "/notes/andy-matuschaks-notes/",
-      "/notes/build-in-public/",
-      "/notes/learning-in-public-accelerates-growth/",
-      "/notes/my-working-notes/",
-      "/notes/what-is-commune/",
-      "/notes/zettelkasten-method/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/writing-step/"
     ],
     "tags": [
-      "commune",
-      "platform",
-      "knowledge-sharing",
-      "working-in-public"
+      "play-step"
     ],
     "status": "live",
-    "updated": "2026-01-21T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z"
   },
-  "/notes/zettelkasten-method/": {
-    "slug": "/notes/zettelkasten-method/",
-    "title": "Zettelkasten Method",
+  "/notes/review-step/": {
+    "slug": "/notes/review-step/",
+    "title": "Review step",
     "collection": "notes",
-    "aliases": [],
+    "aliases": [
+      "review-step"
+    ],
     "outbound": [
-      "/notes/evergreen-notes/",
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/andy-matuschaks-notes/",
-      "/notes/what-is-commune/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/",
+      "/notes/the-static-brain/",
+      "/notes/packaging-step/"
     ],
     "inbound": [
-      "/notes/associative-linking-over-hierarchies/",
-      "/notes/my-working-notes/"
+      "/notes/clients-while-you-sleep/",
+      "/notes/packaging-step/"
     ],
     "tags": [
-      "note-taking",
-      "knowledge-management",
-      "methodology"
+      "play-step"
     ],
-    "status": "live"
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/station-1-snapshot/": {
+    "slug": "/notes/station-1-snapshot/",
+    "title": "Station 1 — Snapshot (free)",
+    "collection": "notes",
+    "aliases": [
+      "station-1-snapshot"
+    ],
+    "outbound": [
+      "/notes/the-static-brain/",
+      "/notes/station-2-codify/",
+      "/notes/the-graduation-path/",
+      "/notes/a-worked-example/",
+      "/notes/clients-while-you-sleep/"
+    ],
+    "inbound": [
+      "/notes/a-worked-example/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/station-2-codify/",
+      "/notes/the-graduation-path/",
+      "/notes/what-changes/"
+    ],
+    "tags": [
+      "station",
+      "offer",
+      "snapshot"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/station-2-codify/": {
+    "slug": "/notes/station-2-codify/",
+    "title": "Station 2 — Codify ($97/mo)",
+    "collection": "notes",
+    "aliases": [
+      "station-2-codify"
+    ],
+    "outbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/",
+      "/notes/the-static-brain/",
+      "/notes/training-by-voice-note/",
+      "/notes/the-compounding-loop/",
+      "/notes/station-1-snapshot/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-graduation-path/"
+    ],
+    "inbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/station-1-snapshot/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-graduation-path/",
+      "/notes/the-graduation-walkthrough/"
+    ],
+    "tags": [
+      "station",
+      "offer",
+      "codify"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/station-3-orchestrate/": {
+    "slug": "/notes/station-3-orchestrate/",
+    "title": "Station 3 — Orchestrate ($497/mo)",
+    "collection": "notes",
+    "aliases": [
+      "station-3-orchestrate"
+    ],
+    "outbound": [
+      "/notes/station-2-codify/",
+      "/notes/the-morning-brief/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-graduation-path/",
+      "/notes/you-own-everything/",
+      "/notes/clients-while-you-sleep/"
+    ],
+    "inbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/station-2-codify/",
+      "/notes/the-graduation-path/",
+      "/notes/the-graduation-walkthrough/"
+    ],
+    "tags": [
+      "station",
+      "offer",
+      "orchestrate"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-codify-case-study/": {
+    "slug": "/notes/the-codify-case-study/",
+    "title": "The Codify case study",
+    "collection": "notes",
+    "aliases": [
+      "the-codify-case-study"
+    ],
+    "outbound": [
+      "/notes/the-static-brain/",
+      "/notes/the-compounding-loop/",
+      "/notes/who-its-for/"
+    ],
+    "inbound": [
+      "/notes/a-worked-example/",
+      "/notes/how-codify-works/",
+      "/notes/who-its-for/"
+    ],
+    "tags": [
+      "proof",
+      "case-study"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-compounding-loop/": {
+    "slug": "/notes/the-compounding-loop/",
+    "title": "The compounding loop",
+    "collection": "notes",
+    "aliases": [
+      "the-compounding-loop"
+    ],
+    "outbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/",
+      "/notes/training-by-voice-note/",
+      "/notes/the-static-brain/",
+      "/notes/the-growing-library/"
+    ],
+    "inbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-codify-case-study/",
+      "/notes/the-genius-with-amnesia/",
+      "/notes/the-graduation-path/",
+      "/notes/the-graduation-walkthrough/",
+      "/notes/the-growing-library/",
+      "/notes/the-morning-brief/",
+      "/notes/the-static-brain/",
+      "/notes/training-by-voice-note/",
+      "/notes/what-changes/"
+    ],
+    "tags": [
+      "concept",
+      "compounding"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z",
+    "isStarred": true
+  },
+  "/notes/the-genius-with-amnesia/": {
+    "slug": "/notes/the-genius-with-amnesia/",
+    "title": "The genius with amnesia",
+    "collection": "notes",
+    "aliases": [
+      "the-genius-with-amnesia"
+    ],
+    "outbound": [
+      "/notes/what-changes/",
+      "/notes/the-static-brain/",
+      "/notes/the-compounding-loop/"
+    ],
+    "inbound": [
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/the-static-brain/",
+      "/notes/what-changes/",
+      "/notes/who-its-for/"
+    ],
+    "tags": [
+      "problem",
+      "concept"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-graduation-path/": {
+    "slug": "/notes/the-graduation-path/",
+    "title": "The graduation path",
+    "collection": "notes",
+    "aliases": [
+      "the-graduation-path"
+    ],
+    "outbound": [
+      "/notes/station-1-snapshot/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/you-own-everything/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-graduation-walkthrough/"
+    ],
+    "inbound": [
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/station-1-snapshot/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-graduation-walkthrough/",
+      "/notes/what-changes/",
+      "/notes/who-its-for/",
+      "/notes/you-own-everything/"
+    ],
+    "tags": [
+      "concept",
+      "graduation",
+      "offer"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-graduation-walkthrough/": {
+    "slug": "/notes/the-graduation-walkthrough/",
+    "title": "The graduation walkthrough",
+    "collection": "notes",
+    "aliases": [
+      "the-graduation-walkthrough"
+    ],
+    "outbound": [
+      "/notes/the-graduation-path/",
+      "/notes/a-worked-example/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-static-brain/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/"
+    ],
+    "inbound": [
+      "/notes/a-worked-example/",
+      "/notes/how-codify-works/",
+      "/notes/the-graduation-path/"
+    ],
+    "tags": [
+      "proof",
+      "worked-example",
+      "graduation"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-growing-library/": {
+    "slug": "/notes/the-growing-library/",
+    "title": "The growing library",
+    "collection": "notes",
+    "aliases": [
+      "the-growing-library"
+    ],
+    "outbound": [
+      "/notes/the-static-brain/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-compounding-loop/",
+      "/notes/you-own-everything/"
+    ],
+    "inbound": [
+      "/notes/how-codify-works/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-static-brain/",
+      "/notes/you-own-everything/"
+    ],
+    "tags": [
+      "concept",
+      "mechanism",
+      "substrate"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-managed-service/": {
+    "slug": "/notes/the-managed-service/",
+    "title": "We run it — you never touch the machinery",
+    "collection": "notes",
+    "aliases": [
+      "the-managed-service"
+    ],
+    "outbound": [
+      "/notes/the-morning-brief/",
+      "/notes/training-by-voice-note/",
+      "/notes/you-own-everything/"
+    ],
+    "inbound": [
+      "/notes/how-codify-works/"
+    ],
+    "tags": [
+      "concept",
+      "managed-service",
+      "experience"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-morning-brief/": {
+    "slug": "/notes/the-morning-brief/",
+    "title": "The morning brief",
+    "collection": "notes",
+    "aliases": [
+      "the-morning-brief"
+    ],
+    "outbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/training-by-voice-note/",
+      "/notes/the-compounding-loop/"
+    ],
+    "inbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/how-codify-works/",
+      "/notes/packaging-step/",
+      "/notes/review-step/",
+      "/notes/station-2-codify/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-managed-service/",
+      "/notes/training-by-voice-note/"
+    ],
+    "tags": [
+      "concept",
+      "interface",
+      "experience"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-static-brain/": {
+    "slug": "/notes/the-static-brain/",
+    "title": "The static brain",
+    "collection": "notes",
+    "aliases": [
+      "the-static-brain"
+    ],
+    "outbound": [
+      "/notes/the-genius-with-amnesia/",
+      "/notes/the-growing-library/",
+      "/notes/the-compounding-loop/",
+      "/notes/training-by-voice-note/",
+      "/notes/you-own-everything/"
+    ],
+    "inbound": [
+      "/notes/a-worked-example/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/research-step/",
+      "/notes/review-step/",
+      "/notes/station-1-snapshot/",
+      "/notes/station-2-codify/",
+      "/notes/the-codify-case-study/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-genius-with-amnesia/",
+      "/notes/the-graduation-walkthrough/",
+      "/notes/the-growing-library/",
+      "/notes/training-by-voice-note/",
+      "/notes/what-changes/",
+      "/notes/you-own-everything/"
+    ],
+    "tags": [
+      "mechanism",
+      "concept",
+      "substrate"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z",
+    "isStarred": true
+  },
+  "/notes/training-by-voice-note/": {
+    "slug": "/notes/training-by-voice-note/",
+    "title": "Training by voice note",
+    "collection": "notes",
+    "aliases": [
+      "training-by-voice-note"
+    ],
+    "outbound": [
+      "/notes/the-morning-brief/",
+      "/notes/the-static-brain/",
+      "/notes/the-compounding-loop/"
+    ],
+    "inbound": [
+      "/notes/how-codify-works/",
+      "/notes/outreach-step/",
+      "/notes/station-2-codify/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-managed-service/",
+      "/notes/the-morning-brief/",
+      "/notes/the-static-brain/"
+    ],
+    "tags": [
+      "concept",
+      "experience",
+      "training"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/what-changes/": {
+    "slug": "/notes/what-changes/",
+    "title": "What changes",
+    "collection": "notes",
+    "aliases": [
+      "what-changes"
+    ],
+    "outbound": [
+      "/notes/the-genius-with-amnesia/",
+      "/notes/the-static-brain/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-graduation-path/",
+      "/notes/station-1-snapshot/"
+    ],
+    "inbound": [
+      "/notes/how-codify-works/",
+      "/notes/the-genius-with-amnesia/"
+    ],
+    "tags": [
+      "concept",
+      "transformation"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/who-its-for/": {
+    "slug": "/notes/who-its-for/",
+    "title": "Who it's for",
+    "collection": "notes",
+    "aliases": [
+      "who-its-for"
+    ],
+    "outbound": [
+      "/notes/the-genius-with-amnesia/",
+      "/notes/common-questions/",
+      "/notes/the-graduation-path/",
+      "/notes/the-codify-case-study/"
+    ],
+    "inbound": [
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/the-codify-case-study/"
+    ],
+    "tags": [
+      "audience",
+      "fit"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/writing-step/": {
+    "slug": "/notes/writing-step/",
+    "title": "Writing step",
+    "collection": "notes",
+    "aliases": [
+      "writing-step"
+    ],
+    "outbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/research-step/",
+      "/notes/a-worked-example/",
+      "/notes/outreach-step/"
+    ],
+    "inbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/outreach-step/",
+      "/notes/research-step/"
+    ],
+    "tags": [
+      "play-step"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/you-own-everything/": {
+    "slug": "/notes/you-own-everything/",
+    "title": "You own everything",
+    "collection": "notes",
+    "aliases": [
+      "you-own-everything"
+    ],
+    "outbound": [
+      "/notes/the-static-brain/",
+      "/notes/the-growing-library/",
+      "/notes/the-graduation-path/"
+    ],
+    "inbound": [
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/station-3-orchestrate/",
+      "/notes/the-graduation-path/",
+      "/notes/the-growing-library/",
+      "/notes/the-managed-service/",
+      "/notes/the-static-brain/"
+    ],
+    "tags": [
+      "concept",
+      "sovereignty"
+    ],
+    "status": "live",
+    "updated": "2026-05-30T00:00:00.000Z"
   }
 }

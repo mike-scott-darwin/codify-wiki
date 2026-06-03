@@ -11,7 +11,7 @@ import PlausibleScript from '../components/PlausibleScript.astro';
 import '../styles/design-system.css';
 import '../styles/notes.css';
 
-const entry = await getEntry('notes', 'my-working-notes');
+const entry = await getEntry('notes', 'how-codify-works');
 if (!entry) throw new Error('Home note not found');
 const { Content } = await entry.render();
 const { slug, data } = entry;
