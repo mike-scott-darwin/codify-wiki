@@ -551,6 +551,7 @@
       "/notes/station-3-orchestrate/",
       "/notes/the-compounding-loop/",
       "/notes/the-managed-service/",
+      "/notes/the-privacy-line/",
       "/notes/training-by-voice-note/"
     ],
     "tags": [
@@ -560,6 +561,27 @@
     ],
     "status": "live",
     "updated": "2026-05-30T00:00:00.000Z"
+  },
+  "/notes/the-privacy-line/": {
+    "slug": "/notes/the-privacy-line/",
+    "title": "The privacy line",
+    "collection": "notes",
+    "aliases": [
+      "the-privacy-line"
+    ],
+    "outbound": [
+      "/notes/the-static-brain/",
+      "/notes/you-own-everything/",
+      "/notes/the-morning-brief/"
+    ],
+    "inbound": [],
+    "tags": [
+      "concept",
+      "sovereignty",
+      "trust"
+    ],
+    "status": "live",
+    "updated": "2026-06-11T00:00:00.000Z"
   },
   "/notes/the-static-brain/": {
     "slug": "/notes/the-static-brain/",
@@ -589,6 +611,7 @@
       "/notes/the-genius-with-amnesia/",
       "/notes/the-graduation-walkthrough/",
       "/notes/the-growing-library/",
+      "/notes/the-privacy-line/",
       "/notes/training-by-voice-note/",
       "/notes/what-changes/",
       "/notes/you-own-everything/"
@@ -725,6 +748,7 @@
       "/notes/the-graduation-path/",
       "/notes/the-growing-library/",
       "/notes/the-managed-service/",
+      "/notes/the-privacy-line/",
       "/notes/the-static-brain/"
     ],
     "tags": [
