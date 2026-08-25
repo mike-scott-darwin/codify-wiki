@@ -806,6 +806,32 @@ function getRelativeDate(dateString: string): string {
   /* --- Typography (Existing styles, optimized) --- */
   /* Keep your existing .prose styles here */
   .prose{font-size:1.05rem;line-height:1.7;color:var(--c-text)}
+  /* Images. Added 2026-08-25 — there was NO img rule anywhere in this template,
+     so every image rendered at its intrinsic pixel width and overflowed the prose
+     column, clipped at the right edge. Affected every note that ever had one. */
+  .prose img{
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin:1.5rem auto;
+    border:1px solid var(--c-border);
+    border-radius:10px;
+  }
+  /* Full-page screenshots are ~1200x5400 — at max-width:100% they'd run for
+     several screens. Cap them and let the reader scroll inside the frame. */
+  .prose p:has(> img[src$="-rebuild.jpg"]){
+    max-height:32rem;
+    overflow-y:auto;
+    border:1px solid var(--c-border);
+    border-radius:10px;
+    background:var(--c-bg-soft);
+    margin:1.5rem 0;
+  }
+  .prose p:has(> img[src$="-rebuild.jpg"]) img{
+    margin:0;
+    border:0;
+    border-radius:0;
+  }
   .prose a{
     color:var(--c-accent) !important;
     text-decoration:none;
