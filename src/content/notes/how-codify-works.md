@@ -88,6 +88,8 @@ A sequence, not a menu. And ownership lands at the Build, not at the top. → [[
 
 ### 4 · What makes it different
 - [[the-static-brain]] — your four reference files, the part that holds your voice
+  - [[your-voice]] · [[your-audience]] · [[your-offer]] · [[your-beliefs]] — one page each: what's in it, why it matters, what breaks without it
+- [[the-alignment-map]] — everywhere your marketing currently disagrees with itself, on one page
 - [[the-growing-library]] — every run indexed, the part that holds what's worked
 - [[the-compounding-loop]] — why month six outperforms month one
 - [[you-own-everything]] — files you keep, no lock-in, yours from the Build

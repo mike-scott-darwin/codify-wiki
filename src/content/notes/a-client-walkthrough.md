@@ -1,7 +1,7 @@
 ---
 title: "A client walkthrough"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
 updated: 2026-08-25
 tags: [proof, walkthrough, offer]
@@ -29,10 +29,11 @@ This is the on-ramp, and it costs nothing. It proves the method on one page. →
 
 The Snapshot proved one page from the outside. The Build is two conversations that get what's actually in the owner's head onto paper — then finishes the job:
 
-- **Four documents they own outright** — voice, customers, offer, beliefs. Theirs whether or not they continue.
+- **Four documents they own outright** — [[your-voice|voice]], [[your-audience|customers]], [[your-offer|offer]], [[your-beliefs|beliefs]]. Theirs whether or not they continue. These are the source: everything after this gets written *from* them, and everything already out there gets measured *against* them.
 - **That homepage finished and deployed live**, not left as a prototype.
 - **An honest read of where their calls come from** — their own accounts, not a vendor's dashboard. For a remodeler that usually means the Google Business Profile is doing more work than the paid search nobody has audited in two years.
 - **Their backend wired and filled** — contacts, pipeline and email templates set up in the system they already run the business from, with real work already in it.
+- **[[the-alignment-map|The alignment map]]** — every page, profile, bio, email and proposal they already have out there, read against those four documents. For this remodeler: the About page still names a partner who left in 2021, the Google Business Profile description sells the trade they exited, and two directory listings carry a phone number that rings a disconnected line. Ranked by how many people see it. **A read, not a rewrite** — the list is the deliverable; working down it is the service.
 - **The drift receipt** — their homepage copy from 2019, 2022 and today, against what reviewers were saying each of those years. This is usually the part that lands hardest.
 
 **One extra kitchen job pays for this several times over.** That's the whole arithmetic, and it needs no belief in AI to follow.
@@ -43,6 +44,7 @@ The Snapshot proved one page from the outside. The Build is two conversations th
 
 The Build got it right once. Six months on, they've added a service, two crew, and forty new reviews — and the page is quietly drifting again. The service is what stops that:
 
+- **The alignment map worked down, line by line** — the list handed over at the Build, closed out in priority order rather than filed away.
 - **The four documents kept current** as the business actually changes.
 - **Homepage and owned copy kept true** to what customers say *now*.
 - **Reviews, replies, listings and the Google Business Profile** maintained — the boring, visible things that decide whether someone calls.
