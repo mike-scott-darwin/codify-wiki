@@ -9,10 +9,10 @@
     "outbound": [
       "/notes/the-three-rungs/",
       "/notes/a-worked-example/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/rung-2-the-service/",
       "/notes/the-compounding-loop/",
-      "/notes/the-static-brain/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/"
+      "/notes/rung-1-foundation-build/"
     ],
     "inbound": [
       "/notes/a-worked-example/",
@@ -21,8 +21,8 @@
     ],
     "tags": [
       "proof",
-      "worked-example",
-      "walkthrough"
+      "walkthrough",
+      "offer"
     ],
     "status": "live",
     "updated": "2026-08-25T00:00:00.000Z"
@@ -36,10 +36,9 @@
     ],
     "outbound": [
       "/notes/rung-0-snapshot/",
-      "/notes/clients-while-you-sleep/",
-      "/notes/a-client-walkthrough/",
-      "/notes/the-codify-case-study/",
-      "/notes/the-static-brain/"
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
+      "/notes/a-client-walkthrough/"
     ],
     "inbound": [
       "/notes/a-client-walkthrough/",
@@ -52,8 +51,7 @@
     "tags": [
       "proof",
       "worked-example",
-      "snapshot",
-      "redline"
+      "snapshot"
     ],
     "status": "live",
     "updated": "2026-08-25T00:00:00.000Z"
@@ -80,7 +78,7 @@
       "/notes/rung-1-foundation-build/"
     ],
     "inbound": [
-      "/notes/a-worked-example/",
+      "/notes/a-client-walkthrough/",
       "/notes/decision-gates/",
       "/notes/how-codify-works/",
       "/notes/outreach-step/",
@@ -340,6 +338,7 @@
     ],
     "inbound": [
       "/notes/a-client-walkthrough/",
+      "/notes/a-worked-example/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
@@ -372,6 +371,7 @@
     ],
     "inbound": [
       "/notes/a-client-walkthrough/",
+      "/notes/a-worked-example/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
@@ -390,7 +390,8 @@
       "rung"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z",
+    "isStarred": true
   },
   "/notes/the-codify-case-study/": {
     "slug": "/notes/the-codify-case-study/",
@@ -405,7 +406,6 @@
       "/notes/who-its-for/"
     ],
     "inbound": [
-      "/notes/a-worked-example/",
       "/notes/how-codify-works/",
       "/notes/who-its-for/"
     ],
@@ -596,8 +596,6 @@
       "/notes/you-own-everything/"
     ],
     "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/a-worked-example/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/decision-gates/",

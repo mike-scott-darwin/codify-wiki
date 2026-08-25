@@ -6,10 +6,10 @@ created: 2026-05-30
 updated: 2026-08-25
 tags: [concept, interface, experience]
 aliases: [the-morning-brief]
-summary: "This is your whole interface. No app, no dashboard, no terminal — just a message in WhatsApp every morning."
+summary: "No app, no dashboard, no terminal — a message in WhatsApp every morning, and the work itself sitting in the account you already run your business from."
 ---
 
-This is your whole interface. No app, no dashboard, no terminal — just a message in WhatsApp every morning.
+No app, no dashboard, no terminal — a message in WhatsApp every morning, and the work itself sitting in the account you already run your business from.
 
 The work runs, a person checks it, and a brief lands: *here's what we found, here's what's ready, here's the one call only you can make.* You skim it in about a minute, approve the ones you want, and reply with a voice note to fix anything off.
 

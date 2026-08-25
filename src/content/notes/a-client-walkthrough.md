@@ -4,64 +4,59 @@ visibility: public
 status: live
 created: 2026-05-30
 updated: 2026-08-25
-tags: [proof, worked-example, walkthrough]
+tags: [proof, walkthrough, offer]
 aliases: [a-client-walkthrough]
-summary: "One business, three stations. Here's the-three-rungs made concrete — the same med spa from a-worked-example, followed all the way up. Watch what."
+summary: "One business through all three rungs. Rung 0 is a real run; rungs 1 and 2 are worked illustrations, and this page says so up front."
 ---
 
-One business, three stations. Here's [[the-three-rungs]] made concrete — the same med spa from [[a-worked-example]], followed all the way up. Watch what stays constant: every station reads from the same brain, built from the same customer language. Nothing starts over.
+One business, all three rungs — [[the-three-rungs]] made concrete. Watch what stays constant: every line traces back to something a customer actually wrote.
+
+> **Read this first.** Rung 0 below is a **real, unprompted run** you can open right now. Rungs 1 and 2 are **worked illustrations** — real copy, built from the same mined reviews, showing what the later steps produce. **They are not a delivered engagement.** Nobody has yet bought the paid path, and we'd rather say that than dress a mockup up as a case study. When there's a real one, this page gets replaced.
 
 ## Rung 0 — Snapshot (free): the diagnosis
 
-We rebuilt their homepage from 36 of their own reviews and sent it. Free, unprompted. It found the gap — their headline sells volume; their customers buy *natural, no-pressure* results — and rewrote the above-the-fold to match.
+Real run. **Stonecraft Kitchen & Bath Remodeling**, Charlotte NC. We read 50 of their Google reviews and rebuilt their homepage from what was in them, then sent it unprompted.
 
-![The Snapshot redline](/umedspa-redline-full.png)
+It found the gap in five seconds: the word *"Charlotte"* appeared nowhere on their page, and the owner — named in 43 of 48 written reviews — wasn't on it either. Their customers were hiring **Sal**; their homepage was selling *"Stonecraft."*
 
-This is the on-ramp. It proves the method on one page. → full detail in [[a-worked-example]].
+![Stonecraft's homepage, rebuilt from their own reviews](/stonecraft-hero.jpg)
+
+This is the on-ramp, and it costs nothing. It proves the method on one page. → full detail in [[a-worked-example]], or open the [live rebuild](https://previews.codify.build/stonecraft-kitchen-bath-remodeling/).
 
 ## Rung 1 — the Foundation Build ($4,997, once): getting it written down
 
-The Snapshot proved one page. Codify runs the same review-grounded logic across their whole funnel, every week — and the brain only gets sharper as new reviews come in. Here's one week's output: three Meta ads, each hook lifted from a real customer review.
+*Worked illustration from here down.*
 
-![Week-one ad set from the Build](/umedspa-codify-adset.png)
+The Snapshot proved one page from the outside. The Build is two conversations that get what's actually in the owner's head onto paper — then finishes the job:
 
-The same week also produces, from the same corpus:
+- **Four documents they own outright** — voice, customers, offer, beliefs. Theirs whether or not they continue.
+- **That homepage finished and deployed live**, not left as a prototype.
+- **An honest read of where their calls come from** — their own accounts, not a vendor's dashboard. For a remodeler that usually means the Google Business Profile is doing more work than the paid search nobody has audited in two years.
+- **Their backend wired and filled** — contacts, pipeline and email templates set up in the system they already run the business from, with real work already in it.
+- **The drift receipt** — their homepage copy from 2019, 2022 and today, against what reviewers were saying each of those years. This is usually the part that lands hardest.
 
-- **3 email subject lines** for their list:
-  - *"you said you didn't want to look 'frozen' — read this"* (natural-look theme — Sanna H., Amber H.)
-  - *"first time? here's exactly what happens, and what we'll talk you out of"* (no-pressure — Debbie S., Ellen Y.)
-  - *"15 years, one 30-minute appointment"* (specific result — Jude B.)
-- **A refreshed landing-page hero**, updated as their review language shifts
-- **All of it approved from WhatsApp in a minute**, corrected by voice note
-
-Same logic as the free Snapshot, now applied properly across the business and written into documents they own outright.
+**One extra kitchen job pays for this several times over.** That's the whole arithmetic, and it needs no belief in AI to follow.
 
 ## Rung 2 — the service ($1,497/mo): keeping it true
 
-The Build got it right once; the service is what stops it drifting as their customers' language moves. The nightly prospecting engine shown below is **full-lane work — not in the published $1,497** — quoted on a call against how much of the business is handed over. Here's one real night's output — 14 pieces, all from the same review corpus, summarized in the WhatsApp brief U Med Spa would wake up to:
+*Worked illustration.*
 
-![The morning brief](/umedspa-morning-brief.png)
+The Build got it right once. Six months on, they've added a service, two crew, and forty new reviews — and the page is quietly drifting again. The service is what stops that:
 
-One 10pm–6am run produced:
+- **The four documents kept current** as the business actually changes.
+- **Homepage and owned copy kept true** to what customers say *now*.
+- **Reviews, replies, listings and the Google Business Profile** maintained — the boring, visible things that decide whether someone calls.
+- **Follow-up sequences kept in their voice.**
+- **A person reads every batch** before it reaches them.
 
-- **6 ads refreshed** against this week's reviews — nightly, not monthly
-- **A Moxi spring promo** — landing hero + launch email, drafted and staged
-- **2 follow-up sequences** — no-show winback (12) + 90-day lapsed (40), in their voice
-- **3 content pieces** — a before/after caption, an "is it going to look frozen?" FAQ, a membership blog
+> **The nightly prospecting engine is not in this price.** Going out and *finding* new business is [[clients-while-you-sleep|full-lane work]], quoted on a call against how much of the business gets handed over. The published $1,497 keeps what they already have true. → [[rung-2-the-service]]
 
-Notice the two things in the brief that *only* happen at this depth:
-
-1. **The editor caught a voice-rule violation.** The Moxi email led with price; the standing rule is *never lead with price.* It got rewritten to lead with the result before it ever reached the brief — a creator and a critic at every seat.
-2. **A one-line voice note changed the brain.** "Make the winback warmer" was saved — every future follow-up inherits it. The night made the next night sharper. → [[the-compounding-loop]]
-
-Same brain. Same reviews. Same voice. Just unthrottled, across the whole business. Full night's copy: `outputs/2026-05-30-umedspa-orchestrate-night.md`.
+And this is where the loop starts paying: a one-line voice note — *"stop calling it a remodel, they call it a reno"* — is saved once and inherited by every future output. → [[the-compounding-loop]]
 
 ## What this shows
 
-The free redline, the Build and the service are **the same system at three depths** — not three products. The brain you author in week one (your voice, your audience, your offer, built from your customers' own words — [[the-static-brain]]) is the thing that graduates with you. You don't start over at any station; you turn the dial up.
-
-> **Honest note:** the Snapshot artifacts are a real run (see [[a-worked-example]]). The Station-2 ad set and the Station-3 night are real copy built from the same mined reviews, rendered and screenshotted; the morning brief is a mockup of the WhatsApp interface, and "one night = 14 pieces" illustrates the breadth rather than capturing a live autonomous agent run.
+The free redline, the Build and the service are **the same system at three depths** — not three products. The documents authored at the Build are the same documents every later output reads from. Nothing starts over, and ownership lands at the Build rather than at the top.
 
 ---
 
-**Related:** [[the-three-rungs]] · [[a-worked-example]] · [[rung-1-foundation-build]] · [[rung-2-the-service]]
+**Related:** [[a-worked-example]] · [[the-three-rungs]] · [[rung-1-foundation-build]] · [[rung-2-the-service]]

@@ -1,4 +1,4 @@
-# robots.txt for devonmeadows.com
+# robots.txt for the Codify wiki
 # Allow LLM crawlers to index public wiki notes for citation and discovery
 
 # Default: Allow all crawlers
@@ -26,7 +26,7 @@ User-agent: CCBot
 Allow: /notes/
 
 # Sitemap location
-Sitemap: https://devonmeadows.com/sitemap-index.xml
+Sitemap: https://codify-wiki.michael-a6c.workers.dev/sitemap-index.xml
 
 # Crawl-delay for respectful indexing
 Crawl-delay: 1

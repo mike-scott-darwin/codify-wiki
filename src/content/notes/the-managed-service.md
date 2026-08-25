@@ -18,7 +18,9 @@ Here is everything you actually touch:
 - **A morning brief in WhatsApp** — what ran, what a person already checked, what to approve. → [[the-morning-brief]]
 - **A voice note** when you want to change something. → [[training-by-voice-note]]
 
-That's the whole interface. One minute in the morning, a voice note when something's off.
+**And your own account** — every asset we produce gets written into the CRM and pipeline you already run your business from. Contacts, opportunities, email templates, pages. The brief tells you what landed; the account is where you look at it. Nothing is sent without you.
+
+That's the whole interface: one minute in the morning, a voice note when something's off, and the work sitting where you'd expect to find it.
 
 ## Why it's built this way
 
