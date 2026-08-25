@@ -25,6 +25,12 @@
   // Takes effect on `pnpm deploy` from a machine where `wrangler login` has run.
   // The Cloudflare Git integration that auto-deploys on push does NOT apply
   // wrangler.jsonc routes, so this needs one authenticated deploy to activate.
+  // MUST stay true. Defining `routes` disables the workers.dev subdomain by
+  // default — adding the route below took codify-wiki.michael-a6c.workers.dev
+  // to a 404 within minutes on 2026-08-25. That fallback URL is currently the
+  // ONLY working address for this site, so it is not optional.
+  "workers_dev": true,
+
   "routes": [
     { "pattern": "wiki.codify.build", "custom_domain": true }
   ]
