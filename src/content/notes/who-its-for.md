@@ -9,8 +9,6 @@ aliases: [who-its-for]
 summary: "Codify is for operators who want infrastructure, not one more tool to re-brief every Monday."
 ---
 
-# Who it's for
-
 Codify is for operators who want infrastructure, not one more tool to re-brief every Monday.
 
 ## It's for you if
@@ -29,7 +27,7 @@ Codify is for operators who want infrastructure, not one more tool to re-brief e
 - You want someone to take marketing off your plate entirely. We install a team for you to direct, not one that replaces your direction.
 - You're shopping for the cheapest cold-email VA. We cost more in month one and far less by month twelve, because the system sharpens while a VA resets every onboarding.
 
-Still deciding? → [[common-questions]] · [[the-graduation-path]]
+Still deciding? → [[common-questions]] · [[the-three-rungs]]
 
 ---
 

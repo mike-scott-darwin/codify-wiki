@@ -9,8 +9,6 @@ aliases: [the-compounding-loop]
 summary: "Most marketing decays. It needs constant re-briefing, fresh agencies, new tools. Yours improves. The reason is a loop that closes instead of just emitting."
 ---
 
-# The compounding loop
-
 Most marketing decays. It needs constant re-briefing, fresh agencies, new tools. Yours improves. The reason is a loop that closes instead of just emitting.
 
 Every night the work runs ([[clients-while-you-sleep]]). Every morning you review it ([[the-morning-brief]]). And then — this is the part that compounds — what you decide feeds back in:

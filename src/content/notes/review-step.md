@@ -9,8 +9,6 @@ aliases: [review-step]
 summary: "The last hand-off in clients-while-you-sleep, and the reason your morning review takes a minute instead of an hour."
 ---
 
-# Review step
-
 The last hand-off in [[clients-while-you-sleep]], and the reason your [[the-morning-brief|morning review]] takes a minute instead of an hour.
 
 Before anything reaches you, an editor checks the whole batch for voice and accuracy — catching anything off-voice or off-target. It reads [[the-static-brain]] and the rules you've taught it, and sends back anything that doesn't clear the bar.

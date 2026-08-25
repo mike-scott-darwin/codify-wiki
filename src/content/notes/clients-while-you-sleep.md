@@ -3,13 +3,11 @@ title: "Clients while you sleep"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [flagship-play, mechanism]
 aliases: [clients-while-you-sleep]
-summary: "The flagship play — the one use case every Codify client should be able to describe in sixty seconds. It's the overnight cold-outreach loop, and it's how Codify runs."
+summary: "The flagship play — the one use case every Codify client should be able to describe in sixty seconds. It's the overnight cold-outreach loop, and."
 ---
-
-# Clients while you sleep
 
 The flagship play — the one use case every Codify client should be able to describe in sixty seconds. It's the overnight cold-outreach loop, and it's how Codify runs.
 
@@ -21,7 +19,7 @@ The work happens hand-off by hand-off, every step reading from [[the-static-brai
 4. **Packaging** — bundles the deliverables, the email copy, and the recipient list into one package that lands in your brief, ready to drop into your own sender. → [[packaging-step]]
 5. **Review** — checks the whole batch for voice and accuracy before it ever reaches you, so what lands in your brief is worth your time. → [[review-step]]
 
-By morning it's all waiting in [[the-morning-brief]]. One-minute review. Activate the ones you want. Every reply that comes back through the day teaches the system — that's [[the-compounding-loop]].
+By morning it's all waiting in [[the-morning-brief]]. One-minute review. Activate the ones you want. Some mornings the run also hits a fork only your judgment settles — which niche to attack next, which angle to lead with — so the brief stacks it as a one-tap [[decision-gates|decision gate]] instead of guessing. The run never pauses overnight to wait on you: it pushes every branch it can and brings the one call it can't to your morning. Every reply that comes back through the day teaches the system — that's [[the-compounding-loop]].
 
 See it made concrete in [[a-worked-example]] — this play's deliverable, run on a real prospect.
 
@@ -31,11 +29,14 @@ Real work, already done, shows up in the prospect's inbox before you do. Right n
 
 ## Where it runs
 
-- At [[station-2-codify]] ($97/mo), this play runs once a week — your first installed agent.
-- At [[station-3-orchestrate]] ($497/mo), it runs every night across every niche you sell into — plus the rest of your business on the same swarm.
+**This play is not in the published $1,497.** It's the part that goes out and *finds* you new business, and it's quoted on a call against how much of your business you hand over — never listed as a tier with a price on it.
+
+What the published price covers is keeping what you already have true: your documents, your homepage, your reviews and listings, your follow-up. → [[rung-2-the-service]]
+
+And whichever lane it runs in, **a person reads every batch before it reaches you.** Nothing here is unattended.
 
 > **On your sender:** we package the bundle and hand it to you. You drop it into your own tool (Instantly, Smartlead, Gmail) and push when you approve. We never touch your sender or manage your deliverability. You own the channel.
 
 ---
 
-**Related:** [[station-2-codify]] · [[station-3-orchestrate]] · [[the-morning-brief]] · [[the-compounding-loop]]
+**Related:** [[rung-1-foundation-build]] · [[rung-2-the-service]] · [[the-morning-brief]] · [[the-compounding-loop]]

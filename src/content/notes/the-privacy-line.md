@@ -9,8 +9,6 @@ aliases: [the-privacy-line]
 summary: "Your brain is private. Your marketing is public. The system checks the line every time something goes out."
 ---
 
-# The privacy line
-
 Your brain is private. Your marketing is public. The system checks the line every time something goes out.
 
 This week we audited every skill in the system — all 45 of them — against one question: *can private business context ever leak into a public channel?* Where the answer wasn't a hard no, we fixed it.

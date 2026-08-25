@@ -3,13 +3,11 @@ title: "Training by voice note"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [concept, experience, training]
 aliases: [training-by-voice-note]
 summary: "You don't tune the system with settings. You tune it the way you'd correct a sharp new hire — by telling it what was off."
 ---
-
-# Training by voice note
 
 You don't tune the system with settings. You tune it the way you'd correct a sharp new hire — by telling it what was off.
 

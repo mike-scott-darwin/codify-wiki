@@ -9,8 +9,6 @@ aliases: [the-genius-with-amnesia]
 summary: "Every AI you've used is brilliant but blind. It doesn't know your voice, your audience, your offer, or what's worked. So every morning you talk to a genius with amnesia."
 ---
 
-# The genius with amnesia
-
 Every AI you've used is brilliant but blind. It doesn't know your voice, your audience, your offer, or what's worked. So every morning you talk to **a genius with amnesia.**
 
 You open a new chat and spend twenty minutes re-explaining your business before you get to the work. The first draft comes back generic. You rewrite it yourself on the second. Nothing it learns today survives until tomorrow — Friday it's forgotten everything Monday taught it, and Monday you start over.

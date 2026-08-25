@@ -9,8 +9,6 @@ aliases: [the-managed-service]
 summary: "Codify is a managed service. Not software you operate. Not a tool you learn."
 ---
 
-# We run it — you never touch the machinery
-
 Codify is a **managed service.** Not software you operate. Not a tool you learn.
 
 Under the hood there's a command line, a set of skills, a vault, and a whole team of agents. **You never open any of it.** No terminal. No dashboard to log into. No app to install. No "agent" to configure. We run all of it on your behalf.

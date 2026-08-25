@@ -9,8 +9,6 @@ aliases: [writing-step]
 summary: "The second hand-off in clients-while-you-sleep."
 ---
 
-# Writing step
-
 The second hand-off in [[clients-while-you-sleep]]. The writer takes the [[research-step|research]] and produces a real deliverable for each prospect, grounded in your offer — custom work, as close to new revenue for them as possible.
 
 Not a generic audit. What it builds depends on what your offer proves:

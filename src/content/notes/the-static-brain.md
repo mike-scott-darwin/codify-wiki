@@ -9,8 +9,6 @@ aliases: [the-static-brain]
 summary: "Your business knowledge lives in four short documents:"
 ---
 
-# The static brain
-
 Your business knowledge lives in four short documents:
 
 - **Your voice** — how you sound, the words you use, the words you never use

@@ -3,13 +3,11 @@ title: "You own everything"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [concept, sovereignty]
 aliases: [you-own-everything]
 summary: "Your knowledge isn't rented to you. It's yours."
 ---
-
-# You own everything
 
 Your knowledge isn't rented to you. It's yours.
 
@@ -22,8 +20,8 @@ Your knowledge isn't rented to you. It's yours.
 
 Most AI tools tune your knowledge to fit *their* software — what makes their product work, not what makes your next decision better. A brain you own is organized for one thing: your business. That's the difference between a subscription you're trapped in and infrastructure you direct.
 
-It's also what makes [[the-graduation-path]] honest — you can leave at any station with everything you've built. We keep your business because the work compounds, not because we hold your data.
+It's also what makes [[the-three-rungs]] honest — you can leave at any station with everything you've built. We keep your business because the work compounds, not because we hold your data.
 
 ---
 
-**Related:** [[the-static-brain]] · [[the-growing-library]] · [[the-graduation-path]]
+**Related:** [[the-static-brain]] · [[the-growing-library]] · [[the-three-rungs]]

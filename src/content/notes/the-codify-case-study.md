@@ -9,8 +9,6 @@ aliases: [the-codify-case-study]
 summary: "This isn't theory. We built a business on this system before we built the product."
 ---
 
-# The Codify case study
-
 This isn't theory. We built a business on this system before we built the product.
 
 | | |

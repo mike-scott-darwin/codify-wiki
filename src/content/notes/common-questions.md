@@ -3,13 +3,11 @@ title: "Common questions"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [objections, faq]
 aliases: [common-questions]
-summary: "'I can just use ChatGPT.' It doesn't know your business. It's generic because it has zero context about your expertise. Codify fixes that permanently — every output reads from the-static-brain first."
+summary: "It doesn't know your business. It's generic because it has zero context about your expertise. Codify fixes that permanently — every output reads."
 ---
-
-# Common questions
 
 **"I can just use ChatGPT."**
 It doesn't know your business. It's generic because it has zero context about your expertise. Codify fixes that permanently — every output reads from [[the-static-brain]] first.
@@ -23,18 +21,18 @@ It can't curate its own context. Research showed AI-generated context files made
 **"Why not hire an AI consultant?"**
 A consultant gives you a report that's stale in three months. Codify gives you a system that compounds. → [[the-compounding-loop]]
 
-**"$97/mo for one agent?"**
-You're not paying for AI output — the agent does the LLM-priced work. You're paying for judgment, relationship, taste, and accountability — the four things that don't compress. → [[station-2-codify]]
+**"$1,497/mo — what am I actually paying for?"**
+You're not paying for AI output — the agent does the LLM-priced work. You're paying for judgment, relationship, taste, and accountability — the four things that don't compress. → [[rung-1-foundation-build]]
 
 **"Do I have to take calls?"**
-At [[station-2-codify|Codify]] ($97), no — onboarding is a few WhatsApp questions, then you live in the morning brief. At [[station-3-orchestrate|Orchestrate]] ($497), yes — bi-weekly for 90 days, where your voice files get sharp.
+One a month, and it exists because voice gets sharp on a call and nowhere else. Onboarding itself is a couple of WhatsApp questions — after that you live in the morning message. (If you take on the wider scope, calls go to bi-weekly for the first 90 days.)
 
 **"What if I stop using it?"**
 Your files are yours. Keep everything. The system keeps working. → [[you-own-everything]]
 
-**"Which station should I pick?"**
-Start free with [[station-1-snapshot]]. Most move to Codify. Orchestrate is for those ready to run a full team. → [[the-graduation-path]]
+**"Which rung should I start at?"**
+There's only one place to start: [[rung-0-snapshot]], free. After that it's a sequence, not a menu — the [[rung-1-foundation-build|Build]] writes your business down, and [[rung-2-the-service|the service]] keeps it true. You can't sensibly do the second without the first. → [[the-three-rungs]]
 
 ---
 
-**Related:** [[who-its-for]] · [[you-own-everything]] · [[the-graduation-path]]
+**Related:** [[who-its-for]] · [[you-own-everything]] · [[the-three-rungs]]

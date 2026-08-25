@@ -3,13 +3,11 @@ title: "What changes"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [concept, transformation]
 aliases: [what-changes]
 summary: "The fix for the-genius-with-amnesia is simple to say and it changes everything: capture your expertise once, and everything reads from it after."
 ---
-
-# What changes
 
 The fix for [[the-genius-with-amnesia]] is simple to say and it changes everything: **capture your expertise once, and everything reads from it after.**
 
@@ -29,8 +27,8 @@ You stop being the marketer and start directing one. Five minutes a day on the m
 
 ## Where it starts
 
-You don't buy the whole thing on day one. You [[the-graduation-path|graduate]] as the system earns the next level — starting free with [[station-1-snapshot]].
+You don't buy the whole thing on day one. You [[the-three-rungs|graduate]] as the system earns the next level — starting free with [[rung-0-snapshot]].
 
 ---
 
-**Related:** [[the-genius-with-amnesia]] · [[the-static-brain]] · [[the-graduation-path]] · [[the-compounding-loop]]
+**Related:** [[the-genius-with-amnesia]] · [[the-static-brain]] · [[the-three-rungs]] · [[the-compounding-loop]]

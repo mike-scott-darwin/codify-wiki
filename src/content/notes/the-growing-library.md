@@ -9,8 +9,6 @@ aliases: [the-growing-library]
 summary: "If the-static-brain is the part that holds who you are, the library is the part that holds what's been tried."
 ---
 
-# The growing library
-
 If [[the-static-brain]] is the part that holds who you are, the library is the part that holds **what's been tried.**
 
 Every prospect researched, every cold email sent, every reply received, every voice-note correction — it all gets recorded, cross-referenced, and indexed. It grows every night the work runs ([[clients-while-you-sleep]]). By month three you have hundreds of entries; by month twelve, thousands.

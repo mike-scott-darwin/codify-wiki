@@ -9,8 +9,6 @@ aliases: [packaging-step]
 summary: "The fourth hand-off in clients-while-you-sleep."
 ---
 
-# Packaging step
-
 The fourth hand-off in [[clients-while-you-sleep]]. The packager bundles the deliverables, the email copy, and the recipient list into one hand-off package — ready for you to drop into your own sender (Instantly, Smartlead, Gmail, whatever you use).
 
 > **We never touch your sender.** We hand you the bundle; you own the channel and you push. Codify doesn't manage your deliverability, your domain, or your warm-up — the work ends at *bundle delivered*.

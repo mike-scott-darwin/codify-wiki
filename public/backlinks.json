@@ -1,4 +1,32 @@
 {
+  "/notes/a-client-walkthrough/": {
+    "slug": "/notes/a-client-walkthrough/",
+    "title": "A client walkthrough",
+    "collection": "notes",
+    "aliases": [
+      "a-client-walkthrough"
+    ],
+    "outbound": [
+      "/notes/the-three-rungs/",
+      "/notes/a-worked-example/",
+      "/notes/the-compounding-loop/",
+      "/notes/the-static-brain/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/"
+    ],
+    "inbound": [
+      "/notes/a-worked-example/",
+      "/notes/how-codify-works/",
+      "/notes/the-three-rungs/"
+    ],
+    "tags": [
+      "proof",
+      "worked-example",
+      "walkthrough"
+    ],
+    "status": "live",
+    "updated": "2026-08-25T00:00:00.000Z"
+  },
   "/notes/a-worked-example/": {
     "slug": "/notes/a-worked-example/",
     "title": "A worked example",
@@ -7,18 +35,18 @@
       "a-worked-example"
     ],
     "outbound": [
-      "/notes/station-1-snapshot/",
+      "/notes/rung-0-snapshot/",
       "/notes/clients-while-you-sleep/",
-      "/notes/the-graduation-walkthrough/",
+      "/notes/a-client-walkthrough/",
       "/notes/the-codify-case-study/",
       "/notes/the-static-brain/"
     ],
     "inbound": [
+      "/notes/a-client-walkthrough/",
       "/notes/clients-while-you-sleep/",
       "/notes/how-codify-works/",
       "/notes/research-step/",
-      "/notes/station-1-snapshot/",
-      "/notes/the-graduation-walkthrough/",
+      "/notes/rung-0-snapshot/",
       "/notes/writing-step/"
     ],
     "tags": [
@@ -28,7 +56,7 @@
       "redline"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/clients-while-you-sleep/": {
     "slug": "/notes/clients-while-you-sleep/",
@@ -45,21 +73,22 @@
       "/notes/packaging-step/",
       "/notes/review-step/",
       "/notes/the-morning-brief/",
+      "/notes/decision-gates/",
       "/notes/the-compounding-loop/",
       "/notes/a-worked-example/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/"
+      "/notes/rung-2-the-service/",
+      "/notes/rung-1-foundation-build/"
     ],
     "inbound": [
       "/notes/a-worked-example/",
+      "/notes/decision-gates/",
       "/notes/how-codify-works/",
       "/notes/outreach-step/",
       "/notes/packaging-step/",
       "/notes/research-step/",
       "/notes/review-step/",
-      "/notes/station-1-snapshot/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-2-the-service/",
       "/notes/the-compounding-loop/",
       "/notes/the-growing-library/",
       "/notes/the-morning-brief/",
@@ -71,7 +100,7 @@
       "mechanism"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z",
+    "updated": "2026-08-25T00:00:00.000Z",
     "isStarred": true
   },
   "/notes/common-questions/": {
@@ -85,11 +114,11 @@
       "/notes/the-static-brain/",
       "/notes/the-genius-with-amnesia/",
       "/notes/the-compounding-loop/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
+      "/notes/rung-1-foundation-build/",
       "/notes/you-own-everything/",
-      "/notes/station-1-snapshot/",
-      "/notes/the-graduation-path/",
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-2-the-service/",
+      "/notes/the-three-rungs/",
       "/notes/who-its-for/"
     ],
     "inbound": [
@@ -101,7 +130,31 @@
       "faq"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
+  },
+  "/notes/decision-gates/": {
+    "slug": "/notes/decision-gates/",
+    "title": "Decision gates",
+    "collection": "notes",
+    "aliases": [
+      "decision-gates"
+    ],
+    "outbound": [
+      "/notes/training-by-voice-note/",
+      "/notes/the-static-brain/",
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/"
+    ],
+    "inbound": [
+      "/notes/clients-while-you-sleep/",
+      "/notes/the-morning-brief/"
+    ],
+    "tags": [
+      "mechanism",
+      "loop"
+    ],
+    "status": "live",
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/how-codify-works/": {
     "slug": "/notes/how-codify-works/",
@@ -117,17 +170,17 @@
       "/notes/the-managed-service/",
       "/notes/the-genius-with-amnesia/",
       "/notes/what-changes/",
-      "/notes/the-graduation-path/",
-      "/notes/station-1-snapshot/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
+      "/notes/the-three-rungs/",
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
       "/notes/clients-while-you-sleep/",
       "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
       "/notes/the-static-brain/",
       "/notes/the-growing-library/",
       "/notes/you-own-everything/",
-      "/notes/the-graduation-walkthrough/",
+      "/notes/a-client-walkthrough/",
       "/notes/a-worked-example/",
       "/notes/the-codify-case-study/",
       "/notes/who-its-for/",
@@ -139,7 +192,7 @@
       "codify-flow"
     ],
     "status": "live",
-    "updated": "2026-06-03T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/outreach-step/": {
     "slug": "/notes/outreach-step/",
@@ -235,17 +288,18 @@
     "status": "live",
     "updated": "2026-05-30T00:00:00.000Z"
   },
-  "/notes/station-1-snapshot/": {
-    "slug": "/notes/station-1-snapshot/",
-    "title": "Station 1 — Snapshot (free)",
+  "/notes/rung-0-snapshot/": {
+    "slug": "/notes/rung-0-snapshot/",
+    "title": "Rung 0 — Snapshot (free)",
     "collection": "notes",
     "aliases": [
-      "station-1-snapshot"
+      "rung-0-snapshot"
     ],
     "outbound": [
       "/notes/the-static-brain/",
-      "/notes/station-2-codify/",
-      "/notes/the-graduation-path/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
+      "/notes/the-three-rungs/",
       "/notes/a-worked-example/",
       "/notes/clients-while-you-sleep/"
     ],
@@ -253,82 +307,80 @@
       "/notes/a-worked-example/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
-      "/notes/station-2-codify/",
-      "/notes/the-graduation-path/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/the-three-rungs/",
       "/notes/what-changes/"
     ],
     "tags": [
-      "station",
       "offer",
-      "snapshot"
+      "snapshot",
+      "rung"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
-  "/notes/station-2-codify/": {
-    "slug": "/notes/station-2-codify/",
-    "title": "Station 2 — Codify ($97/mo)",
+  "/notes/rung-1-foundation-build/": {
+    "slug": "/notes/rung-1-foundation-build/",
+    "title": "Rung 1 — The Foundation Build ($4,997, once)",
     "collection": "notes",
     "aliases": [
-      "station-2-codify"
+      "rung-1-foundation-build"
     ],
     "outbound": [
-      "/notes/clients-while-you-sleep/",
-      "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
-      "/notes/training-by-voice-note/",
-      "/notes/the-compounding-loop/",
-      "/notes/station-1-snapshot/",
-      "/notes/station-3-orchestrate/",
-      "/notes/the-graduation-path/"
+      "/notes/rung-2-the-service/",
+      "/notes/the-three-rungs/",
+      "/notes/you-own-everything/",
+      "/notes/rung-0-snapshot/"
     ],
     "inbound": [
+      "/notes/a-client-walkthrough/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
-      "/notes/station-1-snapshot/",
-      "/notes/station-3-orchestrate/",
-      "/notes/the-graduation-path/",
-      "/notes/the-graduation-walkthrough/"
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-2-the-service/",
+      "/notes/the-three-rungs/"
     ],
     "tags": [
-      "station",
       "offer",
-      "codify"
+      "foundation-build",
+      "rung"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
-  "/notes/station-3-orchestrate/": {
-    "slug": "/notes/station-3-orchestrate/",
-    "title": "Station 3 — Orchestrate ($497/mo)",
+  "/notes/rung-2-the-service/": {
+    "slug": "/notes/rung-2-the-service/",
+    "title": "Rung 2 — The service ($1,497/mo)",
     "collection": "notes",
     "aliases": [
-      "station-3-orchestrate"
+      "rung-2-the-service"
     ],
     "outbound": [
-      "/notes/station-2-codify/",
-      "/notes/the-morning-brief/",
+      "/notes/training-by-voice-note/",
       "/notes/the-compounding-loop/",
-      "/notes/the-graduation-path/",
+      "/notes/the-three-rungs/",
       "/notes/you-own-everything/",
+      "/notes/rung-1-foundation-build/",
       "/notes/clients-while-you-sleep/"
     ],
     "inbound": [
+      "/notes/a-client-walkthrough/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
-      "/notes/station-2-codify/",
-      "/notes/the-graduation-path/",
-      "/notes/the-graduation-walkthrough/"
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/the-three-rungs/"
     ],
     "tags": [
-      "station",
       "offer",
-      "orchestrate"
+      "service",
+      "rung"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/the-codify-case-study/": {
     "slug": "/notes/the-codify-case-study/",
@@ -369,18 +421,17 @@
       "/notes/the-growing-library/"
     ],
     "inbound": [
+      "/notes/a-client-walkthrough/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
+      "/notes/rung-2-the-service/",
       "/notes/the-codify-case-study/",
       "/notes/the-genius-with-amnesia/",
-      "/notes/the-graduation-path/",
-      "/notes/the-graduation-walkthrough/",
       "/notes/the-growing-library/",
       "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
+      "/notes/the-three-rungs/",
       "/notes/training-by-voice-note/",
       "/notes/what-changes/"
     ],
@@ -389,8 +440,7 @@
       "compounding"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z",
-    "isStarred": true
+    "updated": "2026-05-30T00:00:00.000Z"
   },
   "/notes/the-genius-with-amnesia/": {
     "slug": "/notes/the-genius-with-amnesia/",
@@ -414,68 +464,6 @@
     "tags": [
       "problem",
       "concept"
-    ],
-    "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
-  },
-  "/notes/the-graduation-path/": {
-    "slug": "/notes/the-graduation-path/",
-    "title": "The graduation path",
-    "collection": "notes",
-    "aliases": [
-      "the-graduation-path"
-    ],
-    "outbound": [
-      "/notes/station-1-snapshot/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
-      "/notes/you-own-everything/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-graduation-walkthrough/"
-    ],
-    "inbound": [
-      "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/station-1-snapshot/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
-      "/notes/the-graduation-walkthrough/",
-      "/notes/what-changes/",
-      "/notes/who-its-for/",
-      "/notes/you-own-everything/"
-    ],
-    "tags": [
-      "concept",
-      "graduation",
-      "offer"
-    ],
-    "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
-  },
-  "/notes/the-graduation-walkthrough/": {
-    "slug": "/notes/the-graduation-walkthrough/",
-    "title": "The graduation walkthrough",
-    "collection": "notes",
-    "aliases": [
-      "the-graduation-walkthrough"
-    ],
-    "outbound": [
-      "/notes/the-graduation-path/",
-      "/notes/a-worked-example/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-static-brain/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/"
-    ],
-    "inbound": [
-      "/notes/a-worked-example/",
-      "/notes/how-codify-works/",
-      "/notes/the-graduation-path/"
-    ],
-    "tags": [
-      "proof",
-      "worked-example",
-      "graduation"
     ],
     "status": "live",
     "updated": "2026-05-30T00:00:00.000Z"
@@ -539,16 +527,16 @@
     ],
     "outbound": [
       "/notes/clients-while-you-sleep/",
+      "/notes/decision-gates/",
       "/notes/training-by-voice-note/",
       "/notes/the-compounding-loop/"
     ],
     "inbound": [
       "/notes/clients-while-you-sleep/",
+      "/notes/decision-gates/",
       "/notes/how-codify-works/",
       "/notes/packaging-step/",
       "/notes/review-step/",
-      "/notes/station-2-codify/",
-      "/notes/station-3-orchestrate/",
       "/notes/the-compounding-loop/",
       "/notes/the-managed-service/",
       "/notes/the-privacy-line/",
@@ -560,7 +548,7 @@
       "experience"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/the-privacy-line/": {
     "slug": "/notes/the-privacy-line/",
@@ -598,18 +586,19 @@
       "/notes/you-own-everything/"
     ],
     "inbound": [
+      "/notes/a-client-walkthrough/",
       "/notes/a-worked-example/",
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
+      "/notes/decision-gates/",
       "/notes/how-codify-works/",
       "/notes/research-step/",
       "/notes/review-step/",
-      "/notes/station-1-snapshot/",
-      "/notes/station-2-codify/",
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-1-foundation-build/",
       "/notes/the-codify-case-study/",
       "/notes/the-compounding-loop/",
       "/notes/the-genius-with-amnesia/",
-      "/notes/the-graduation-walkthrough/",
       "/notes/the-growing-library/",
       "/notes/the-privacy-line/",
       "/notes/training-by-voice-note/",
@@ -625,6 +614,40 @@
     "updated": "2026-05-30T00:00:00.000Z",
     "isStarred": true
   },
+  "/notes/the-three-rungs/": {
+    "slug": "/notes/the-three-rungs/",
+    "title": "The three rungs",
+    "collection": "notes",
+    "aliases": [
+      "the-three-rungs"
+    ],
+    "outbound": [
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
+      "/notes/you-own-everything/",
+      "/notes/the-compounding-loop/",
+      "/notes/a-client-walkthrough/"
+    ],
+    "inbound": [
+      "/notes/a-client-walkthrough/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/rung-0-snapshot/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
+      "/notes/what-changes/",
+      "/notes/who-its-for/",
+      "/notes/you-own-everything/"
+    ],
+    "tags": [
+      "concept",
+      "offer",
+      "ladder"
+    ],
+    "status": "live",
+    "updated": "2026-08-25T00:00:00.000Z"
+  },
   "/notes/training-by-voice-note/": {
     "slug": "/notes/training-by-voice-note/",
     "title": "Training by voice note",
@@ -638,9 +661,10 @@
       "/notes/the-compounding-loop/"
     ],
     "inbound": [
+      "/notes/decision-gates/",
       "/notes/how-codify-works/",
       "/notes/outreach-step/",
-      "/notes/station-2-codify/",
+      "/notes/rung-2-the-service/",
       "/notes/the-compounding-loop/",
       "/notes/the-managed-service/",
       "/notes/the-morning-brief/",
@@ -652,7 +676,7 @@
       "training"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/what-changes/": {
     "slug": "/notes/what-changes/",
@@ -666,8 +690,8 @@
       "/notes/the-static-brain/",
       "/notes/clients-while-you-sleep/",
       "/notes/the-compounding-loop/",
-      "/notes/the-graduation-path/",
-      "/notes/station-1-snapshot/"
+      "/notes/the-three-rungs/",
+      "/notes/rung-0-snapshot/"
     ],
     "inbound": [
       "/notes/how-codify-works/",
@@ -678,7 +702,7 @@
       "transformation"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   },
   "/notes/who-its-for/": {
     "slug": "/notes/who-its-for/",
@@ -690,7 +714,7 @@
     "outbound": [
       "/notes/the-genius-with-amnesia/",
       "/notes/common-questions/",
-      "/notes/the-graduation-path/",
+      "/notes/the-three-rungs/",
       "/notes/the-codify-case-study/"
     ],
     "inbound": [
@@ -739,23 +763,24 @@
     "outbound": [
       "/notes/the-static-brain/",
       "/notes/the-growing-library/",
-      "/notes/the-graduation-path/"
+      "/notes/the-three-rungs/"
     ],
     "inbound": [
       "/notes/common-questions/",
       "/notes/how-codify-works/",
-      "/notes/station-3-orchestrate/",
-      "/notes/the-graduation-path/",
+      "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
       "/notes/the-growing-library/",
       "/notes/the-managed-service/",
       "/notes/the-privacy-line/",
-      "/notes/the-static-brain/"
+      "/notes/the-static-brain/",
+      "/notes/the-three-rungs/"
     ],
     "tags": [
       "concept",
       "sovereignty"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-08-25T00:00:00.000Z"
   }
 }

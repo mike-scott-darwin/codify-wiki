@@ -1,19 +1,17 @@
 ---
-title: "The graduation walkthrough"
+title: "A client walkthrough"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
-tags: [proof, worked-example, graduation]
-aliases: [the-graduation-walkthrough]
-summary: "One business, three stations. Here's the-graduation-path made concrete — the same med spa from a-worked-example, followed all the way up."
+updated: 2026-08-25
+tags: [proof, worked-example, walkthrough]
+aliases: [a-client-walkthrough]
+summary: "One business, three stations. Here's the-three-rungs made concrete — the same med spa from a-worked-example, followed all the way up. Watch what."
 ---
 
-# The graduation walkthrough
+One business, three stations. Here's [[the-three-rungs]] made concrete — the same med spa from [[a-worked-example]], followed all the way up. Watch what stays constant: every station reads from the same brain, built from the same customer language. Nothing starts over.
 
-One business, three stations. Here's [[the-graduation-path]] made concrete — the same med spa from [[a-worked-example]], followed all the way up. Watch what stays constant: every station reads from the same brain, built from the same customer language. Nothing starts over.
-
-## Station 1 — Snapshot (free): the diagnosis
+## Rung 0 — Snapshot (free): the diagnosis
 
 We rebuilt their homepage from 36 of their own reviews and sent it. Free, unprompted. It found the gap — their headline sells volume; their customers buy *natural, no-pressure* results — and rewrote the above-the-fold to match.
 
@@ -21,11 +19,11 @@ We rebuilt their homepage from 36 of their own reviews and sent it. Free, unprom
 
 This is the on-ramp. It proves the method on one page. → full detail in [[a-worked-example]].
 
-## Station 2 — Codify ($97/mo): the engine
+## Rung 1 — the Foundation Build ($4,997, once): getting it written down
 
 The Snapshot proved one page. Codify runs the same review-grounded logic across their whole funnel, every week — and the brain only gets sharper as new reviews come in. Here's one week's output: three Meta ads, each hook lifted from a real customer review.
 
-![Codify week-1 ad set](/umedspa-codify-adset.png)
+![Week-one ad set from the Build](/umedspa-codify-adset.png)
 
 The same week also produces, from the same corpus:
 
@@ -36,13 +34,13 @@ The same week also produces, from the same corpus:
 - **A refreshed landing-page hero**, updated as their review language shifts
 - **All of it approved from WhatsApp in a minute**, corrected by voice note
 
-Same logic as the free Snapshot — now recurring, across every surface, in their voice. That's the $97 play for a local business.
+Same logic as the free Snapshot, now applied properly across the business and written into documents they own outright.
 
-## Station 3 — Orchestrate ($497/mo): the full team, nightly
+## Rung 2 — the service ($1,497/mo): keeping it true
 
-Codify runs the funnel weekly. Orchestrate runs it **every night** and adds the rest of the business on the same brain. Here's one real night's output — 14 pieces, all from the same review corpus, summarized in the WhatsApp brief U Med Spa would wake up to:
+The Build got it right once; the service is what stops it drifting as their customers' language moves. The nightly prospecting engine shown below is **full-lane work — not in the published $1,497** — quoted on a call against how much of the business is handed over. Here's one real night's output — 14 pieces, all from the same review corpus, summarized in the WhatsApp brief U Med Spa would wake up to:
 
-![The Orchestrate morning brief](/umedspa-orchestrate-brief.png)
+![The morning brief](/umedspa-orchestrate-brief.png)
 
 One 10pm–6am run produced:
 
@@ -60,10 +58,10 @@ Same brain. Same reviews. Same voice. Just unthrottled, across the whole busines
 
 ## What this shows
 
-The free redline, the weekly engine, and the nightly team are **the same system at three depths** — not three products. The brain you author in week one (your voice, your audience, your offer, built from your customers' own words — [[the-static-brain]]) is the thing that graduates with you. You don't start over at any station; you turn the dial up.
+The free redline, the Build and the service are **the same system at three depths** — not three products. The brain you author in week one (your voice, your audience, your offer, built from your customers' own words — [[the-static-brain]]) is the thing that graduates with you. You don't start over at any station; you turn the dial up.
 
 > **Honest note:** the Snapshot artifacts are a real run (see [[a-worked-example]]). The Station-2 ad set and the Station-3 night are real copy built from the same mined reviews, rendered and screenshotted; the morning brief is a mockup of the WhatsApp interface, and "one night = 14 pieces" illustrates the breadth rather than capturing a live autonomous agent run.
 
 ---
 
-**Related:** [[the-graduation-path]] · [[a-worked-example]] · [[station-2-codify]] · [[station-3-orchestrate]]
+**Related:** [[the-three-rungs]] · [[a-worked-example]] · [[rung-1-foundation-build]] · [[rung-2-the-service]]

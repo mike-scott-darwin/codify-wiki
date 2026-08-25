@@ -9,8 +9,6 @@ aliases: [outreach-step]
 summary: "The third hand-off in clients-while-you-sleep. The outreach agent takes the deliverable and writes a cold sequence that hands the work over in your voice."
 ---
 
-# Outreach step
-
 The third hand-off in [[clients-while-you-sleep]]. The outreach agent takes the [[writing-step|deliverable]] and writes a cold sequence that hands the work over in your voice.
 
 Not "hey, are you interested in XYZ?" — real work, already done, attached, *before* the conversation starts. That's the whole edge: most cold outbound is still a question. Yours arrives as a finished thing the prospect can use.
