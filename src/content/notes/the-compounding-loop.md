@@ -11,7 +11,7 @@ summary: "Most marketing decays. It needs constant re-briefing, fresh agencies, 
 
 Most marketing decays. It needs constant re-briefing, fresh agencies, new tools. Yours improves. The reason is a loop that closes instead of just emitting.
 
-Every night the work runs ([[clients-while-you-sleep]]). Every morning you review it ([[the-morning-brief]]). And then — this is the part that compounds — what you decide feeds back in:
+The work runs, a person reads it, and you review it ([[the-morning-brief]]). And then — this is the part that compounds — what you decide feeds back in:
 
 - **Every prospect reply** tells it which openers get answered and which get ignored.
 - **Every voice note** ([[training-by-voice-note]]) teaches it a rule it keeps — *never lead with price, drop the throat-clearing, use my words for this.*

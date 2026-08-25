@@ -9,6 +9,8 @@ aliases: [writing-step]
 summary: "The second hand-off in clients-while-you-sleep."
 ---
 
+> **This is full-lane work.** It's part of the play that goes out and *finds* you new business — not included in the published $1,497/mo, and quoted on a call against how much of your business you hand over. → [[rung-2-the-service]]
+
 The second hand-off in [[clients-while-you-sleep]]. The writer takes the [[research-step|research]] and produces a real deliverable for each prospect, grounded in your offer — custom work, as close to new revenue for them as possible.
 
 Not a generic audit. What it builds depends on what your offer proves:

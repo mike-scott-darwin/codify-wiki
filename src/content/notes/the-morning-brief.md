@@ -11,7 +11,7 @@ summary: "This is your whole interface. No app, no dashboard, no terminal — ju
 
 This is your whole interface. No app, no dashboard, no terminal — just a message in WhatsApp every morning.
 
-Overnight, the work runs ([[clients-while-you-sleep]]). By morning, a brief lands: *here's what we found, here's what's ready, here's the one call only you can make.* You skim it in about a minute, approve the ones you want, and reply with a voice note to fix anything off.
+The work runs, a person checks it, and a brief lands: *here's what we found, here's what's ready, here's the one call only you can make.* You skim it in about a minute, approve the ones you want, and reply with a voice note to fix anything off.
 
 That's it. Five minutes a day, not five hours. You direct the team — you don't run it.
 

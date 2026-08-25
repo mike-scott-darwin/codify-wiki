@@ -6,10 +6,12 @@ created: 2026-05-30
 updated: 2026-08-25
 tags: [flagship-play, mechanism]
 aliases: [clients-while-you-sleep]
-summary: "The flagship play — the one use case every Codify client should be able to describe in sixty seconds. It's the overnight cold-outreach loop, and."
+summary: "The full-lane play — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop, and."
 ---
 
-The flagship play — the one use case every Codify client should be able to describe in sixty seconds. It's the overnight cold-outreach loop, and it's how Codify runs.
+> **This is full-lane work.** It's part of the play that goes out and *finds* you new business — not included in the published $1,497/mo, and quoted on a call against how much of your business you hand over. → [[rung-2-the-service]]
+
+The full-lane play — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop — the sharpest demonstration of the architecture, and the part of the service you add when you want new business found, not just kept true.
 
 The work happens hand-off by hand-off, every step reading from [[the-static-brain]]:
 

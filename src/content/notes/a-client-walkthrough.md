@@ -40,7 +40,7 @@ Same logic as the free Snapshot, now applied properly across the business and wr
 
 The Build got it right once; the service is what stops it drifting as their customers' language moves. The nightly prospecting engine shown below is **full-lane work — not in the published $1,497** — quoted on a call against how much of the business is handed over. Here's one real night's output — 14 pieces, all from the same review corpus, summarized in the WhatsApp brief U Med Spa would wake up to:
 
-![The morning brief](/umedspa-orchestrate-brief.png)
+![The morning brief](/umedspa-morning-brief.png)
 
 One 10pm–6am run produced:
 

@@ -9,6 +9,8 @@ aliases: [review-step]
 summary: "The last hand-off in clients-while-you-sleep, and the reason your morning review takes a minute instead of an hour."
 ---
 
+> **This is full-lane work.** It's part of the play that goes out and *finds* you new business — not included in the published $1,497/mo, and quoted on a call against how much of your business you hand over. → [[rung-2-the-service]]
+
 The last hand-off in [[clients-while-you-sleep]], and the reason your [[the-morning-brief|morning review]] takes a minute instead of an hour.
 
 Before anything reaches you, an editor checks the whole batch for voice and accuracy — catching anything off-voice or off-target. It reads [[the-static-brain]] and the rules you've taught it, and sends back anything that doesn't clear the bar.

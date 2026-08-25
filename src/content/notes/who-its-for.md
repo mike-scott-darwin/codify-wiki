@@ -6,14 +6,14 @@ created: 2026-05-30
 updated: 2026-05-30
 tags: [audience, fit]
 aliases: [who-its-for]
-summary: "Codify is for operators who want infrastructure, not one more tool to re-brief every Monday."
+summary: "Codify is for owners who want their marketing to sound like them and stay that way — not one more tool to re-brief every Monday."
 ---
 
-Codify is for operators who want infrastructure, not one more tool to re-brief every Monday.
+Codify is for owners who want their marketing to sound like them and stay that way — not one more tool to re-brief every Monday.
 
 ## It's for you if
 
-- You're a senior exec, founder, or fractional operator whose expertise is your edge — and you know it.
+- You're a senior exec, founder, or operator whose expertise is your edge — and you know it.
 - You've felt [[the-genius-with-amnesia]] ceiling: every AI tool starts from scratch, so it stays generic.
 - You're done hiring and want to *install* — to direct a team, not be the team.
 - You want to own your context — files that work with any model, not knowledge locked in someone else's platform.
@@ -24,7 +24,7 @@ Codify is for operators who want infrastructure, not one more tool to re-brief e
 - You want a magic prompt pack. We're the anti-prompt-pack.
 - You don't yet have a voice and an audience worth extracting (you need expertise to codify first).
 - You want "set it and forget it." The system compounds *because* you engage with the morning brief — five minutes a day, not zero.
-- You want someone to take marketing off your plate entirely. We install a team for you to direct, not one that replaces your direction.
+- You want someone to take marketing off your plate entirely. "Handled" means off your plate to *do*, not off your plate to *decide*.
 - You're shopping for the cheapest cold-email VA. We cost more in month one and far less by month twelve, because the system sharpens while a VA resets every onboarding.
 
 Still deciding? → [[common-questions]] · [[the-three-rungs]]

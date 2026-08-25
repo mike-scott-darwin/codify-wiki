@@ -81,9 +81,10 @@ A sequence, not a menu. And ownership lands at the Build, not at the top. → [[
 
 ### 3 · How it runs
 - [[the-managed-service]] — **you never open a terminal. We run it; you direct it.**
-- [[clients-while-you-sleep]] — the flagship play, hand-off by hand-off
 - [[the-morning-brief]] — the one-minute review that's your whole interface
 - [[training-by-voice-note]] — how you make it sound more like you
+- [[decision-gates]] — the moments it stops and asks you
+- [[clients-while-you-sleep]] — going out and *finding* new business. **Not in the $1,497 — quoted separately, against how much you hand over.**
 
 ### 4 · What makes it different
 - [[the-static-brain]] — your four reference files, the part that holds your voice

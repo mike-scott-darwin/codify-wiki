@@ -31,7 +31,7 @@ What a gate is **not**: a chat thread, a menu to navigate, a dashboard to log in
 
 ## When gates fire — the morning, not the middle of the night
 
-The work runs while you sleep ([[clients-while-you-sleep]]), so a gate can't stop overnight and wait on you — you're asleep. Instead the run proceeds as far as it safely can on every branch that doesn't need you, and stacks the fork for your morning tap. Nothing blocks except the one branch that genuinely needs your call.
+The work runs without you sitting over it, so a gate can't stall and wait on you — you're asleep. Instead the run proceeds as far as it safely can on every branch that doesn't need you, and stacks the fork for your morning tap. Nothing blocks except the one branch that genuinely needs your call.
 
 So a gate costs you the same minute an approval does. You wake up to *"here's what's done, here's what's ready, and here's the one call only you can make."*
 

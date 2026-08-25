@@ -27,7 +27,7 @@ You stop being the marketer and start directing one. Five minutes a day on the m
 
 ## Where it starts
 
-You don't buy the whole thing on day one. You [[the-three-rungs|graduate]] as the system earns the next level — starting free with [[rung-0-snapshot]].
+You don't buy the whole thing on day one. It's [[the-three-rungs|a sequence]] — starting free with [[rung-0-snapshot]], and everything you own arrives at the Build.
 
 ---
 

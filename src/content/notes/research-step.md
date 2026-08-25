@@ -9,6 +9,8 @@ aliases: [research-step]
 summary: "The first hand-off in clients-while-you-sleep."
 ---
 
+> **This is full-lane work.** It's part of the play that goes out and *finds* you new business — not included in the published $1,497/mo, and quoted on a call against how much of your business you hand over. → [[rung-2-the-service]]
+
 The first hand-off in [[clients-while-you-sleep]]. The research agent picks the next niche from your audience file and studies 20 prospects deeply — website, reviews, current ads, positioning, the gaps in their messaging.
 
 This isn't a name-and-email scrape. It's the homework that makes the next step possible: by the time the writer starts, it knows what each prospect is missing and where your offer fits. Then it hands the research to → [[writing-step]].

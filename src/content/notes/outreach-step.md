@@ -9,6 +9,8 @@ aliases: [outreach-step]
 summary: "The third hand-off in clients-while-you-sleep. The outreach agent takes the deliverable and writes a cold sequence that hands the work over in your voice."
 ---
 
+> **This is full-lane work.** It's part of the play that goes out and *finds* you new business — not included in the published $1,497/mo, and quoted on a call against how much of your business you hand over. → [[rung-2-the-service]]
+
 The third hand-off in [[clients-while-you-sleep]]. The outreach agent takes the [[writing-step|deliverable]] and writes a cold sequence that hands the work over in your voice.
 
 Not "hey, are you interested in XYZ?" — real work, already done, attached, *before* the conversation starts. That's the whole edge: most cold outbound is still a question. Yours arrives as a finished thing the prospect can use.

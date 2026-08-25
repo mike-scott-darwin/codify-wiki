@@ -15,7 +15,7 @@ Under the hood there's a command line, a set of skills, a vault, and a whole tea
 
 Here is everything you actually touch:
 
-- **A morning brief in WhatsApp** — what ran overnight, what to approve. → [[the-morning-brief]]
+- **A morning brief in WhatsApp** — what ran, what a person already checked, what to approve. → [[the-morning-brief]]
 - **A voice note** when you want to change something. → [[training-by-voice-note]]
 
 That's the whole interface. One minute in the morning, a voice note when something's off.

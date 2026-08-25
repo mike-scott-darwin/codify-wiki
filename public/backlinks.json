@@ -66,6 +66,7 @@
       "clients-while-you-sleep"
     ],
     "outbound": [
+      "/notes/rung-2-the-service/",
       "/notes/the-static-brain/",
       "/notes/research-step/",
       "/notes/writing-step/",
@@ -76,7 +77,6 @@
       "/notes/decision-gates/",
       "/notes/the-compounding-loop/",
       "/notes/a-worked-example/",
-      "/notes/rung-2-the-service/",
       "/notes/rung-1-foundation-build/"
     ],
     "inbound": [
@@ -89,7 +89,6 @@
       "/notes/review-step/",
       "/notes/rung-0-snapshot/",
       "/notes/rung-2-the-service/",
-      "/notes/the-compounding-loop/",
       "/notes/the-growing-library/",
       "/notes/the-morning-brief/",
       "/notes/what-changes/",
@@ -142,11 +141,12 @@
     "outbound": [
       "/notes/training-by-voice-note/",
       "/notes/the-static-brain/",
-      "/notes/clients-while-you-sleep/",
-      "/notes/the-morning-brief/"
+      "/notes/the-morning-brief/",
+      "/notes/clients-while-you-sleep/"
     ],
     "inbound": [
       "/notes/clients-while-you-sleep/",
+      "/notes/how-codify-works/",
       "/notes/the-morning-brief/"
     ],
     "tags": [
@@ -174,9 +174,10 @@
       "/notes/rung-0-snapshot/",
       "/notes/rung-1-foundation-build/",
       "/notes/rung-2-the-service/",
-      "/notes/clients-while-you-sleep/",
       "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
+      "/notes/decision-gates/",
+      "/notes/clients-while-you-sleep/",
       "/notes/the-static-brain/",
       "/notes/the-growing-library/",
       "/notes/you-own-everything/",
@@ -202,6 +203,7 @@
       "outreach-step"
     ],
     "outbound": [
+      "/notes/rung-2-the-service/",
       "/notes/clients-while-you-sleep/",
       "/notes/writing-step/",
       "/notes/training-by-voice-note/",
@@ -226,6 +228,7 @@
       "packaging-step"
     ],
     "outbound": [
+      "/notes/rung-2-the-service/",
       "/notes/clients-while-you-sleep/",
       "/notes/the-morning-brief/",
       "/notes/review-step/",
@@ -250,6 +253,7 @@
       "research-step"
     ],
     "outbound": [
+      "/notes/rung-2-the-service/",
       "/notes/clients-while-you-sleep/",
       "/notes/writing-step/",
       "/notes/a-worked-example/",
@@ -273,6 +277,7 @@
       "review-step"
     ],
     "outbound": [
+      "/notes/rung-2-the-service/",
       "/notes/clients-while-you-sleep/",
       "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
@@ -370,9 +375,14 @@
       "/notes/clients-while-you-sleep/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
+      "/notes/outreach-step/",
+      "/notes/packaging-step/",
+      "/notes/research-step/",
+      "/notes/review-step/",
       "/notes/rung-0-snapshot/",
       "/notes/rung-1-foundation-build/",
-      "/notes/the-three-rungs/"
+      "/notes/the-three-rungs/",
+      "/notes/writing-step/"
     ],
     "tags": [
       "offer",
@@ -414,7 +424,6 @@
       "the-compounding-loop"
     ],
     "outbound": [
-      "/notes/clients-while-you-sleep/",
       "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
       "/notes/the-static-brain/",
@@ -440,7 +449,8 @@
       "compounding"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-05-30T00:00:00.000Z",
+    "isStarred": true
   },
   "/notes/the-genius-with-amnesia/": {
     "slug": "/notes/the-genius-with-amnesia/",
@@ -526,10 +536,10 @@
       "the-morning-brief"
     ],
     "outbound": [
-      "/notes/clients-while-you-sleep/",
       "/notes/decision-gates/",
       "/notes/training-by-voice-note/",
-      "/notes/the-compounding-loop/"
+      "/notes/the-compounding-loop/",
+      "/notes/clients-while-you-sleep/"
     ],
     "inbound": [
       "/notes/clients-while-you-sleep/",
@@ -737,6 +747,7 @@
       "writing-step"
     ],
     "outbound": [
+      "/notes/rung-2-the-service/",
       "/notes/clients-while-you-sleep/",
       "/notes/research-step/",
       "/notes/a-worked-example/",
