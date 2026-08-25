@@ -20,6 +20,15 @@ export default defineConfig({
         '/notes/station-3-orchestrate':      '/notes/rung-2-the-service',
         '/notes/the-graduation-path':        '/notes/the-three-rungs',
         '/notes/the-graduation-walkthrough': '/notes/a-client-walkthrough',
+        // 2026-08-25 — the five pipeline-step notes collapsed into one plain
+        // note. They were our production stages published as client pages;
+        // see decisions/2026-08-25-wiki-rewritten-for-the-non-technical-buyer.
+        '/notes/research-step':              '/notes/what-happens-each-week',
+        '/notes/writing-step':               '/notes/what-happens-each-week',
+        '/notes/outreach-step':              '/notes/what-happens-each-week',
+        '/notes/packaging-step':             '/notes/what-happens-each-week',
+        '/notes/review-step':                '/notes/what-happens-each-week',
+        '/notes/the-growing-library':        '/notes/the-compounding-loop',
     },
 
     markdown: {

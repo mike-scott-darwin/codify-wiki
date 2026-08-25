@@ -22,7 +22,7 @@ These four files are the only thing every agent reads before doing anything for 
 
 ## Why "static"
 
-This is the part that doesn't change much — your voice and your beliefs are stable. It's the counterpart to [[the-growing-library]], which changes every night as the work runs. The static brain keeps every output sounding like *you*; the library keeps it learning from what's already been tried. Together they're why [[the-compounding-loop]] works.
+Because this is the part that doesn't change much. Your voice and your beliefs are stable — they're who you are, not what you're doing this quarter. What changes weekly is the work: what got sent, what got answered, what got ignored. These four documents keep every output sounding like *you*; the record of what's been tried keeps it learning. Together they're why [[the-compounding-loop|it gets better the longer it runs]].
 
 ## How we build it
 
@@ -40,4 +40,4 @@ The files are plain language you can read and edit. They're stored in a private 
 
 **The four documents:** [[your-voice]] · [[your-audience]] · [[your-offer]] · [[your-beliefs]]
 
-**Related:** [[the-alignment-map]] · [[the-genius-with-amnesia]] · [[the-growing-library]] · [[you-own-everything]] · [[the-compounding-loop]]
+**Related:** [[the-alignment-map]] · [[the-genius-with-amnesia]] · [[you-own-everything]] · [[the-compounding-loop]]

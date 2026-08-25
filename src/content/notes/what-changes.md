@@ -1,34 +1,46 @@
 ---
 title: "What changes"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
 updated: 2026-08-25
 tags: [concept, transformation]
 aliases: [what-changes]
-summary: "The fix for the-genius-with-amnesia is simple to say and it changes everything: capture your expertise once, and everything reads from it after."
+summary: "Write your business down once, properly - then everything new gets written from it, and everything old gets checked against it."
 ---
 
-The fix for [[the-genius-with-amnesia]] is simple to say and it changes everything: **capture your expertise once, and everything reads from it after.**
+The fix is easy to say and it changes more than it sounds like it will:
 
-We extract your voice, your audience, your offer, and your beliefs through conversation — not a form, not a workshop. That becomes [[the-static-brain]]. From then on, every piece of work reads from it before it does anything, so the output sounds like *you* on the first draft, not a chatbot you have to rewrite.
+> **Write your business down once, properly. Then everything new gets written from it — and everything old gets checked against it.**
 
-## The arc
+That's the whole idea. The rest is doing it well.
 
-**A genius with amnesia → marketing infrastructure that knows your business → marketing that compounds.**
+## The writing down
 
-- **Before:** one AI tool at a time, no memory, no coordination. You re-brief every session and rewrite every draft.
-- **During:** we capture your expertise and install the infrastructure that reads from it — cold outreach, content, follow-up, all in your voice, running while you sleep ([[clients-while-you-sleep]]).
-- **After:** you wake to a brief, approve what's good, and correct what's not. Every correction feeds back in, so [[the-compounding-loop]] means month six outperforms month one.
+Two conversations, about ninety minutes each. No form, no workshop, no homework. You talk about your own business and we write it down as [[the-static-brain|four short documents]] — how you sound, who you're really for, what you actually sell, and why you do it your way.
 
-## What you do differently
+You own them. They're plain English, a few pages each. You could hand any one of them to a new employee on their first morning.
 
-You stop being the marketer and start directing one. Five minutes a day on the morning brief instead of twenty minutes re-explaining your business at the start of every session. You're not working harder with AI — you're working with infrastructure that already knows your business.
+**This is the part you can't delegate.** Nobody can get your judgment out of your head without you in the room — not your marketing person, not an agency, not us on our own.
+
+## What's different afterwards
+
+**Everything new is written from them.** Your homepage, your emails, your follow-ups, your ads. Not guessed at. The first draft sounds like you instead of the fourth.
+
+**Everything old gets checked against them.** Your other pages, your Google listing, your bios, the proposal you hand people. For the first time there's something to check them *against* — so you can see, on one page, everywhere your own marketing is telling people something different. → [[the-alignment-map]]
+
+**And it stops drifting.** Your customers' language moves. You add a service. You drop one. Nobody decides to let their marketing go stale — it just happens, quietly, over years. Keeping it closed is the part that's ongoing. → [[the-compounding-loop]]
+
+## What you actually do differently
+
+You stop being the one who writes it, and start being the one who approves it.
+
+A minute in the morning: here's what's ready, tap to approve, or send a voice note if something's off. → [[the-morning-brief]]
 
 ## Where it starts
 
-You don't buy the whole thing on day one. It's [[the-three-rungs|a sequence]] — starting free with [[rung-0-snapshot]], and everything you own arrives at the Build.
+Not with a decision. Free, with your homepage rebuilt from your own customers' words, sent to you with no call and no card. → [[rung-0-snapshot]] · [[the-three-rungs]]
 
 ---
 
-**Related:** [[the-genius-with-amnesia]] · [[the-static-brain]] · [[the-three-rungs]] · [[the-compounding-loop]]
+**Related:** [[the-genius-with-amnesia]] · [[the-static-brain]] · [[the-alignment-map]] · [[the-three-rungs]]

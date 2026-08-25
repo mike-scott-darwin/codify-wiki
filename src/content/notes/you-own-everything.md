@@ -1,7 +1,7 @@
 ---
 title: "You own everything"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
 updated: 2026-08-25
 tags: [concept, sovereignty]
@@ -11,7 +11,7 @@ summary: "Your knowledge isn't rented to you. It's yours."
 
 Your knowledge isn't rented to you. It's yours.
 
-- **Four short documents** — your voice, audience, offer, and beliefs ([[the-static-brain]]) — plus every run the system has ever done ([[the-growing-library]]).
+- **Four short documents** — your voice, audience, offer, and beliefs ([[the-static-brain]]) — plus the record of every run we've ever done for you and what it got.
 - **Stored in a private space you control.** Plain language you can read and edit.
 - **Works with any AI** — today's models and whatever comes next. Not locked to one platform.
 - **Cancel anytime and keep all of it.** The files don't expire. Your system keeps working.
@@ -24,4 +24,4 @@ It's also what makes [[the-three-rungs]] honest — you can leave at any station
 
 ---
 
-**Related:** [[the-static-brain]] · [[the-growing-library]] · [[the-three-rungs]]
+**Related:** [[the-static-brain]] · [[the-compounding-loop]] · [[the-three-rungs]]

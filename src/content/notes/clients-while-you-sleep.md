@@ -1,7 +1,7 @@
 ---
 title: "Clients while you sleep"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
 updated: 2026-08-25
 tags: [flagship-play, mechanism]
@@ -13,13 +13,15 @@ summary: "The full-lane play — going out and finding you new business, describ
 
 The full-lane play — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop — the sharpest demonstration of the architecture, and the part of the service you add when you want new business found, not just kept true.
 
-The work happens hand-off by hand-off, every step reading from [[the-static-brain]]:
+Overnight, reading from [[the-static-brain|your four documents]]:
 
-1. **Research** — picks the next niche from your audience file and studies 20 prospects deeply: website, reviews, current ads, the gaps in their messaging. → [[research-step]]
-2. **Writing** — turns that research into a real deliverable for each prospect, grounded in your offer. Not a generic audit — custom work, as close to new revenue for them as possible. → [[writing-step]]
-3. **Outreach** — writes a cold sequence that hands the work over in your voice. Not "hey, are you interested?" — real work, already done, before the conversation starts. → [[outreach-step]]
-4. **Packaging** — bundles the deliverables, the email copy, and the recipient list into one package that lands in your brief, ready to drop into your own sender. → [[packaging-step]]
-5. **Review** — checks the whole batch for voice and accuracy before it ever reaches you, so what lands in your brief is worth your time. → [[review-step]]
+1. **Twenty prospects get researched properly** — their site, their reviews, their current ads, and the gaps in how they're describing themselves.
+2. **Each one gets real work done for them**, not a generic audit. Something close enough to new revenue that they'd be glad to have it whether or not they reply.
+3. **A cold email gets written in your voice** that hands that work over. Not *"hey, are you interested?"* — the work is already done before the conversation starts.
+4. **It's bundled for one decision** — the work, the emails, the list, in one package ready for your own sender.
+5. **A person reads the whole batch** for voice and accuracy before it ever reaches you.
+
+→ [[what-happens-each-week]] for how the same steps run on your regular marketing.
 
 By morning it's all waiting in [[the-morning-brief]]. One-minute review. Activate the ones you want. Some mornings the run also hits a fork only your judgment settles — which niche to attack next, which angle to lead with — so the brief stacks it as a one-tap [[decision-gates|decision gate]] instead of guessing. The run never pauses overnight to wait on you: it pushes every branch it can and brings the one call it can't to your morning. Every reply that comes back through the day teaches the system — that's [[the-compounding-loop]].
 

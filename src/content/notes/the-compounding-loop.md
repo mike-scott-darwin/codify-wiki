@@ -1,9 +1,9 @@
 ---
 title: "The compounding loop"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [concept, compounding]
 aliases: [the-compounding-loop]
 summary: "Most marketing decays. It needs constant re-briefing, fresh agencies, new tools. Yours improves. The reason is a loop that closes instead of just emitting."
@@ -17,7 +17,7 @@ The work runs, a person reads it, and you review it ([[the-morning-brief]]). And
 - **Every voice note** ([[training-by-voice-note]]) teaches it a rule it keeps — *never lead with price, drop the throat-clearing, use my words for this.*
 - **Every monthly call** folds in what changed in your market this month.
 
-All of it lands back in [[the-static-brain]] and [[the-growing-library]] — the four documents and the run history every output reads from. So the next run doesn't start from scratch. It starts from everything that came before.
+All of it lands back in [[the-static-brain|your four documents]] — plus a record of every run we've ever done for you, and what it got. So the next one doesn't start from scratch. It starts from everything that came before.
 
 ## Why it closes
 
@@ -29,4 +29,4 @@ A tool that only produces — emit, emit, emit — never gets better, because no
 
 ---
 
-**Related:** [[the-static-brain]] · [[the-growing-library]] · [[the-morning-brief]] · [[training-by-voice-note]]
+**Related:** [[the-static-brain]] · [[the-alignment-map]] · [[the-morning-brief]] · [[training-by-voice-note]]

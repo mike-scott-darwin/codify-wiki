@@ -1,32 +1,46 @@
 ---
-title: "The genius with amnesia"
+title: "Why your marketing sounds like everyone else's"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-25
 tags: [problem, concept]
-aliases: [the-genius-with-amnesia]
-summary: "Every AI you've used is brilliant but blind. It doesn't know your voice, your audience, your offer, or what's worked. So every morning you talk to a genius with amnesia."
+aliases: [the-genius-with-amnesia, why-your-marketing-sounds-generic]
+summary: "Quality workmanship, fair prices, on time. True of you and true of every competitor in your postcode - and there's a specific reason everyone ends up there."
 ---
 
-Every AI you've used is brilliant but blind. It doesn't know your voice, your audience, your offer, or what's worked. So every morning you talk to **a genius with amnesia.**
+Read your homepage, then read three competitors'. Cover the logos. Can you tell them apart?
 
-You open a new chat and spend twenty minutes re-explaining your business before you get to the work. The first draft comes back generic. You rewrite it yourself on the second. Nothing it learns today survives until tomorrow — Friday it's forgotten everything Monday taught it, and Monday you start over.
+Most can't. Everyone ends up at some version of *quality workmanship, fair prices, on time, family-owned since 1998.* All true. All completely forgettable. And none of it is why anyone actually picks you.
 
-Five sessions a week, forty-eight weeks a year. That's eighty hours of re-briefing a tool that resets every time you close the tab.
+**There's a specific reason it happens, and it isn't laziness.**
 
-## Why it happens
+## The reason
 
-The model isn't the problem. The information you're feeding it is. A smarter agent with no context is still an amnesiac — it just forgets faster. This is the thing most people get backwards: **the agent isn't the moat. The brain it reads from is.**
+The real version of your business — what you actually do, who you're really for, the corner you refuse to cut, why you do it your way when most of your trade doesn't — **has never been written down anywhere.** It lives in your head.
 
-## What it costs you
+So every person who has ever written anything for you has been guessing at it. The web designer guessed. The agency guessed. The freelancer guessed. Your nephew who did the Facebook page guessed.
 
-The output never sounds like you, so you can never hand it off — you're still the editor on every draft. The work stays trapped at your desk. You bought a tool to save time and spend the savings re-briefing it.
+And when someone has to guess, they reach for what's safe. Safe is what everyone else says. That's how three businesses with genuinely different standards end up with the same four adjectives.
+
+## Why it's got worse, not better
+
+If you've tried AI for this, you've felt it sharper. You open a chat, spend twenty minutes explaining your business, get back something correct and anonymous, and rewrite it yourself. Tomorrow it's forgotten all of it and you start over.
+
+The tool isn't the problem. **It's guessing for the same reason everyone else was** — nobody ever wrote your business down. A smarter one with nothing to read is still guessing; it just guesses faster and more confidently.
+
+## What it actually costs
+
+- You can't hand marketing to anyone, because you're still the editor on every draft. The work stays on your desk.
+- Every new agency, hire or freelancer starts from zero and guesses differently — so your marketing gets *less* consistent the more people touch it.
+- And the thing that would actually win you the job — the reason you're different — is the one thing that never makes it onto the page, because it's the hardest part to guess.
 
 ## The fix
 
-Capture your expertise once, in a form every agent reads before it does anything. That's [[what-changes]] — and the four documents that hold it are [[the-static-brain]].
+Write it down once, properly, and have everything read from it afterwards. → [[what-changes]]
+
+The four documents that hold it are [[the-static-brain]].
 
 ---
 
-**Related:** [[what-changes]] · [[the-static-brain]] · [[the-compounding-loop]]
+**Related:** [[what-changes]] · [[the-static-brain]] · [[your-beliefs]] · [[the-alignment-map]]
