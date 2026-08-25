@@ -13,5 +13,19 @@
   "assets": {
     "binding": "ASSETS",
     "directory": "dist"
-  }
+  },
+
+  // Custom domain. codify.build's DNS is already on Cloudflare (greg/gail.ns),
+  // so `custom_domain: true` makes Wrangler create the CNAME and issue the cert
+  // on the next authenticated deploy — no manual DNS entry needed.
+  //
+  // The apex codify.build points at Vercel (the marketing site) and is untouched
+  // by this; only the wiki subdomain is claimed here.
+  //
+  // Takes effect on `pnpm deploy` from a machine where `wrangler login` has run.
+  // The Cloudflare Git integration that auto-deploys on push does NOT apply
+  // wrangler.jsonc routes, so this needs one authenticated deploy to activate.
+  "routes": [
+    { "pattern": "wiki.codify.build", "custom_domain": true }
+  ]
 }
