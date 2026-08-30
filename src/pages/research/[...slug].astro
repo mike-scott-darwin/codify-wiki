@@ -35,7 +35,7 @@ const formattedWordCount = data.wordCount.toLocaleString();
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>{title} | Commune Research</title>
+  <title>{title} | Codify</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content={data.summary || `Deep research: ${title}`} />
 
@@ -44,7 +44,7 @@ const formattedWordCount = data.wordCount.toLocaleString();
   <meta property="og:description" content={data.summary || `Deep research: ${title}`} />
   <meta property="og:type" content="article" />
   <meta property="og:url" content={Astro.url} />
-  <meta property="og:site_name" content="Commune" />
+  <meta property="og:site_name" content="Codify" />
   <meta property="og:image" content="https://wiki.codify.build/og-image.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -153,7 +153,7 @@ const formattedWordCount = data.wordCount.toLocaleString();
       <div slot="before-footer" class="research-footer-content">
         <a href={summaryUrl} class="footer-back-link">← Back to Summary</a>
         <p class="footer-context">
-          Part of <a href="/">Mike' working notes</a> · Powered by <a href="https://github.com/dmthepm/commune" target="_blank" rel="noopener">Commune</a>
+          Part of <a href="/">the Codify wiki</a>
         </p>
       </div>
     </Footer>

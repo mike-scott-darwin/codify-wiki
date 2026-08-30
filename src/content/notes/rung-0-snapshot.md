@@ -3,7 +3,7 @@ title: "Rung 0 — Snapshot (free)"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-08-30
 tags: [offer, snapshot, rung]
 aliases: [rung-0-snapshot]
 summary: "Your customers wrote you a better homepage. We rebuilt it from 30+ of your own reviews and sent it. Free, in 24-48 hours."
@@ -33,9 +33,11 @@ For pre-launch businesses or B2B services without much public review surface, th
 
 ## Where it goes next
 
-The Snapshot proves the method on one page, free. [[rung-1-foundation-build]] takes that page the rest of the way and gets the rest of your business written down with it — two conversations, $4,997, once. → [[the-three-rungs]]
+The Snapshot proves the method on one page, free — your customers' own words, on your own homepage.
 
-> See it for real: [[a-worked-example]] — a Snapshot run on Glo Med Spa (Austin): their whole homepage rebuilt in their own brand, video hero and all, from 90 of their reviews.
+[[rung-1-foundation-build|The Build]] takes that page the rest of the way and points the same method at a second thing you already own: **your customer list.** Every past customer, every quote that never closed, everyone who called once. For most businesses that's thousands of people and nobody has ever written to them in the owner's voice. Two conversations, $4,997, half to start and half when your campaign is ready. → [[the-three-rungs]]
+
+> See it for real: [[a-worked-example]] — a Snapshot run on Stonecraft Kitchen & Bath Remodeling (Charlotte): their whole homepage rebuilt in their own brand, from 50 of their reviews.
 
 ---
 

@@ -3,21 +3,37 @@ title: "Rung 1 — The Foundation Build ($4,997, once)"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-08-30
 tags: [offer, foundation-build, rung]
 aliases: [rung-1-foundation-build]
 summary: "Two conversations get what's in your head onto paper - then everything you've already published gets measured against it."
 ---
 
-**Two conversations, and what's in your head is finally on paper — and everything you've already published gets measured against it.**
+**Your homepage finished and live, and the customer list you already own working again.**
 
-This is the only paid step before the subscription, and it's where ownership lands. One cheque, no credits, no chain of upsells.
+This is the only paid step before the subscription, and it's where ownership lands. No credits, no chain of upsells.
+
+**How you pay it: half when we start, half when your campaign is staged and ready for you to send.** You're not writing one cheque for a promise. The second half falls due when the work is sitting in your account waiting on your approval — so if we don't ship, we haven't earned it. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
 
 Right now your business is written down in a dozen places and none of them quite agree. Your homepage says one thing, your Google listing says something older, the proposal you email says it in different words. That isn't sloppiness — it's what happens when the real version only lives in your head and everyone downstream has to guess at it. The Build is where guessing stops.
 
 **What that buys you:** everyone who meets your business learns the same thing about what you stand for and who you're for — whether they land on your homepage, read an email, get handed a proposal, or find you in a search result.
 
 ## What you end up with
+
+### Your homepage, finished and live
+
+The free rebuild you already saw, taken the rest of the way and actually deployed — written from [[your-voice]] and [[your-audience]] rather than from a template, and structured so an AI search engine can quote it accurately when someone asks about your trade in your town.
+
+**You choose where it lives:** we hand the files to your web person, or we host it in the system you already run your business from, so the page, the form on it, the follow-up it triggers and your pipeline are one thing instead of four. Hosting with us is never a condition of buying.
+
+### Your customer list, working again
+
+Every past customer, dead quote and cold enquiry you can export, loaded into your own account with a campaign written the way you actually talk — staged, paused, waiting for you to press send.
+
+**This is usually the part owners haven't thought about.** You already own the warmest audience you will ever write to, and almost nobody works it — not from laziness, but because it's sitting in the wrong place, nobody's written the message, and a template would sound wrong coming from you. Those are the three things we fix. Your contacts, pipeline and email templates get set up along the way, so everything after this has somewhere correct to land.
+
+**Two things we say plainly rather than let you discover them.** We load a list you can export; cleaning up ten years of contacts or moving you off other software is a different job and we'd quote it separately. And we send it in batches sized to what your business can actually answer — a list like this is the one audience you can't afford to burn, and more calls than you can return in a week isn't a win.
 
 ### Four documents you own outright
 
@@ -36,17 +52,9 @@ They're short — a few pages each, plain English, no jargon. You could hand any
 
 **[[your-beliefs]] is the one to read first**, and the one most owners are surprised by. It's the answer to *"if I stepped away for a week, would this hold together?"* — because what wobbles isn't the process, it's the judgment. That's what these two conversations are actually for. → [[the-genius-with-amnesia]]
 
-### Your homepage, finished and live
-
-The free rebuild you already saw, taken the rest of the way and actually deployed — written from [[your-voice]] and [[your-audience]] rather than from a template, and structured so an AI search engine can quote it accurately when someone asks about your trade in your town.
-
 ### An honest read of where your calls come from
 
 Not a vendor's dashboard — your own accounts. How much comes from your Google listing versus people searching your name versus everything else, what your current marketing spend is actually buying, and whether anyone is even tracking it. Sometimes the answer is uncomfortable. We'd rather you hear it from us.
-
-### Your backend wired and filled
-
-Your contacts, your pipeline, your email templates — set up in the system you already run your business from, with the work already in it rather than an empty shell. The templates are written from [[your-voice]] and [[your-offer]], which is what makes a follow-up email sound like you rather than like software.
 
 ### The alignment map
 
@@ -59,6 +67,23 @@ Your homepage copy from 2019, from 2022, and today — held up against what your
 ### A walkthrough at the end
 
 Where we show you what was built, what we found, and what we checked — including what failed the check and what we chose not to fix. Then a straight answer on whether the monthly is worth it for you, which is sometimes no.
+
+## How you'll know it's done
+
+Not "we'll tell you it's finished." Every line below is something you can check yourself, in a couple of minutes, without taking our word for it:
+
+- **Four documents sit in a private repository in your own GitHub account.** Open it and read one. If it doesn't sound like you, that's a correction we owe you, not a delivery.
+- **Your homepage is live at your own address** — not on a preview link of ours.
+- **Your campaign is sitting in your own account, written and staged**, with your name on it and the send button untouched. Open it and read it before you approve it. If it doesn't sound like you, that's a correction we owe you.
+- **You can say where your calls actually come from**, roughly, from your own accounts — not from a report we wrote about them.
+- **Your contacts, pipeline and email templates are in your account**, with real records in them, and you can log in and see them without us.
+- **The alignment map lists every place your marketing still disagrees with itself**, in priority order, and you can click through to each one and see it for yourself.
+- **The drift receipt shows your own homepage copy at three points across recent years** beside what your customers were saying at each of those times — both sides quoted, nothing paraphrased. If your site is too new, or those years weren't archived anywhere, we tell you that plainly instead of padding it out.
+- **You've been told out loud what we checked, what failed the check, and what we chose not to fix** — and you have that in writing.
+
+If any one of those isn't true, the Build isn't finished. Say so, and we'll close it before we ask you about anything else.
+
+Two of those lines are deliberately uncomfortable for us. The drift receipt argues the work isn't really finished, and the walkthrough tells you what we got wrong. They're on the list on purpose — a finish line you can only take our word for isn't a finish line.
 
 ## What the two conversations are actually like
 

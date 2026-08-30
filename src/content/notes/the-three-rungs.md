@@ -3,7 +3,7 @@ title: "The three rungs"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-08-30
 tags: [concept, offer, ladder]
 aliases: [the-three-rungs]
 summary: "Free rebuild, one paid build, one monthly. Ownership lands at the Build, not at the top."
@@ -12,12 +12,14 @@ summary: "Free rebuild, one paid build, one monthly. Ownership lands at the Buil
 Three steps, and only one of them is a decision you make cold.
 
 - **[[rung-0-snapshot]] — free.** We rebuild your homepage from your own customers' words and send it to you. No call, no card, no obligation.
-- **[[rung-1-foundation-build]] — $4,997, once.** Two conversations get what's in your head onto paper. You end up owning four documents, a finished homepage, an honest read of where your calls actually come from, the whole thing wired into the system you already run your business from — and [[the-alignment-map|a map]] of every place your existing marketing still says something different.
-- **[[rung-2-the-service]] — $1,497/mo.** Keeping all of it true as your business and your customers change.
+- **[[rung-1-foundation-build]] — $4,997.** Two things you already own, working. Your homepage finished and live, and the customer list sitting in your system loaded into your own account with a campaign written the way you actually talk — staged, waiting on your say-so. Underneath both: two conversations that get what's in your head onto paper as four documents you own, an honest read of where your calls come from, and [[the-alignment-map|a map]] of every place your existing marketing still says something different. **Half to start, half when your campaign is ready to send.**
+- **[[rung-2-the-service]] — $1,497/mo.** The list keeps producing, and all of it stays true as your business and your customers change.
 
 ## Why it's a sequence, not a menu
 
-You can't pick rung 2 without rung 1, because there'd be nothing to keep true. The Build is where your business gets written down; the service is what stops it going stale. That's the whole logic.
+You can't pick rung 2 without rung 1, because there'd be nothing to keep true. The Build is where your business gets written down and your two idle assets get switched on; the service is what stops it going stale and keeps the list producing. That's the whole logic.
+
+**Why the free rung leads to the paid one, honestly.** The rebuild proves we can hear your customers — it's their words on your page. The Build points that same hearing at the people who already bought from you. Same job, second asset. Nobody's switching you to a different product halfway up.
 
 The clean line between them: **the Build maps what's out of step. The service works down the list.** We don't rewrite everything you own for $4,997 — that would be a website project wearing a different name, and you'd be paying five figures for it.
 

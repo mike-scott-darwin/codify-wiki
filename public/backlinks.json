@@ -103,9 +103,9 @@
       "/notes/the-genius-with-amnesia/",
       "/notes/the-compounding-loop/",
       "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
       "/notes/you-own-everything/",
       "/notes/rung-0-snapshot/",
-      "/notes/rung-2-the-service/",
       "/notes/the-three-rungs/",
       "/notes/who-its-for/"
     ],
@@ -117,8 +117,8 @@
       "objections",
       "faq"
     ],
-    "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "status": "updated",
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/decision-gates/": {
     "slug": "/notes/decision-gates/",
@@ -161,9 +161,9 @@
       "/notes/your-offer/",
       "/notes/your-beliefs/",
       "/notes/the-alignment-map/",
+      "/notes/rung-1-foundation-build/",
       "/notes/the-three-rungs/",
       "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
       "/notes/rung-2-the-service/",
       "/notes/you-own-everything/",
       "/notes/the-managed-service/",
@@ -188,7 +188,7 @@
       "codify-flow"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/rung-0-snapshot/": {
     "slug": "/notes/rung-0-snapshot/",
@@ -220,7 +220,7 @@
       "rung"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/rung-1-foundation-build/": {
     "slug": "/notes/rung-1-foundation-build/",
@@ -230,9 +230,9 @@
       "rung-1-foundation-build"
     ],
     "outbound": [
-      "/notes/the-static-brain/",
       "/notes/your-voice/",
       "/notes/your-audience/",
+      "/notes/the-static-brain/",
       "/notes/your-offer/",
       "/notes/your-beliefs/",
       "/notes/the-genius-with-amnesia/",
@@ -263,7 +263,7 @@
       "rung"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/rung-2-the-service/": {
     "slug": "/notes/rung-2-the-service/",
@@ -273,6 +273,7 @@
       "rung-2-the-service"
     ],
     "outbound": [
+      "/notes/the-alignment-map/",
       "/notes/training-by-voice-note/",
       "/notes/the-compounding-loop/",
       "/notes/the-three-rungs/",
@@ -296,8 +297,8 @@
       "service",
       "rung"
     ],
-    "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "status": "updated",
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/the-alignment-map/": {
     "slug": "/notes/the-alignment-map/",
@@ -317,6 +318,7 @@
       "/notes/a-client-walkthrough/",
       "/notes/how-codify-works/",
       "/notes/rung-1-foundation-build/",
+      "/notes/rung-2-the-service/",
       "/notes/the-compounding-loop/",
       "/notes/the-genius-with-amnesia/",
       "/notes/the-static-brain/",
@@ -498,8 +500,8 @@
       "sovereignty",
       "trust"
     ],
-    "status": "live",
-    "updated": "2026-06-11T00:00:00.000Z"
+    "status": "updated",
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/the-static-brain/": {
     "slug": "/notes/the-static-brain/",
@@ -582,7 +584,7 @@
       "ladder"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-08-30T00:00:00.000Z"
   },
   "/notes/training-by-voice-note/": {
     "slug": "/notes/training-by-voice-note/",

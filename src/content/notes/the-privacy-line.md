@@ -1,9 +1,9 @@
 ---
 title: "The privacy line"
 visibility: public
-status: live
+status: updated
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-08-30
 tags: [concept, sovereignty, trust]
 aliases: [the-privacy-line]
 summary: "Your brain is private. Your marketing is public. The system checks the line every time something goes out."
@@ -11,7 +11,7 @@ summary: "Your brain is private. Your marketing is public. The system checks the
 
 Your brain is private. Your marketing is public. The system checks the line every time something goes out.
 
-This week we audited every skill in the system — all 45 of them — against one question: *can private business context ever leak into a public channel?* Where the answer wasn't a hard no, we fixed it.
+Every skill in the system is held against one question: *can private business context ever leak into a public channel?* Where the answer isn't a hard no, it gets fixed before that skill is allowed to publish anything.
 
 What the line protects:
 

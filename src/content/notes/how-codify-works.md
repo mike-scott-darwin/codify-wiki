@@ -3,7 +3,7 @@ title: "How Codify Works"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-08-30
 tags: [moc, codify-flow]
 aliases: [how-codify-works, start-here, how-it-works]
 summary: "Your marketing says the same true thing about your business everywhere it's said - and keeps saying it as your business changes. Start here."
@@ -38,11 +38,13 @@ What comes out is four short documents — plain English, a few pages each, **yo
 | **[[your-offer]]** | What you sell, what it costs, what's included, what you turn down. |
 | **[[your-beliefs]]** | Why you do it your way when most of your trade doesn't. |
 
-Then two things happen that couldn't happen before.
+Then three things happen that couldn't happen before.
 
 **Everything new gets written from them** — your homepage, your emails, your follow-ups. Not guessed at.
 
 **Everything old gets checked against them.** We read every page, listing, bio, email and proposal you already have and hand you one page showing what agrees, what contradicts, and what's still live describing a business you stopped running. That's [[the-alignment-map]].
+
+**And the people who already bought from you hear from you again.** Every past customer, dead quote and cold enquiry sitting in your system, written to in your own words instead of a template. That list is the warmest audience you will ever have, almost nobody works it, and it's usually the first thing that produces a reply. → [[rung-1-foundation-build]]
 
 ## What it costs, and what you get
 
@@ -54,15 +56,23 @@ We rebuild your homepage using your own customers' words, from your public revie
 
 No call, no card, no obligation. If you never speak to us again you've still got a homepage you could hand to your own web person tomorrow.
 
-### $4,997, once — [[rung-1-foundation-build|the build]]
+### $4,997 — [[rung-1-foundation-build|the build]]
 
-The two conversations. The four documents, yours outright. Your homepage finished and live. An honest read of where your calls actually come from, from your own accounts. Your enquiries and follow-up set up properly. The alignment map. And the drift receipt — what your homepage said in 2019, in 2022 and today, against what your customers were saying each of those years.
+**Two things you already own, working.** Your homepage finished and live. And your customer list loaded into your own account with a campaign written the way you actually talk — staged, paused, waiting for you to press send.
 
-One payment. Not a deposit, not a trial. You're not signed up to anything afterwards.
+Underneath both: the two conversations and the four documents they produce, yours outright. An honest read of where your calls actually come from, from your own accounts. Your contacts and follow-up set up properly. The alignment map. And the drift receipt — what your homepage said in 2019, in 2022 and today, against what your customers were saying each of those years.
 
-### $1,497 a month — [[rung-2-the-service|keeping it true]]
+**Half to start, half when your campaign is staged and ready for you to send.** You're not writing one cheque for a promise — the second half falls due when the work is sitting in your account waiting on your approval. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
 
-Because it drifts again. Your customers' language moves, you add a service, you drop one. Nobody decides to drift; it just happens. This is the part that keeps it closed — and works down the alignment map, line by line.
+You're not signed up to anything afterwards.
+
+### $1,497 a month — [[rung-2-the-service|keeping it going]]
+
+**Your list keeps producing, and everything stays true.** Every job you finish this month and every quote that doesn't close becomes next month's campaign, sharpened by what people actually reply.
+
+And the alignment map becomes the work queue — we work down it, line by line, and keep it closed. Because it drifts again: your customers' language moves, you add a service, you drop one. Nobody decides to drift; it just happens.
+
+**We fix what you already own before we go looking for anything new, and we spend your ad money last.** Buying traffic to a page that says the wrong thing is paying to be misunderstood faster.
 
 Month to month. Cancel any time. You keep everything either way. → [[you-own-everything]]
 
@@ -111,106 +121,3 @@ We write the understanding down and give it to you. It's four plain files in you
 **Why it holds up** · [[you-own-everything]] · [[the-compounding-loop]]
 
 **Proof** · [[a-client-walkthrough]] · [[a-worked-example]] · [[the-codify-case-study]] · [[who-its-for]] · [[common-questions]]
-
-
-<style>
-.flow {
-  margin: 2rem 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-.flow-row {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  gap: 0.75rem;
-  align-items: stretch;
-}
-.flow-card {
-  border: 1px solid var(--c-border);
-  border-radius: 12px;
-  padding: 1rem 1.15rem;
-  background: var(--c-bg-soft);
-  display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-}
-.flow-fix { border-color: var(--c-accent-border); background: var(--c-accent-soft); }
-.flow-label {
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--c-text-muted);
-}
-.flow-card strong { font-size: 1.02rem; line-height: 1.3; }
-.flow-note { font-size: 0.86rem; color: var(--c-text-muted); line-height: 1.45; }
-.flow-arrow, .flow-down {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--c-text-muted);
-  font-size: 1.15rem;
-}
-.flow-down { padding: 0.15rem 0; }
-.flow-rungs {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-.flow-rungs li {
-  display: flex;
-  gap: 0.85rem;
-  align-items: flex-start;
-  border: 1px solid var(--c-border);
-  border-radius: 12px;
-  padding: 0.85rem 1.1rem;
-  background: var(--c-bg-soft);
-  margin: 0;
-}
-.flow-rungs li > div { display: flex; flex-direction: column; gap: 0.3rem; min-width: 0; }
-.flow-rung-head {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-.flow-rung-n {
-  flex: none;
-  width: 1.65rem;
-  height: 1.65rem;
-  border-radius: 50%;
-  background: var(--c-accent);
-  color: #fff;
-  font-size: 0.82rem;
-  font-weight: 600;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 0.1rem;
-}
-.flow-price {
-  font-size: 0.8rem;
-  color: var(--c-text-muted);
-  border: 1px solid var(--c-border);
-  border-radius: 999px;
-  padding: 0.08rem 0.55rem;
-  white-space: nowrap;
-  align-self: center;
-}
-.flow-loop {
-  border: 1px dashed var(--c-accent-border);
-  border-radius: 12px;
-  padding: 0.8rem 1.1rem;
-  text-align: center;
-  font-size: 0.9rem;
-  color: var(--c-text-accent);
-  background: var(--c-accent-soft);
-}
-@media (max-width: 640px) {
-  .flow-row { grid-template-columns: 1fr; }
-  .flow-arrow { transform: rotate(90deg); padding: 0.15rem 0; }
-}
-</style>
