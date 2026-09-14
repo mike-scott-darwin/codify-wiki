@@ -3,13 +3,13 @@ title: "Your audience"
 visibility: public
 status: live
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [reference-file, concept, foundation-build]
 aliases: [your-audience]
 summary: "Who you actually serve, what they want, and what they're afraid of - the file that decides whether your marketing lands on the right person's problem."
 ---
 
-*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the Build]].*
+*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the site rebuild]].*
 
 **The question it answers:** who is actually reading this, and what were they worried about before they found you?
 

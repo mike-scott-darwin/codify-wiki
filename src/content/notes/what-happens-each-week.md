@@ -3,7 +3,7 @@ title: "What actually happens each week"
 visibility: public
 status: live
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [mechanism, managed-service]
 aliases: [what-happens-each-week, research-step, writing-step, outreach-step, packaging-step, review-step]
 summary: "The honest version of what happens between your morning messages - and why you don't need to know most of it."
@@ -13,7 +13,7 @@ Most of this you'll never see, and that's deliberate — you're paying for it to
 
 ## The short version
 
-Every week, work gets written from [[the-static-brain|your four documents]], a person checks it, and what's ready shows up in your morning message for you to approve or correct.
+Every week, work gets written from [[the-static-brain|your four documents]], a person checks it, and what's ready lands in your own account — drafts and paused sequences, waiting on you.
 
 That's it. The rest is detail.
 
@@ -33,7 +33,7 @@ That's it. The rest is detail.
 
 ## What you actually do
 
-One minute in the morning. → [[the-morning-brief]]
+In your account when you want it; on the call when it needs a decision. → [[the-call]]
 
 Approve, or reply with a voice note if something's off. → [[training-by-voice-note]]
 
@@ -47,4 +47,4 @@ What's worth your attention is the part you hold: [[the-static-brain|your four d
 
 ---
 
-**Related:** [[the-managed-service]] · [[the-morning-brief]] · [[training-by-voice-note]] · [[the-static-brain]]
+**Related:** [[the-managed-service]] · [[the-call]] · [[training-by-voice-note]] · [[the-static-brain]]

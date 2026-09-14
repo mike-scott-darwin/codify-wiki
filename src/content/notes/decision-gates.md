@@ -3,7 +3,7 @@ title: "Decision gates"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [mechanism, loop]
 aliases: [decision-gates]
 summary: "The moments the system stops and asks you - and the ones it never decides on its own."
@@ -11,7 +11,7 @@ summary: "The moments the system stops and asks you - and the ones it never deci
 
 Most mornings the brief asks one thing: *approve the finished work.* Some mornings it asks something different: *which way do you want to go?*
 
-That's a decision gate. The work hit a fork where your judgment changes what happens next — and instead of guessing, the system did the homework, narrowed it to two real options, told you which one it'd pick, and left you a one-tap answer.
+That's a decision gate. The work hit a fork where your judgment changes what happens next — and instead of guessing, the system did the homework, narrowed it to two real options, and told you which one it'd pick. Then a person brings it to you — on the call if it can wait, in a message if it can't.
 
 ## Why a gate, not a guess
 
@@ -25,7 +25,7 @@ On these, a wrong autonomous guess costs you a week. So the system stops at the 
 
 ## It's a tap, not a conversation
 
-A gate is the same one-tap surface as an approval. Two options, a recommendation, you tap. If neither is right, a voice note sends it a third way ([[training-by-voice-note]]) — and that correction lands in [[the-static-brain]], so the same fork doesn't come back next month.
+A gate is a question, not a task. Two options, a recommendation, and you say which. If neither is right, you say that instead ([[training-by-voice-note]]) — and that correction lands in [[the-static-brain]], so the same fork doesn't come back next month.
 
 What a gate is **not**: a chat thread, a menu to navigate, a dashboard to log into. You never drive the system. It brings the decision to you, already narrowed.
 
@@ -39,4 +39,4 @@ So a gate costs you the same minute an approval does. You wake up to *"here's wh
 
 ---
 
-**Related:** [[the-morning-brief]] · [[clients-while-you-sleep]] · [[training-by-voice-note]] · [[the-static-brain]]
+**Related:** [[the-call]] · [[clients-while-you-sleep]] · [[training-by-voice-note]] · [[the-static-brain]]

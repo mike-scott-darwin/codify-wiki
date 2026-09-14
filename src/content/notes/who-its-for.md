@@ -3,7 +3,7 @@ title: "Who it's for"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-14
 tags: [audience, fit]
 aliases: [who-its-for]
 summary: "Codify is for owners who want their marketing to sound like them and stay that way — not one more tool to re-brief every Monday."
@@ -23,7 +23,7 @@ Codify is for owners who want their marketing to sound like them and stay that w
 
 - You want a magic prompt pack. We're the anti-prompt-pack.
 - You don't yet have a voice and an audience worth extracting (you need expertise to codify first).
-- You want "set it and forget it." The system compounds *because* you engage with the morning brief — five minutes a day, not zero.
+- You want "set it and forget it." The system compounds *because* you engage with it — a real call every month where you tell us what we got wrong. Not zero.
 - You want someone to take marketing off your plate entirely. "Handled" means off your plate to *do*, not off your plate to *decide*.
 - You're shopping for the cheapest cold-email VA. We cost more in month one and far less by month twelve, because the system sharpens while a VA resets every onboarding.
 

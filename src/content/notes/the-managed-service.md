@@ -3,7 +3,7 @@ title: "We run it — you never touch the machinery"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-14
 tags: [concept, managed-service, experience]
 aliases: [the-managed-service]
 summary: "Codify is a managed service. Not software you operate. Not a tool you learn."
@@ -15,12 +15,11 @@ Under the hood there's a command line, a set of skills, a vault, and a whole tea
 
 Here is everything you actually touch:
 
-- **A morning brief in WhatsApp** — what ran, what a person already checked, what to approve. → [[the-morning-brief]]
-- **A voice note** when you want to change something. → [[training-by-voice-note]]
+- **Your own account** — the work lands there as drafts and paused sequences, and you send what you want. → [[the-call]]
+- **A call** — monthly, or every two weeks in the first 90 days on the wider scope. What ran, what came back, what to change. → [[the-call]]
+- **A message to a person** when something can't wait. → [[training-by-voice-note]]
 
-**And your own account** — every asset we produce gets written into the CRM and pipeline you already run your business from. Contacts, opportunities, email templates, pages. The brief tells you what landed; the account is where you look at it. Nothing is sent without you.
-
-That's the whole interface: one minute in the morning, a voice note when something's off, and the work sitting where you'd expect to find it.
+That's the whole interface. No daily update to keep up with, no dashboard to check.
 
 ## Why it's built this way
 
@@ -30,10 +29,10 @@ That's the difference between Codify and the DIY agent stacks: same kind of engi
 
 ## "But I'm technical — can I see under the hood?"
 
-Yes, if you want to. There's an optional web view of your team, and your files are plain markdown you can open any time → [[you-own-everything]]. But it's never required. The 90% who never look get exactly the same results as the 10% who do.
+Yes, if you want to. Your files are plain markdown you can open any time → [[you-own-everything]]. But it's never required. The 90% who never look get exactly the same results as the 10% who do.
 
 > The CLI, the skills, the agent loop — that's our cockpit, not yours. If you're curious what we operate, it's all there. You'll just never have to touch it.
 
 ---
 
-**Related:** [[the-morning-brief]] · [[training-by-voice-note]] · [[you-own-everything]]
+**Related:** [[the-call]] · [[training-by-voice-note]] · [[you-own-everything]]

@@ -3,7 +3,7 @@ title: "What changes"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [concept, transformation]
 aliases: [what-changes]
 summary: "Write your business down once, properly - then everything new gets written from it, and everything old gets checked against it."
@@ -35,7 +35,7 @@ You own them. They're plain English, a few pages each. You could hand any one of
 
 You stop being the one who writes it, and start being the one who approves it.
 
-A minute in the morning: here's what's ready, tap to approve, or send a voice note if something's off. → [[the-morning-brief]]
+It's in your own account when you get there — ready, and unsent until you send it. Anything to change, you say so on the call. → [[the-call]]
 
 ## Where it starts
 

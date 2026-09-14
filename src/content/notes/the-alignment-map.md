@@ -3,7 +3,7 @@ title: "The alignment map"
 visibility: public
 status: live
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [mechanism, concept, foundation-build, offer]
 aliases: [the-alignment-map]
 summary: "Everywhere your marketing currently disagrees with itself, on one page. A read, not a rewrite."
@@ -31,7 +31,7 @@ Ranked by how many people actually see it — because a contradiction on your ho
 
 **It is not a rewrite.** We map it; we don't fix it. That distinction is load-bearing and we'd rather be blunt about it than have you discover it later.
 
-Rewriting every asset you own is a website project plus an email project plus a profile rebuild. If we quietly folded that into [[rung-1-foundation-build|the Build]], the price would have to triple and we'd become a web shop with a subscription attached. So instead: at the Build you get the honest list, in priority order, with the reason each line matters. Working down that list — and keeping it closed as your customers' language keeps moving — is [[rung-2-the-service|the service]].
+Rewriting every asset you own is a website project plus an email project plus a profile rebuild. If we quietly folded that into [[rung-1-foundation-build|the site rebuild]], the price would have to triple and we'd become a web shop with a subscription attached. So instead: at the site rebuild you get the honest list, in priority order, with the reason each line matters. Working down that list — and keeping it closed as your customers' language keeps moving — is [[rung-2-the-service|the service]].
 
 You are free to take the list and work down it yourself, or hand it to your existing web person. It's yours either way ([[you-own-everything]]).
 
@@ -45,7 +45,7 @@ It matters twice over now that people ask an AI about you instead of clicking th
 
 ## The map and the receipt
 
-Two documents come out of the Build that do the same job on different axes:
+Two documents come out of the site rebuild that do the same job on different axes:
 
 - **The alignment map** — does everything you have live *right now* agree with everything else? *(Surface.)*
 - **The drift receipt** — has your homepage told the same story your customers told, over the last seven years? *(Time.)*

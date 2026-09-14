@@ -3,7 +3,7 @@ title: "You own everything"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [concept, sovereignty]
 aliases: [you-own-everything]
 summary: "Your knowledge isn't rented to you. It's yours."

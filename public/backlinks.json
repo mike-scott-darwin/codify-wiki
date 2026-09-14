@@ -79,8 +79,7 @@
       "/notes/decision-gates/",
       "/notes/how-codify-works/",
       "/notes/rung-0-snapshot/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-morning-brief/"
+      "/notes/rung-2-the-service/"
     ],
     "tags": [
       "flagship-play",
@@ -128,13 +127,11 @@
     "outbound": [
       "/notes/training-by-voice-note/",
       "/notes/the-static-brain/",
-      "/notes/the-morning-brief/",
       "/notes/clients-while-you-sleep/"
     ],
     "inbound": [
       "/notes/clients-while-you-sleep/",
       "/notes/how-codify-works/",
-      "/notes/the-morning-brief/",
       "/notes/what-happens-each-week/"
     ],
     "tags": [
@@ -142,7 +139,7 @@
       "loop"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/how-codify-works/": {
     "slug": "/notes/how-codify-works/",
@@ -331,7 +328,7 @@
       "offer"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-codify-case-study/": {
     "slug": "/notes/the-codify-case-study/",
@@ -354,7 +351,7 @@
       "case-study"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-compounding-loop/": {
     "slug": "/notes/the-compounding-loop/",
@@ -364,7 +361,6 @@
       "the-compounding-loop"
     ],
     "outbound": [
-      "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
       "/notes/the-static-brain/",
       "/notes/the-alignment-map/"
@@ -377,7 +373,6 @@
       "/notes/rung-2-the-service/",
       "/notes/the-alignment-map/",
       "/notes/the-codify-case-study/",
-      "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
       "/notes/training-by-voice-note/",
       "/notes/what-changes/",
@@ -389,8 +384,7 @@
       "compounding"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z",
-    "isStarred": true
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-genius-with-amnesia/": {
     "slug": "/notes/the-genius-with-amnesia/",
@@ -420,7 +414,7 @@
       "concept"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-managed-service/": {
     "slug": "/notes/the-managed-service/",
@@ -430,7 +424,6 @@
       "the-managed-service"
     ],
     "outbound": [
-      "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
       "/notes/you-own-everything/"
     ],
@@ -444,37 +437,7 @@
       "experience"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
-  },
-  "/notes/the-morning-brief/": {
-    "slug": "/notes/the-morning-brief/",
-    "title": "The morning brief",
-    "collection": "notes",
-    "aliases": [
-      "the-morning-brief"
-    ],
-    "outbound": [
-      "/notes/decision-gates/",
-      "/notes/training-by-voice-note/",
-      "/notes/the-compounding-loop/",
-      "/notes/clients-while-you-sleep/"
-    ],
-    "inbound": [
-      "/notes/decision-gates/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-managed-service/",
-      "/notes/the-privacy-line/",
-      "/notes/training-by-voice-note/",
-      "/notes/what-changes/",
-      "/notes/what-happens-each-week/"
-    ],
-    "tags": [
-      "concept",
-      "interface",
-      "experience"
-    ],
-    "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-privacy-line/": {
     "slug": "/notes/the-privacy-line/",
@@ -485,8 +448,7 @@
     ],
     "outbound": [
       "/notes/the-static-brain/",
-      "/notes/you-own-everything/",
-      "/notes/the-morning-brief/"
+      "/notes/you-own-everything/"
     ],
     "inbound": [],
     "tags": [
@@ -495,7 +457,7 @@
       "trust"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-static-brain/": {
     "slug": "/notes/the-static-brain/",
@@ -542,7 +504,7 @@
       "substrate"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z",
+    "updated": "2026-09-14T00:00:00.000Z",
     "isStarred": true
   },
   "/notes/the-three-rungs/": {
@@ -578,13 +540,12 @@
   },
   "/notes/training-by-voice-note/": {
     "slug": "/notes/training-by-voice-note/",
-    "title": "Training by voice note",
+    "title": "You correct it by saying so",
     "collection": "notes",
     "aliases": [
       "training-by-voice-note"
     ],
     "outbound": [
-      "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
       "/notes/the-compounding-loop/"
     ],
@@ -594,7 +555,6 @@
       "/notes/rung-2-the-service/",
       "/notes/the-compounding-loop/",
       "/notes/the-managed-service/",
-      "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
       "/notes/what-happens-each-week/",
       "/notes/your-voice/"
@@ -605,7 +565,7 @@
       "training"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/what-changes/": {
     "slug": "/notes/what-changes/",
@@ -618,7 +578,6 @@
       "/notes/the-static-brain/",
       "/notes/the-alignment-map/",
       "/notes/the-compounding-loop/",
-      "/notes/the-morning-brief/",
       "/notes/rung-0-snapshot/",
       "/notes/the-three-rungs/",
       "/notes/the-genius-with-amnesia/"
@@ -632,7 +591,7 @@
       "transformation"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/what-happens-each-week/": {
     "slug": "/notes/what-happens-each-week/",
@@ -649,7 +608,6 @@
     "outbound": [
       "/notes/the-static-brain/",
       "/notes/the-managed-service/",
-      "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
       "/notes/decision-gates/",
       "/notes/the-alignment-map/"
@@ -663,7 +621,7 @@
       "managed-service"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/who-its-for/": {
     "slug": "/notes/who-its-for/",
@@ -688,7 +646,7 @@
       "fit"
     ],
     "status": "live",
-    "updated": "2026-05-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/you-own-everything/": {
     "slug": "/notes/you-own-everything/",
@@ -717,7 +675,7 @@
       "sovereignty"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/your-audience/": {
     "slug": "/notes/your-audience/",
@@ -749,7 +707,7 @@
       "foundation-build"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/your-beliefs/": {
     "slug": "/notes/your-beliefs/",
@@ -783,7 +741,7 @@
       "foundation-build"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/your-offer/": {
     "slug": "/notes/your-offer/",
@@ -815,7 +773,7 @@
       "foundation-build"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/your-voice/": {
     "slug": "/notes/your-voice/",
@@ -847,6 +805,6 @@
       "foundation-build"
     ],
     "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   }
 }

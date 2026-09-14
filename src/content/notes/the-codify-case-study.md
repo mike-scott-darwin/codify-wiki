@@ -3,7 +3,7 @@ title: "The Codify case study"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-09-14
 tags: [proof, case-study]
 aliases: [the-codify-case-study]
 summary: "This isn't theory. We built a business on this system before we built the product."

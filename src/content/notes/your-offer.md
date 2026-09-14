@@ -3,13 +3,13 @@ title: "Your offer"
 visibility: public
 status: live
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [reference-file, concept, foundation-build]
 aliases: [your-offer]
 summary: "What you sell, what it costs, what's included and what you turn down. The file that stops your marketing writing cheques the business can't cash."
 ---
 
-*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the Build]].*
+*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the site rebuild]].*
 
 **The question it answers:** what exactly are you selling, what does it cost, and why should anyone believe it's worth that?
 

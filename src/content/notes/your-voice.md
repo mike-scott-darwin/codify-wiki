@@ -3,13 +3,13 @@ title: "Your voice"
 visibility: public
 status: live
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [reference-file, concept, foundation-build]
 aliases: [your-voice]
 summary: "How you sound, the words you use, and the words you'd never use. The file that decides whether the output sounds like you."
 ---
 
-*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the Build]].*
+*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the site rebuild]].*
 
 **The question it answers:** if someone else wrote this, would anyone be able to tell?
 

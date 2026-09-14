@@ -3,7 +3,7 @@ title: "The static brain"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [mechanism, concept, substrate]
 aliases: [the-static-brain]
 summary: "Your business knowledge in four short documents - and the only reason anyone can check whether the rest of your marketing is still true."

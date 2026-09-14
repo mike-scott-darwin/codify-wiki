@@ -24,7 +24,7 @@ A consultant gives you a report that's stale in three months. Codify gives you a
 **"That's a lot for a website."**
 It isn't two conversations and a homepage. Ask a different question first: how many past customers, old quotes and cold enquiries are sitting in your system right now — and when did anyone last write to them in your voice? For most businesses it's thousands, and never. That list is the second thing you get, loaded into your own account with a campaign written the way you actually talk, staged and waiting for you to press send. The written-down part is what makes it sound like you instead of like a template — that's what it's for. And you pay half to start, half when the campaign is ready. → [[rung-1-foundation-build]]
 
-**"Do I have to buy the subscription after the Build?"**
+**"Do I have to buy the subscription after the site rebuild?"**
 No, and there's no credit or discount pushing you into it. What usually decides it is that by the time we get to the walkthrough your campaign has already gone out and people have replied — and the obvious next question is what happens to the list next month, and the month after. If your marketing has been saying the right things for years, keep your money; we'll tell you that on the walkthrough. → [[rung-2-the-service]]
 
 **"What am I actually paying for each month?"**

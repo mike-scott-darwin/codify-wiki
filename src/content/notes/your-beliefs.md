@@ -3,13 +3,13 @@ title: "Your beliefs"
 visibility: public
 status: live
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [reference-file, concept, foundation-build]
 aliases: [your-beliefs]
 summary: "The judgment calls that make the work yours. The hardest of the four to write and the one that does the most work."
 ---
 
-*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the Build]].*
+*One of the [[the-static-brain|four documents]] written at [[rung-1-foundation-build|the site rebuild]].*
 
 **The question it answers:** why do you do it *that* way, when almost everyone in your trade does it differently?
 
@@ -37,7 +37,7 @@ Practically, it also means every new hire, freelancer and agency starts from zer
 
 ## Why it takes two conversations
 
-You can't write this one from a form, and nobody can write it for you. It comes out of being asked *"why?"* four times in a row about something you'd never thought to question. That's the whole reason [[rung-1-foundation-build|the Build]] costs what it costs — the price is the extraction, not the documents.
+You can't write this one from a form, and nobody can write it for you. It comes out of being asked *"why?"* four times in a row about something you'd never thought to question. That's the whole reason [[rung-1-foundation-build|the site rebuild]] costs what it costs — the price is the extraction, not the documents.
 
 ---
 

@@ -15,7 +15,7 @@ This is the paid step after the free Snapshot. **We agree exactly which pages be
 
 **How you pay it: half when we start, half at launch.** You're not writing one cheque for a promise. The second half falls due when the work is sitting in your account waiting on your approval — so if we don't ship, we haven't earned it. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
 
-Right now your business is written down in a dozen places and none of them quite agree. Your homepage says one thing, your Google listing says something older, the proposal you email says it in different words. That isn't sloppiness — it's what happens when the real version only lives in your head and everyone downstream has to guess at it. The Build is where guessing stops.
+Right now your business is written down in a dozen places and none of them quite agree. Your homepage says one thing, your Google listing says something older, the proposal you email says it in different words. That isn't sloppiness — it's what happens when the real version only lives in your head and everyone downstream has to guess at it. The site rebuild is where guessing stops.
 
 **What that buys you:** everyone who meets your business learns the same thing about what you stand for and who you're for — whether they land on your homepage, read an email, get handed a proposal, or find you in a search result.
 
@@ -81,7 +81,7 @@ Not "we'll tell you it's finished." Every line below is something you can check 
 - **The drift receipt shows your own homepage copy at three points across recent years** beside what your customers were saying at each of those times — both sides quoted, nothing paraphrased. If your site is too new, or those years weren't archived anywhere, we tell you that plainly instead of padding it out.
 - **You've been told out loud what we checked, what failed the check, and what we chose not to fix** — and you have that in writing.
 
-If any one of those isn't true, the Build isn't finished. Say so, and we'll close it before we ask you about anything else.
+If any one of those isn't true, the site rebuild isn't finished. Say so, and we'll close it before we ask you about anything else.
 
 Two of those lines are deliberately uncomfortable for us. The drift receipt argues the work isn't really finished, and the walkthrough tells you what we got wrong. They're on the list on purpose — a finish line you can only take our word for isn't a finish line.
 
@@ -99,7 +99,7 @@ No terminal, no tools, no homework, nothing to install. Two calls, about ninety 
 
 **It is not a website build.** Four documents and *one* homepage. Not five pages, not a blog, not a rebrand.
 
-**And the alignment map is a read, not a rewrite.** At the Build we find every place your marketing disagrees with itself and hand you the list in priority order, with the reason each one matters. Working down that list — and keeping it closed as your customers' language keeps moving — is what [[rung-2-the-service|the service]] is. We'd rather hand you an honest list than quietly turn a two-week build into a six-week website project.
+**And the alignment map is a read, not a rewrite.** At the site rebuild we find every place your marketing disagrees with itself and hand you the list in priority order, with the reason each one matters. Working down that list — and keeping it closed as your customers' language keeps moving — is what [[rung-2-the-service|the service]] is. We'd rather hand you an honest list than quietly turn a two-week build into a six-week website project.
 
 We're strict about this and it's worth saying why: the price reflects how deep we go into your expertise, not how many pages we produce. The moment it becomes page-count work, it stops being extraction and we become a web shop — and you'd be paying five figures for something a freelancer does cheaper and better. If you need a multi-page site, we'll say so and point you at someone.
 
@@ -114,7 +114,7 @@ Two ways, decided by you — once at the free rung and again here:
 
 ## Where it goes next
 
-The Build gets everything true *once*, and hands you the map of what's still out of step. Then your customers' language shifts, your offer changes, you add a service — and it starts drifting again. [[rung-2-the-service]] is what keeps it true. → [[the-three-rungs]]
+The site rebuild gets everything true *once*, and hands you the map of what's still out of step. Then your customers' language shifts, your offer changes, you add a service — and it starts drifting again. [[rung-2-the-service]] is what keeps it true. → [[the-three-rungs]]
 
 You own all of it either way. → [[you-own-everything]]
 

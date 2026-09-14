@@ -1,9 +1,9 @@
 ---
-title: "Training by voice note"
+title: "You correct it by saying so"
 visibility: public
 status: live
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [concept, experience, training]
 aliases: [training-by-voice-note]
 summary: "You don't tune the system with settings. You tune it the way you'd correct a sharp new hire — by telling it what was off."
@@ -11,7 +11,7 @@ summary: "You don't tune the system with settings. You tune it the way you'd cor
 
 You don't tune the system with settings. You tune it the way you'd correct a sharp new hire — by telling it what was off.
 
-You reply to [[the-morning-brief|the morning brief]] with a voice note: *"Too long." "That's off-voice." "Never lead with price." "Use my words for this, not that."* Every correction lands back in [[the-static-brain]] as a rule it keeps. The next batch comes back closer to how you'd have written it.
+Mostly that happens on [[the-call|the call]], where we go through the work with you: *"Too long." "That's off-voice." "Never lead with price." "Use my words for this, not that."* If something can't wait, send it to us — a message, a voice note, whatever's quickest. Every correction lands back in [[the-static-brain]] as a rule it keeps, and the next batch comes back closer to how you'd have written it.
 
 ## Why this is the whole training interface
 
@@ -23,4 +23,4 @@ A voice note isn't a one-time fix. *"Never lead with price"* doesn't correct one
 
 ---
 
-**Related:** [[the-static-brain]] · [[the-compounding-loop]] · [[the-morning-brief]]
+**Related:** [[the-static-brain]] · [[the-compounding-loop]] · [[the-call]]

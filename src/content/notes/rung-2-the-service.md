@@ -16,7 +16,7 @@ The rebuild got your site saying the right thing. This is what keeps it that way
 ## What the monthly covers
 
 - **Your list keeps working.** Every job you finish this month and every quote that doesn't close becomes next month's campaign. The message gets sharper from what people actually reply — not from what we guessed. Review requests go out to the customers who just had a good experience, while it's still fresh.
-- **The map becomes the queue.** At the Build we handed you a ranked list of everywhere your marketing disagrees with itself. This is us working down it and keeping it closed. Month one usually starts with your Google Business Profile — most people see you there first, and it's the fastest thing to put right. → [[the-alignment-map]]
+- **The map becomes the queue.** At the site rebuild we handed you a ranked list of everywhere your marketing disagrees with itself. This is us working down it and keeping it closed. Month one usually starts with your Google Business Profile — most people see you there first, and it's the fastest thing to put right. → [[the-alignment-map]]
 - **Your four documents kept current** as the business actually changes.
 - **Your homepage and owned copy kept true** to what customers are saying now, not what they said when we wrote it.
 - **Your Google Business Profile and listings kept accurate**, and **review replies drafted in your voice for you to post.** We write them; you post them. Watching the feed and answering within the hour is a different job, and it scales with how many reviews you get rather than with how well we know you.
@@ -58,7 +58,7 @@ Feed it your top 10 emails, your last 5 sales-call transcripts, your best landin
 
 ## How you enter
 
-Talk to Michael. No self-serve, and no sign-up before the Build — there'd be nothing to keep true yet. → [[the-three-rungs]]
+Talk to Michael. No self-serve, and no sign-up before the site rebuild — there'd be nothing to keep true yet. → [[the-three-rungs]]
 
 Cancel any time, keep everything. → [[you-own-everything]]
 

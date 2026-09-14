@@ -6,12 +6,12 @@ created: 2026-05-30
 updated: 2026-09-14
 tags: [flagship-play, mechanism]
 aliases: [clients-while-you-sleep]
-summary: "The full-lane play — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop, and."
+summary: "The play quoted on a call — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop, and."
 ---
 
 > **This is not on any published plan.** It's the play that goes out and *finds* you new business — not included in any monthly plan, and quoted on a call against how much of your business you hand over. → [[rung-2-the-service]]
 
-The full-lane play — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop — the sharpest demonstration of the architecture, and the part of the service you add when you want new business found, not just kept true.
+The play quoted on a call — going out and finding you new business, described in sixty seconds. It's the overnight cold-outreach loop — the sharpest demonstration of the architecture, and the part of the service you add when you want new business found, not just kept true.
 
 Overnight, reading from [[the-static-brain|your four documents]]:
 

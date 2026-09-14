@@ -3,7 +3,7 @@ title: "The privacy line"
 visibility: public
 status: updated
 created: 2026-06-11
-updated: 2026-08-30
+updated: 2026-09-14
 tags: [concept, sovereignty, trust]
 aliases: [the-privacy-line]
 summary: "Your brain is private. Your marketing is public. The system checks the line every time something goes out."
@@ -31,4 +31,4 @@ How it works in practice:
 
 ---
 
-**Related:** [[you-own-everything]] · [[the-static-brain]] · [[the-morning-brief]]
+**Related:** [[you-own-everything]] · [[the-static-brain]] · [[the-call]]

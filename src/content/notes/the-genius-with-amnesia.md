@@ -3,7 +3,7 @@ title: "Why your marketing sounds like everyone else's"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [problem, concept]
 aliases: [the-genius-with-amnesia, why-your-marketing-sounds-generic]
 summary: "Quality workmanship, fair prices, on time. True of you and true of every competitor in your postcode - and there's a specific reason everyone ends up there."

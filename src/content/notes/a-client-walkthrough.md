@@ -27,7 +27,7 @@ This is the on-ramp, and it costs nothing. It proves the method on one page. →
 
 *Worked illustration from here down.*
 
-The Snapshot proved one page from the outside. The Build is two conversations that get what's actually in the owner's head onto paper — then finishes the job:
+The Snapshot proved one page from the outside. The site rebuild is two conversations that get what's actually in the owner's head onto paper — then finishes the job:
 
 - **Four documents they own outright** — [[your-voice|voice]], [[your-audience|customers]], [[your-offer|offer]], [[your-beliefs|beliefs]]. Theirs whether or not they continue. These are the source: everything after this gets written *from* them, and everything already out there gets measured *against* them.
 - **That homepage finished and deployed live**, not left as a prototype.
@@ -42,9 +42,9 @@ The Snapshot proved one page from the outside. The Build is two conversations th
 
 *Worked illustration.*
 
-The Build got it right once. Six months on, they've added a service, two crew, and forty new reviews — and the page is quietly drifting again. The service is what stops that:
+The site rebuild got it right once. Six months on, they've added a service, two crew, and forty new reviews — and the page is quietly drifting again. The service is what stops that:
 
-- **The alignment map worked down, line by line** — the list handed over at the Build, closed out in priority order rather than filed away.
+- **The alignment map worked down, line by line** — the list handed over at the site rebuild, closed out in priority order rather than filed away.
 - **The four documents kept current** as the business actually changes.
 - **Homepage and owned copy kept true** to what customers say *now*.
 - **Reviews, replies, listings and the Google Business Profile** maintained — the boring, visible things that decide whether someone calls.
@@ -57,7 +57,7 @@ And this is where the loop starts paying: a one-line voice note — *"stop calli
 
 ## What this shows
 
-The free redline, the Build and the service are **the same system at three depths** — not three products. The documents authored at the Build are the same documents every later output reads from. Nothing starts over, and ownership lands at the Build rather than at the top.
+The free redline, the site rebuild and the service are **the same system at three depths** — not three products. The documents authored at the site rebuild are the same documents every later output reads from. Nothing starts over, and ownership lands at the site rebuild rather than at the top.
 
 ---
 
