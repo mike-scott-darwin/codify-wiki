@@ -3,10 +3,10 @@ title: "A client walkthrough"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [proof, walkthrough, offer]
 aliases: [a-client-walkthrough]
-summary: "One business through all three rungs. Rung 0 is a real run; rungs 1 and 2 are worked illustrations, and this page says so up front."
+summary: "One business end to end. The Snapshot is a real run; the rebuild and the monthly are worked illustrations, and this page says which is which."
 ---
 
 One business, all three rungs — [[the-three-rungs]] made concrete. Watch what stays constant: every line traces back to something a customer actually wrote.
@@ -23,7 +23,7 @@ It found the gap in five seconds: the word *"Charlotte"* appeared nowhere on the
 
 This is the on-ramp, and it costs nothing. It proves the method on one page. → full detail in [[a-worked-example]], or open the [live rebuild](https://previews.codify.build/stonecraft-kitchen-bath-remodeling/).
 
-## Rung 1 — the Foundation Build ($4,997, once): getting it written down
+## The rebuild: getting it written down
 
 *Worked illustration from here down.*
 
@@ -38,7 +38,7 @@ The Snapshot proved one page from the outside. The Build is two conversations th
 
 **One extra kitchen job pays for this several times over.** That's the whole arithmetic, and it needs no belief in AI to follow.
 
-## Rung 2 — the service ($1,497/mo): keeping it true
+## The monthly: keeping it true
 
 *Worked illustration.*
 
@@ -51,7 +51,7 @@ The Build got it right once. Six months on, they've added a service, two crew, a
 - **Follow-up sequences kept in their voice.**
 - **A person reads every batch** before it reaches them.
 
-> **The nightly prospecting engine is not in this price.** Going out and *finding* new business is [[clients-while-you-sleep|full-lane work]], quoted on a call against how much of the business gets handed over. The published $1,497 keeps what they already have true. → [[rung-2-the-service]]
+> **The nightly prospecting engine is not on any published plan.** Going out and *finding* new business is [[clients-while-you-sleep|work that is not on any plan]], quoted on a call against how much of the business gets handed over. The monthly plan keeps what they already have true. → [[rung-2-the-service]]
 
 And this is where the loop starts paying: a one-line voice note — *"stop calling it a remodel, they call it a reno"* — is saved once and inherited by every future output. → [[the-compounding-loop]]
 

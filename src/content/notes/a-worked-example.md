@@ -1,9 +1,9 @@
 ---
 title: "A worked example"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
-updated: 2026-08-25
+updated: 2026-09-14
 tags: [proof, worked-example, snapshot]
 aliases: [a-worked-example]
 summary: "A real Snapshot, start to finish — Stonecraft Kitchen & Bath in Charlotte, rebuilt from 50 of their own Google reviews. Nobody asked us to."
@@ -65,4 +65,4 @@ And every line is answerable. If a sentence is wrong, it's wrong because a revie
 
 ## What happens next
 
-This rebuild is the free rung. To see what a business gets when they carry on to the [[rung-1-foundation-build|Foundation Build]] and the [[rung-2-the-service|service]], read [[a-client-walkthrough]].
+This rebuild is the free one. To see what a business gets when they carry on to the [[rung-1-foundation-build|full site rebuild]] and the [[rung-2-the-service|service]], read [[a-client-walkthrough]].

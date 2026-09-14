@@ -1,19 +1,19 @@
 ---
-title: "Rung 1 — The Foundation Build ($4,997, once)"
+title: "Your site, rebuilt"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-30
+updated: 2026-09-14
 tags: [offer, foundation-build, rung]
 aliases: [rung-1-foundation-build]
-summary: "Two conversations get what's in your head onto paper - then everything you've already published gets measured against it."
+summary: "Your whole site rebuilt from what your customers already said about you - and nothing you currently earn lost in the move."
 ---
 
-**Your homepage finished and live, and the customer list you already own working again.**
+**Your whole site rebuilt from what your customers already said about you — and nothing you currently earn lost in the move.**
 
-This is the only paid step before the subscription, and it's where ownership lands. No credits, no chain of upsells.
+This is the paid step after the free Snapshot. **We agree exactly which pages before we quote, and the number holds.** No credits, no chain of upsells.
 
-**How you pay it: half when we start, half when your campaign is staged and ready for you to send.** You're not writing one cheque for a promise. The second half falls due when the work is sitting in your account waiting on your approval — so if we don't ship, we haven't earned it. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
+**How you pay it: half when we start, half at launch.** You're not writing one cheque for a promise. The second half falls due when the work is sitting in your account waiting on your approval — so if we don't ship, we haven't earned it. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
 
 Right now your business is written down in a dozen places and none of them quite agree. Your homepage says one thing, your Google listing says something older, the proposal you email says it in different words. That isn't sloppiness — it's what happens when the real version only lives in your head and everyone downstream has to guess at it. The Build is where guessing stops.
 

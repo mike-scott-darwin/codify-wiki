@@ -21,8 +21,7 @@
     ],
     "inbound": [
       "/notes/a-worked-example/",
-      "/notes/how-codify-works/",
-      "/notes/the-three-rungs/"
+      "/notes/how-codify-works/"
     ],
     "tags": [
       "proof",
@@ -30,7 +29,7 @@
       "offer"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/a-worked-example/": {
     "slug": "/notes/a-worked-example/",
@@ -56,8 +55,8 @@
       "worked-example",
       "snapshot"
     ],
-    "status": "live",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "status": "updated",
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/clients-while-you-sleep/": {
     "slug": "/notes/clients-while-you-sleep/",
@@ -70,7 +69,6 @@
       "/notes/rung-2-the-service/",
       "/notes/the-static-brain/",
       "/notes/what-happens-each-week/",
-      "/notes/the-morning-brief/",
       "/notes/decision-gates/",
       "/notes/the-compounding-loop/",
       "/notes/a-worked-example/",
@@ -89,7 +87,7 @@
       "mechanism"
     ],
     "status": "updated",
-    "updated": "2026-08-25T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/common-questions/": {
     "slug": "/notes/common-questions/",
@@ -118,7 +116,7 @@
       "faq"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/decision-gates/": {
     "slug": "/notes/decision-gates/",
@@ -167,7 +165,6 @@
       "/notes/rung-2-the-service/",
       "/notes/you-own-everything/",
       "/notes/the-managed-service/",
-      "/notes/the-morning-brief/",
       "/notes/training-by-voice-note/",
       "/notes/what-happens-each-week/",
       "/notes/the-compounding-loop/",
@@ -188,7 +185,7 @@
       "codify-flow"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/rung-0-snapshot/": {
     "slug": "/notes/rung-0-snapshot/",
@@ -220,11 +217,11 @@
       "rung"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/rung-1-foundation-build/": {
     "slug": "/notes/rung-1-foundation-build/",
-    "title": "Rung 1 — The Foundation Build ($4,997, once)",
+    "title": "Your site, rebuilt",
     "collection": "notes",
     "aliases": [
       "rung-1-foundation-build"
@@ -263,11 +260,12 @@
       "rung"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z",
+    "isStarred": true
   },
   "/notes/rung-2-the-service/": {
     "slug": "/notes/rung-2-the-service/",
-    "title": "Rung 2 — The service ($1,497/mo)",
+    "title": "The monthly plan",
     "collection": "notes",
     "aliases": [
       "rung-2-the-service"
@@ -298,7 +296,7 @@
       "rung"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/the-alignment-map/": {
     "slug": "/notes/the-alignment-map/",
@@ -322,7 +320,6 @@
       "/notes/the-compounding-loop/",
       "/notes/the-genius-with-amnesia/",
       "/notes/the-static-brain/",
-      "/notes/the-three-rungs/",
       "/notes/what-changes/",
       "/notes/what-happens-each-week/",
       "/notes/your-offer/"
@@ -382,7 +379,6 @@
       "/notes/the-codify-case-study/",
       "/notes/the-morning-brief/",
       "/notes/the-static-brain/",
-      "/notes/the-three-rungs/",
       "/notes/training-by-voice-note/",
       "/notes/what-changes/",
       "/notes/you-own-everything/",
@@ -464,9 +460,7 @@
       "/notes/clients-while-you-sleep/"
     ],
     "inbound": [
-      "/notes/clients-while-you-sleep/",
       "/notes/decision-gates/",
-      "/notes/how-codify-works/",
       "/notes/the-compounding-loop/",
       "/notes/the-managed-service/",
       "/notes/the-privacy-line/",
@@ -553,7 +547,7 @@
   },
   "/notes/the-three-rungs/": {
     "slug": "/notes/the-three-rungs/",
-    "title": "The three rungs",
+    "title": "What you actually buy",
     "collection": "notes",
     "aliases": [
       "the-three-rungs"
@@ -561,11 +555,7 @@
     "outbound": [
       "/notes/rung-0-snapshot/",
       "/notes/rung-1-foundation-build/",
-      "/notes/the-alignment-map/",
-      "/notes/rung-2-the-service/",
-      "/notes/you-own-everything/",
-      "/notes/the-compounding-loop/",
-      "/notes/a-client-walkthrough/"
+      "/notes/rung-2-the-service/"
     ],
     "inbound": [
       "/notes/a-client-walkthrough/",
@@ -584,7 +574,7 @@
       "ladder"
     ],
     "status": "updated",
-    "updated": "2026-08-30T00:00:00.000Z"
+    "updated": "2026-09-14T00:00:00.000Z"
   },
   "/notes/training-by-voice-note/": {
     "slug": "/notes/training-by-voice-note/",
@@ -720,8 +710,7 @@
       "/notes/the-alignment-map/",
       "/notes/the-managed-service/",
       "/notes/the-privacy-line/",
-      "/notes/the-static-brain/",
-      "/notes/the-three-rungs/"
+      "/notes/the-static-brain/"
     ],
     "tags": [
       "concept",

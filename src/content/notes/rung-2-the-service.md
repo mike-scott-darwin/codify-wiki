@@ -1,19 +1,19 @@
 ---
-title: "Rung 2 — The service ($1,497/mo)"
+title: "The monthly plan"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-30
+updated: 2026-09-14
 tags: [offer, service, rung]
 aliases: [rung-2-the-service]
 summary: "Your marketing, kept true to your customers - as their language moves and your offer changes. A person reads every batch."
 ---
 
-**Your list keeps producing, and your marketing stays true to your customers.**
+**The quotes that went quiet get followed up, and everything you publish stays true to what your customers actually say.**
 
-The Build switched two things on and got the rest written down. This is what keeps them running — because your list refills every month, your customers' language moves, and copy that was accurate in March quietly stops being accurate by September.
+The rebuild got your site saying the right thing. This is what keeps it that way — because your list refills every month, your customers' language moves, and copy that was accurate in March quietly stops being accurate by September.
 
-## What $1,497 covers
+## What the monthly covers
 
 - **Your list keeps working.** Every job you finish this month and every quote that doesn't close becomes next month's campaign. The message gets sharper from what people actually reply — not from what we guessed. Review requests go out to the customers who just had a good experience, while it's still fresh.
 - **The map becomes the queue.** At the Build we handed you a ranked list of everywhere your marketing disagrees with itself. This is us working down it and keeping it closed. Month one usually starts with your Google Business Profile — most people see you there first, and it's the fastest thing to put right. → [[the-alignment-map]]
@@ -24,7 +24,7 @@ The Build switched two things on and got the rest written down. This is what kee
 - **A person reads every batch before it reaches you.** Not a filter, not a scoring model. A human being.
 - **A call every month**, because voice gets sharp on a call and nowhere else.
 
-No setup fee. No app to install. No dashboard to log into. You live in a short morning message and in your own account.
+No setup fee. No app to install. No dashboard to log into. No daily update to keep up with. The work lands in your own account, and we manage it with you on a call.
 
 ## What it doesn't cover
 

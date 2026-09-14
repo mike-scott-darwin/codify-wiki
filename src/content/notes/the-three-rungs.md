@@ -1,48 +1,32 @@
 ---
-title: "The three rungs"
+title: "What you actually buy"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-30
+updated: 2026-09-14
 tags: [concept, offer, ladder]
 aliases: [the-three-rungs]
-summary: "Free rebuild, one paid build, one monthly. Ownership lands at the Build, not at the top."
+summary: "A free rebuilt homepage, then the site rebuild, then a monthly plan. Everything we write is yours from the moment it ships."
 ---
 
-Three steps, and only one of them is a decision you make cold.
+**Two things, and you get to look at the first one for free.**
 
-- **[[rung-0-snapshot]] — free.** We rebuild your homepage from your own customers' words and send it to you. No call, no card, no obligation.
-- **[[rung-1-foundation-build]] — $4,997.** Two things you already own, working. Your homepage finished and live, and the customer list sitting in your system loaded into your own account with a campaign written the way you actually talk — staged, waiting on your say-so. Underneath both: two conversations that get what's in your head onto paper as four documents you own, an honest read of where your calls come from, and [[the-alignment-map|a map]] of every place your existing marketing still says something different. **Half to start, half when your campaign is ready to send.**
-- **[[rung-2-the-service]] — $1,497/mo.** The list keeps producing, and all of it stays true as your business and your customers change.
+- **[[rung-0-snapshot]] — free.** We rebuild your homepage from your own customers' words and send it to you. No call, no card, nothing to install. You can hand it to your own web person and ship it, and we'd rather you did that than nothing.
+- **[[rung-1-foundation-build]] — your site rebuilt.** Every page written from what your customers already said about you, your existing addresses redirected so you don't lose what you already earn, and an enquiry form that actually reaches you. **Quoted once we've agreed exactly which pages** — because quoting a website before listing the pages is how people end up with change orders.
+- **[[rung-2-the-service]] — a monthly plan.** The quotes that went quiet get followed up, your listing shows the work you just finished, your reviews get answered, and a page appears each month for the work you want more of.
 
 ## Why it's a sequence, not a menu
 
-You can't pick rung 2 without rung 1, because there'd be nothing to keep true. The Build is where your business gets written down and your two idle assets get switched on; the service is what stops it going stale and keeps the list producing. That's the whole logic.
+The plan only makes sense after the site, because otherwise there's nothing to keep true. And the site only works because of the reading we do first — every page comes out of your reviews, your existing site, and the things you already send customers.
 
-**Why the free rung leads to the paid one, honestly.** The rebuild proves we can hear your customers — it's their words on your page. The Build points that same hearing at the people who already bought from you. Same job, second asset. Nobody's switching you to a different product halfway up.
+**The free one isn't a teaser.** It's real spec work. If you take it and walk away, that's a fine outcome and you owe nothing.
 
-The clean line between them: **the Build maps what's out of step. The service works down the list.** We don't rewrite everything you own for $4,997 — that would be a website project wearing a different name, and you'd be paying five figures for it.
+## You don't sit through a workshop
 
-And the free rung isn't a teaser. It's real spec work — a homepage you could hand to your own web person tomorrow and ship. If you never speak to us again, you're still ahead.
+We don't need a half-day session to get started. We read what your customers have already written about you, look at what you currently publish, and ask you for a handful of things you already have — a recent proposal, a few emails you've sent customers, your price list if there is one.
 
-## Ownership lands at the Build, not at the top
+That's the part most people expect to be painful, and it's the part we do without you.
 
-This used to be a "graduation path" where you climbed toward owning your own files. **That was wrong and we changed it.** Ownership isn't a reward for spending more — the four documents are yours outright the moment the Build is done, whether or not you continue, and whether or not you like us.
+## Nothing is held back
 
-Every agency's quiet arrangement is that the system walks out the door with them. Ours doesn't. You can cancel the month after the Build and keep everything ([[you-own-everything]]).
-
-## What stays constant at every rung
-
-Your knowledge lives in four plain files you own. They work with any AI, now or in five years. Nobody needs our permission to read them. And a person — a human being — reads every batch of work before it reaches you. That's true on the free rung and it's true on the paid one. It is not a lever we pull when things get busy.
-
-The thing that grows is the brain, and [[the-compounding-loop|it compounds]] the longer it runs.
-
-## About sizing
-
-If the service ever needs to be bigger, the only thing that changes it is **how much of your business you hand over** — starting with your website, then your funnels, your email, your ads, in that order and at your pace. Never how many agents are running or how often. That's our problem, not your pricing.
-
-> See it for real: [[a-client-walkthrough]] — one med spa through all three rungs, with screenshots.
-
----
-
-**Related:** [[rung-0-snapshot]] · [[rung-1-foundation-build]] · [[rung-2-the-service]] · [[you-own-everything]]
+Everything we write for you is yours from the moment it ships — the pages, the copy, the sequences. There's no tier where you finally get to own your own words, and cancelling doesn't take anything away.

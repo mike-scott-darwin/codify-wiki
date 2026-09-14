@@ -3,7 +3,7 @@ title: "How Codify Works"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-08-30
+updated: 2026-09-14
 tags: [moc, codify-flow]
 aliases: [how-codify-works, start-here, how-it-works]
 summary: "Your marketing says the same true thing about your business everywhere it's said - and keeps saying it as your business changes. Start here."
@@ -56,17 +56,19 @@ We rebuild your homepage using your own customers' words, from your public revie
 
 No call, no card, no obligation. If you never speak to us again you've still got a homepage you could hand to your own web person tomorrow.
 
-### $4,997 — [[rung-1-foundation-build|the build]]
+### Then the site rebuild — [[rung-1-foundation-build|the whole thing, done properly]]
 
 **Two things you already own, working.** Your homepage finished and live. And your customer list loaded into your own account with a campaign written the way you actually talk — staged, paused, waiting for you to press send.
 
-Underneath both: the two conversations and the four documents they produce, yours outright. An honest read of where your calls actually come from, from your own accounts. Your contacts and follow-up set up properly. The alignment map. And the drift receipt — what your homepage said in 2019, in 2022 and today, against what your customers were saying each of those years.
+Underneath both: an honest read of where your calls actually come from, from your own accounts. Your contacts and follow-up set up properly. The alignment map. And the drift receipt — what your homepage said in 2019, in 2022 and today, against what your customers were saying each of those years.
+
+**We agree exactly which pages before we quote, and the number holds.** You never get a price before we both know what's in it.
 
 **Half to start, half when your campaign is staged and ready for you to send.** You're not writing one cheque for a promise — the second half falls due when the work is sitting in your account waiting on your approval. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
 
 You're not signed up to anything afterwards.
 
-### $1,497 a month — [[rung-2-the-service|keeping it going]]
+### Then a monthly plan — [[rung-2-the-service|keeping it going]]
 
 **Your list keeps producing, and everything stays true.** Every job you finish this month and every quote that doesn't close becomes next month's campaign, sharpened by what people actually reply.
 
@@ -80,7 +82,7 @@ Month to month. Cancel any time. You keep everything either way. → [[you-own-e
 
 **You never open a terminal, a dashboard or an app.** We run it. → [[the-managed-service]]
 
-Each morning you get a short message on your phone: here's what's ready, tap to approve. That's a minute of your day and it's the whole interface. → [[the-morning-brief]]
+It's all waiting in the account you already run your business from — drafts, paused sequences, nothing sent. You send what you want. We manage it with you on a call. → [[the-call]]
 
 If something's off, you reply with a voice note — *"too long," "that's not how I'd say it," "never lead with price"* — and it becomes a rule we keep. → [[training-by-voice-note]]
 
@@ -114,9 +116,9 @@ We write the understanding down and give it to you. It's four plain files in you
 
 **Your four documents** · [[the-static-brain]] · [[your-voice]] · [[your-audience]] · [[your-offer]] · [[your-beliefs]]
 
-**What you get back** · [[the-alignment-map]] · [[the-morning-brief]] · [[decision-gates]] · [[training-by-voice-note]]
+**What you get back** · [[the-alignment-map]] · [[the-call]] · [[decision-gates]] · [[training-by-voice-note]]
 
-**How it's run** · [[the-managed-service]] · [[what-happens-each-week]] · [[clients-while-you-sleep]] *(quoted separately — not in the $1,497)*
+**How it's run** · [[the-managed-service]] · [[what-happens-each-week]] · [[clients-while-you-sleep]] *(not on a published plan; quoted separately)*
 
 **Why it holds up** · [[you-own-everything]] · [[the-compounding-loop]]
 
