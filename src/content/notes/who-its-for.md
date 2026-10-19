@@ -31,4 +31,4 @@ Still deciding? → [[common-questions]] · [[the-three-rungs]]
 
 ---
 
-**Related:** [[the-genius-with-amnesia]] · [[the-codify-case-study]] · [[common-questions]]
+**Related:** [[the-genius-with-amnesia]] · [[common-questions]]
