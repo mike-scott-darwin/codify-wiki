@@ -1,36 +1,4 @@
 {
-  "/notes/a-client-walkthrough/": {
-    "slug": "/notes/a-client-walkthrough/",
-    "title": "A client walkthrough",
-    "collection": "notes",
-    "aliases": [
-      "a-client-walkthrough"
-    ],
-    "outbound": [
-      "/notes/the-three-rungs/",
-      "/notes/a-worked-example/",
-      "/notes/your-voice/",
-      "/notes/your-audience/",
-      "/notes/your-offer/",
-      "/notes/your-beliefs/",
-      "/notes/the-alignment-map/",
-      "/notes/clients-while-you-sleep/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-compounding-loop/",
-      "/notes/rung-1-foundation-build/"
-    ],
-    "inbound": [
-      "/notes/a-worked-example/",
-      "/notes/how-codify-works/"
-    ],
-    "tags": [
-      "proof",
-      "walkthrough",
-      "offer"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
   "/notes/a-worked-example/": {
     "slug": "/notes/a-worked-example/",
     "title": "A worked example",
@@ -39,54 +7,20 @@
       "a-worked-example"
     ],
     "outbound": [
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/",
-      "/notes/a-client-walkthrough/"
+      "/notes/keeping-you-found/",
+      "/notes/the-website/",
+      "/notes/how-codify-works/"
     ],
     "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/clients-while-you-sleep/",
       "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/"
+      "/notes/the-website/"
     ],
     "tags": [
       "proof",
-      "worked-example",
-      "snapshot"
+      "worked-example"
     ],
     "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/clients-while-you-sleep/": {
-    "slug": "/notes/clients-while-you-sleep/",
-    "title": "Clients while you sleep",
-    "collection": "notes",
-    "aliases": [
-      "clients-while-you-sleep"
-    ],
-    "outbound": [
-      "/notes/rung-2-the-service/",
-      "/notes/the-static-brain/",
-      "/notes/what-happens-each-week/",
-      "/notes/decision-gates/",
-      "/notes/the-compounding-loop/",
-      "/notes/a-worked-example/",
-      "/notes/rung-1-foundation-build/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/decision-gates/",
-      "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-2-the-service/"
-    ],
-    "tags": [
-      "flagship-play",
-      "mechanism"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
+    "updated": "2026-10-19T00:00:00.000Z"
   },
   "/notes/common-questions/": {
     "slug": "/notes/common-questions/",
@@ -96,506 +30,100 @@
       "common-questions"
     ],
     "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/the-compounding-loop/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/",
-      "/notes/you-own-everything/",
-      "/notes/rung-0-snapshot/",
-      "/notes/the-three-rungs/",
+      "/notes/the-website/",
+      "/notes/keeping-you-found/",
+      "/notes/how-codify-works/",
       "/notes/who-its-for/"
     ],
     "inbound": [
       "/notes/how-codify-works/",
+      "/notes/keeping-you-found/",
+      "/notes/the-website/",
       "/notes/who-its-for/"
     ],
     "tags": [
-      "objections",
-      "faq"
+      "questions"
     ],
     "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/decision-gates/": {
-    "slug": "/notes/decision-gates/",
-    "title": "Decision gates",
-    "collection": "notes",
-    "aliases": [
-      "decision-gates"
-    ],
-    "outbound": [
-      "/notes/training-by-voice-note/",
-      "/notes/the-static-brain/",
-      "/notes/clients-while-you-sleep/"
-    ],
-    "inbound": [
-      "/notes/clients-while-you-sleep/",
-      "/notes/how-codify-works/",
-      "/notes/what-happens-each-week/"
-    ],
-    "tags": [
-      "mechanism",
-      "loop"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
+    "updated": "2026-10-19T00:00:00.000Z"
   },
   "/notes/how-codify-works/": {
     "slug": "/notes/how-codify-works/",
-    "title": "How Codify Works",
+    "title": "We build the website, and we keep you found",
     "collection": "notes",
     "aliases": [
-      "how-codify-works",
-      "start-here",
-      "how-it-works"
+      "how-codify-works"
     ],
     "outbound": [
-      "/notes/your-voice/",
-      "/notes/your-audience/",
-      "/notes/your-offer/",
-      "/notes/your-beliefs/",
-      "/notes/the-alignment-map/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-three-rungs/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-2-the-service/",
-      "/notes/you-own-everything/",
-      "/notes/the-managed-service/",
-      "/notes/training-by-voice-note/",
-      "/notes/what-happens-each-week/",
-      "/notes/the-compounding-loop/",
-      "/notes/a-client-walkthrough/",
+      "/notes/the-website/",
+      "/notes/keeping-you-found/",
       "/notes/a-worked-example/",
       "/notes/who-its-for/",
-      "/notes/common-questions/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/what-changes/",
-      "/notes/the-static-brain/",
-      "/notes/decision-gates/",
-      "/notes/clients-while-you-sleep/"
-    ],
-    "inbound": [],
-    "tags": [
-      "moc",
-      "codify-flow"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/rung-0-snapshot/": {
-    "slug": "/notes/rung-0-snapshot/",
-    "title": "Rung 0 — Snapshot (free)",
-    "collection": "notes",
-    "aliases": [
-      "rung-0-snapshot"
-    ],
-    "outbound": [
-      "/notes/your-beliefs/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-static-brain/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-three-rungs/",
-      "/notes/a-worked-example/",
-      "/notes/clients-while-you-sleep/"
+      "/notes/common-questions/"
     ],
     "inbound": [
       "/notes/a-worked-example/",
       "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-three-rungs/",
-      "/notes/what-changes/"
+      "/notes/keeping-you-found/",
+      "/notes/the-website/",
+      "/notes/who-its-for/"
     ],
     "tags": [
-      "offer",
-      "snapshot",
-      "rung"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/rung-1-foundation-build/": {
-    "slug": "/notes/rung-1-foundation-build/",
-    "title": "Your site, rebuilt",
-    "collection": "notes",
-    "aliases": [
-      "rung-1-foundation-build"
-    ],
-    "outbound": [
-      "/notes/your-voice/",
-      "/notes/your-audience/",
-      "/notes/the-static-brain/",
-      "/notes/your-offer/",
-      "/notes/your-beliefs/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/the-alignment-map/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-three-rungs/",
-      "/notes/you-own-everything/",
-      "/notes/rung-0-snapshot/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/a-worked-example/",
-      "/notes/clients-while-you-sleep/",
-      "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-alignment-map/",
-      "/notes/the-three-rungs/",
-      "/notes/your-audience/",
-      "/notes/your-beliefs/",
-      "/notes/your-offer/",
-      "/notes/your-voice/"
-    ],
-    "tags": [
-      "offer",
-      "foundation-build",
-      "rung"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z",
-    "isStarred": true
-  },
-  "/notes/rung-2-the-service/": {
-    "slug": "/notes/rung-2-the-service/",
-    "title": "The monthly plan",
-    "collection": "notes",
-    "aliases": [
-      "rung-2-the-service"
-    ],
-    "outbound": [
-      "/notes/the-alignment-map/",
-      "/notes/training-by-voice-note/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-three-rungs/",
-      "/notes/you-own-everything/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/clients-while-you-sleep/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/a-worked-example/",
-      "/notes/clients-while-you-sleep/",
-      "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-alignment-map/",
-      "/notes/the-three-rungs/"
-    ],
-    "tags": [
-      "offer",
-      "service",
-      "rung"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/the-alignment-map/": {
-    "slug": "/notes/the-alignment-map/",
-    "title": "The alignment map",
-    "collection": "notes",
-    "aliases": [
-      "the-alignment-map"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/",
-      "/notes/you-own-everything/",
-      "/notes/the-compounding-loop/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/the-static-brain/",
-      "/notes/what-changes/",
-      "/notes/what-happens-each-week/",
-      "/notes/your-offer/"
-    ],
-    "tags": [
-      "mechanism",
-      "concept",
-      "foundation-build",
       "offer"
     ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
+    "status": "updated",
+    "updated": "2026-10-19T00:00:00.000Z"
   },
-  "/notes/the-compounding-loop/": {
-    "slug": "/notes/the-compounding-loop/",
-    "title": "The compounding loop",
+  "/notes/keeping-you-found/": {
+    "slug": "/notes/keeping-you-found/",
+    "title": "Keeping you found",
     "collection": "notes",
     "aliases": [
-      "the-compounding-loop"
+      "keeping-you-found"
     ],
     "outbound": [
-      "/notes/training-by-voice-note/",
-      "/notes/the-static-brain/",
-      "/notes/the-alignment-map/"
+      "/notes/how-codify-works/",
+      "/notes/the-website/",
+      "/notes/common-questions/"
     ],
     "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/clients-while-you-sleep/",
+      "/notes/a-worked-example/",
       "/notes/common-questions/",
       "/notes/how-codify-works/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-alignment-map/",
-      "/notes/the-static-brain/",
-      "/notes/training-by-voice-note/",
-      "/notes/what-changes/",
-      "/notes/you-own-everything/",
-      "/notes/your-audience/"
+      "/notes/the-website/"
     ],
     "tags": [
-      "concept",
-      "compounding"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/the-genius-with-amnesia/": {
-    "slug": "/notes/the-genius-with-amnesia/",
-    "title": "Why your marketing sounds like everyone else's",
-    "collection": "notes",
-    "aliases": [
-      "the-genius-with-amnesia",
-      "why-your-marketing-sounds-generic"
-    ],
-    "outbound": [
-      "/notes/what-changes/",
-      "/notes/the-static-brain/",
-      "/notes/your-beliefs/",
-      "/notes/the-alignment-map/"
-    ],
-    "inbound": [
-      "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-static-brain/",
-      "/notes/what-changes/",
-      "/notes/who-its-for/",
-      "/notes/your-beliefs/"
-    ],
-    "tags": [
-      "problem",
-      "concept"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/the-managed-service/": {
-    "slug": "/notes/the-managed-service/",
-    "title": "We run it — you never touch the machinery",
-    "collection": "notes",
-    "aliases": [
-      "the-managed-service"
-    ],
-    "outbound": [
-      "/notes/training-by-voice-note/",
-      "/notes/you-own-everything/"
-    ],
-    "inbound": [
-      "/notes/how-codify-works/",
-      "/notes/what-happens-each-week/"
-    ],
-    "tags": [
-      "concept",
-      "managed-service",
-      "experience"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/the-privacy-line/": {
-    "slug": "/notes/the-privacy-line/",
-    "title": "The privacy line",
-    "collection": "notes",
-    "aliases": [
-      "the-privacy-line"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/you-own-everything/"
-    ],
-    "inbound": [],
-    "tags": [
-      "concept",
-      "sovereignty",
-      "trust"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/the-static-brain/": {
-    "slug": "/notes/the-static-brain/",
-    "title": "The static brain",
-    "collection": "notes",
-    "aliases": [
-      "the-static-brain"
-    ],
-    "outbound": [
-      "/notes/your-voice/",
-      "/notes/your-audience/",
-      "/notes/your-offer/",
-      "/notes/your-beliefs/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/the-compounding-loop/",
-      "/notes/training-by-voice-note/",
-      "/notes/the-alignment-map/",
-      "/notes/you-own-everything/"
-    ],
-    "inbound": [
-      "/notes/clients-while-you-sleep/",
-      "/notes/common-questions/",
-      "/notes/decision-gates/",
-      "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-alignment-map/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/the-privacy-line/",
-      "/notes/training-by-voice-note/",
-      "/notes/what-changes/",
-      "/notes/what-happens-each-week/",
-      "/notes/you-own-everything/",
-      "/notes/your-audience/",
-      "/notes/your-beliefs/",
-      "/notes/your-offer/",
-      "/notes/your-voice/"
-    ],
-    "tags": [
-      "mechanism",
-      "concept",
-      "substrate"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z",
-    "isStarred": true
-  },
-  "/notes/the-three-rungs/": {
-    "slug": "/notes/the-three-rungs/",
-    "title": "What you actually buy",
-    "collection": "notes",
-    "aliases": [
-      "the-three-rungs"
-    ],
-    "outbound": [
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/",
-      "/notes/what-changes/",
-      "/notes/who-its-for/",
-      "/notes/you-own-everything/"
-    ],
-    "tags": [
-      "concept",
       "offer",
-      "ladder"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/training-by-voice-note/": {
-    "slug": "/notes/training-by-voice-note/",
-    "title": "You correct it by saying so",
-    "collection": "notes",
-    "aliases": [
-      "training-by-voice-note"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/the-compounding-loop/"
-    ],
-    "inbound": [
-      "/notes/decision-gates/",
-      "/notes/how-codify-works/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-compounding-loop/",
-      "/notes/the-managed-service/",
-      "/notes/the-static-brain/",
-      "/notes/what-happens-each-week/",
-      "/notes/your-voice/"
-    ],
-    "tags": [
-      "concept",
-      "experience",
-      "training"
+      "monthly"
     ],
     "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
+    "updated": "2026-10-19T00:00:00.000Z"
   },
-  "/notes/what-changes/": {
-    "slug": "/notes/what-changes/",
-    "title": "What changes",
+  "/notes/the-website/": {
+    "slug": "/notes/the-website/",
+    "title": "The website",
     "collection": "notes",
     "aliases": [
-      "what-changes"
+      "the-website"
     ],
     "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/the-alignment-map/",
-      "/notes/the-compounding-loop/",
-      "/notes/rung-0-snapshot/",
-      "/notes/the-three-rungs/",
-      "/notes/the-genius-with-amnesia/"
-    ],
-    "inbound": [
+      "/notes/keeping-you-found/",
+      "/notes/a-worked-example/",
       "/notes/how-codify-works/",
-      "/notes/the-genius-with-amnesia/"
-    ],
-    "tags": [
-      "concept",
-      "transformation"
-    ],
-    "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/what-happens-each-week/": {
-    "slug": "/notes/what-happens-each-week/",
-    "title": "What actually happens each week",
-    "collection": "notes",
-    "aliases": [
-      "what-happens-each-week",
-      "research-step",
-      "writing-step",
-      "outreach-step",
-      "packaging-step",
-      "review-step"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/the-managed-service/",
-      "/notes/training-by-voice-note/",
-      "/notes/decision-gates/",
-      "/notes/the-alignment-map/"
+      "/notes/common-questions/"
     ],
     "inbound": [
-      "/notes/clients-while-you-sleep/",
-      "/notes/how-codify-works/"
+      "/notes/a-worked-example/",
+      "/notes/common-questions/",
+      "/notes/how-codify-works/",
+      "/notes/keeping-you-found/"
     ],
     "tags": [
-      "mechanism",
-      "managed-service"
+      "offer",
+      "website"
     ],
     "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
+    "updated": "2026-10-19T00:00:00.000Z"
   },
   "/notes/who-its-for/": {
     "slug": "/notes/who-its-for/",
@@ -605,9 +133,8 @@
       "who-its-for"
     ],
     "outbound": [
-      "/notes/the-genius-with-amnesia/",
       "/notes/common-questions/",
-      "/notes/the-three-rungs/"
+      "/notes/how-codify-works/"
     ],
     "inbound": [
       "/notes/common-questions/",
@@ -617,166 +144,7 @@
       "audience",
       "fit"
     ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/you-own-everything/": {
-    "slug": "/notes/you-own-everything/",
-    "title": "You own everything",
-    "collection": "notes",
-    "aliases": [
-      "you-own-everything"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/the-three-rungs/",
-      "/notes/the-compounding-loop/"
-    ],
-    "inbound": [
-      "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/rung-2-the-service/",
-      "/notes/the-alignment-map/",
-      "/notes/the-managed-service/",
-      "/notes/the-privacy-line/",
-      "/notes/the-static-brain/"
-    ],
-    "tags": [
-      "concept",
-      "sovereignty"
-    ],
     "status": "updated",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/your-audience/": {
-    "slug": "/notes/your-audience/",
-    "title": "Your audience",
-    "collection": "notes",
-    "aliases": [
-      "your-audience"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-compounding-loop/",
-      "/notes/your-voice/",
-      "/notes/your-offer/",
-      "/notes/your-beliefs/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-static-brain/",
-      "/notes/your-beliefs/",
-      "/notes/your-offer/",
-      "/notes/your-voice/"
-    ],
-    "tags": [
-      "reference-file",
-      "concept",
-      "foundation-build"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/your-beliefs/": {
-    "slug": "/notes/your-beliefs/",
-    "title": "Your beliefs",
-    "collection": "notes",
-    "aliases": [
-      "your-beliefs"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/your-voice/",
-      "/notes/your-audience/",
-      "/notes/your-offer/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/how-codify-works/",
-      "/notes/rung-0-snapshot/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-genius-with-amnesia/",
-      "/notes/the-static-brain/",
-      "/notes/your-audience/",
-      "/notes/your-offer/",
-      "/notes/your-voice/"
-    ],
-    "tags": [
-      "reference-file",
-      "concept",
-      "foundation-build"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/your-offer/": {
-    "slug": "/notes/your-offer/",
-    "title": "Your offer",
-    "collection": "notes",
-    "aliases": [
-      "your-offer"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-alignment-map/",
-      "/notes/your-voice/",
-      "/notes/your-audience/",
-      "/notes/your-beliefs/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-static-brain/",
-      "/notes/your-audience/",
-      "/notes/your-beliefs/",
-      "/notes/your-voice/"
-    ],
-    "tags": [
-      "reference-file",
-      "concept",
-      "foundation-build"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
-  "/notes/your-voice/": {
-    "slug": "/notes/your-voice/",
-    "title": "Your voice",
-    "collection": "notes",
-    "aliases": [
-      "your-voice"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/training-by-voice-note/",
-      "/notes/your-audience/",
-      "/notes/your-offer/",
-      "/notes/your-beliefs/"
-    ],
-    "inbound": [
-      "/notes/a-client-walkthrough/",
-      "/notes/how-codify-works/",
-      "/notes/rung-1-foundation-build/",
-      "/notes/the-static-brain/",
-      "/notes/your-audience/",
-      "/notes/your-beliefs/",
-      "/notes/your-offer/"
-    ],
-    "tags": [
-      "reference-file",
-      "concept",
-      "foundation-build"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
+    "updated": "2026-10-19T00:00:00.000Z"
   }
 }

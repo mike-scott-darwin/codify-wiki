@@ -10,25 +10,50 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
     site: 'https://codify-wiki.michael-a6c.workers.dev',
 
-    // The five URLs below were public and crawlable for 75+ days under the old
-    // five-rung ladder before the 2026-08-25 rewrite renamed them. Anything that
-    // linked or indexed them would otherwise hit a 404, so they redirect to the
-    // page that replaced them rather than dead-ending.
+    // Every retired page forwards to the page that replaced it, so a link or a
+    // search result never dead-ends. Targets are final: no redirect points at
+    // another redirect.
+    //
+    // 2026-10-19: the wiki was cut from 25 pages to six, built on the two things
+    // we sell (the website, and keeping you found). The four-documents pages,
+    // the interview, the three-rung ladder and every page about how the work is
+    // made were removed. Earlier entries date from the 2026-08-25 rewrite.
     redirects: {
-        '/notes/station-1-snapshot':         '/notes/rung-0-snapshot',
-        '/notes/station-2-codify':           '/notes/rung-1-foundation-build',
-        '/notes/station-3-orchestrate':      '/notes/rung-2-the-service',
-        '/notes/the-graduation-path':        '/notes/the-three-rungs',
-        '/notes/the-graduation-walkthrough': '/notes/a-client-walkthrough',
-        // 2026-08-25 — the five pipeline-step notes collapsed into one plain
-        // note. They were our production stages published as client pages;
-        // see decisions/2026-08-25-wiki-rewritten-for-the-non-technical-buyer.
-        '/notes/research-step':              '/notes/what-happens-each-week',
-        '/notes/writing-step':               '/notes/what-happens-each-week',
-        '/notes/outreach-step':              '/notes/what-happens-each-week',
-        '/notes/packaging-step':             '/notes/what-happens-each-week',
-        '/notes/review-step':                '/notes/what-happens-each-week',
-        '/notes/the-growing-library':        '/notes/the-compounding-loop',
+        // 2026-08-25 and earlier
+        '/notes/station-1-snapshot':         '/notes/a-worked-example',
+        '/notes/station-2-codify':           '/notes/the-website',
+        '/notes/station-3-orchestrate':      '/notes/keeping-you-found',
+        '/notes/the-graduation-path':        '/',
+        '/notes/the-graduation-walkthrough': '/notes/a-worked-example',
+        '/notes/research-step':              '/notes/keeping-you-found',
+        '/notes/writing-step':               '/notes/keeping-you-found',
+        '/notes/outreach-step':              '/notes/keeping-you-found',
+        '/notes/packaging-step':             '/notes/keeping-you-found',
+        '/notes/review-step':                '/notes/keeping-you-found',
+        '/notes/the-growing-library':        '/',
+        // 2026-10-19
+        '/notes/rung-0-snapshot':            '/notes/a-worked-example',
+        '/notes/rung-1-foundation-build':    '/notes/the-website',
+        '/notes/rung-2-the-service':         '/notes/keeping-you-found',
+        '/notes/the-three-rungs':            '/',
+        '/notes/a-client-walkthrough':       '/notes/a-worked-example',
+        '/notes/the-codify-case-study':      '/notes/a-worked-example',
+        '/notes/clients-while-you-sleep':    '/',
+        '/notes/the-managed-service':        '/notes/keeping-you-found',
+        '/notes/what-happens-each-week':     '/notes/keeping-you-found',
+        '/notes/the-alignment-map':          '/notes/keeping-you-found',
+        '/notes/the-compounding-loop':       '/notes/keeping-you-found',
+        '/notes/decision-gates':             '/notes/keeping-you-found',
+        '/notes/training-by-voice-note':     '/notes/keeping-you-found',
+        '/notes/the-privacy-line':           '/notes/common-questions',
+        '/notes/you-own-everything':         '/notes/common-questions',
+        '/notes/what-changes':               '/',
+        '/notes/the-genius-with-amnesia':    '/',
+        '/notes/the-static-brain':           '/',
+        '/notes/your-voice':                 '/',
+        '/notes/your-audience':              '/',
+        '/notes/your-offer':                 '/',
+        '/notes/your-beliefs':               '/',
     },
 
     markdown: {
