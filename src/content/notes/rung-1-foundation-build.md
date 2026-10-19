@@ -23,7 +23,7 @@ Right now your business is written down in a dozen places and none of them quite
 
 ### Your homepage, finished and live
 
-The free rebuild you already saw, taken the rest of the way and actually deployed — written from [[your-voice]] and [[your-audience]] rather than from a template, and structured so an AI search engine can quote it accurately when someone asks about your trade in your town.
+The free rebuild you already saw, taken the rest of the way and actually deployed — written from [[your-voice]] and [[your-audience]] rather than from a template, and saying the same true thing as your Google listing and every other place you're listed.
 
 **You choose where it lives:** we hand the files to your web person, or we host it in the system you already run your business from, so the page, the form on it, the follow-up it triggers and your pipeline are one thing instead of four. Hosting with us is never a condition of buying.
 
