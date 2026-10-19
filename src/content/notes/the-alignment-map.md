@@ -41,7 +41,7 @@ The outcome isn't a tidy spreadsheet. It's this: **everyone who meets your busin
 
 A customer who reads your homepage, then your Google reviews, then the email you send them, then the proposal you hand over, should meet one business — not four slightly different ones. Every disagreement in that chain is a small reason to hesitate, and hesitation is the thing that quietly costs you the job.
 
-It matters twice over now that people ask an AI about you instead of clicking through five results. AI search reads all of it at once and synthesises. Feed it four different versions of your business and it will pick one — and it will not ask you which.
+It matters twice over now that people also ask an AI assistant. The assistant searches the same places your customers look and repeats what it finds. Give it four different versions of your business and it will pick one — and it will not ask you which.
 
 ## The map and the receipt
 

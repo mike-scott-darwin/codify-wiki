@@ -15,7 +15,7 @@ The rebuild got your site saying the right thing. This is what keeps it that way
 
 ## What the monthly covers
 
-- **Your list keeps working.** Every job you finish this month and every quote that doesn't close becomes next month's campaign. The message gets sharper from what people actually reply — not from what we guessed. Review requests go out to the customers who just had a good experience, while it's still fresh.
+- **Your list keeps working.** Every job you finish this month and every quote that doesn't close becomes next month's campaign. The message gets sharper from what people actually reply — not from what we guessed. One review request goes to every customer after a job, asking how it went and suggesting nothing.
 - **The map becomes the queue.** At the site rebuild we handed you a ranked list of everywhere your marketing disagrees with itself. This is us working down it and keeping it closed. Month one usually starts with your Google Business Profile — most people see you there first, and it's the fastest thing to put right. → [[the-alignment-map]]
 - **Your four documents kept current** as the business actually changes.
 - **Your homepage and owned copy kept true** to what customers are saying now, not what they said when we wrote it.
