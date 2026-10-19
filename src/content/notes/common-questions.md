@@ -3,42 +3,45 @@ title: "Common questions"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-09-14
-tags: [objections, faq]
+updated: 2026-10-19
+tags: [questions]
 aliases: [common-questions]
-summary: "It doesn't know your business. It's generic because it has zero context about your expertise. Codify fixes that permanently — every output reads."
+summary: "The questions we actually get: the price, rankings, whether you have to take the monthly, and what happens if you stop."
 ---
 
-**"I can just use ChatGPT."**
-It doesn't know your business. It's generic because it has zero context about your expertise. Codify fixes that permanently — every output reads from [[the-static-brain]] first.
-
-**"I already have an AI agent / Copilot / Lindy."**
-Good — now give it your business context. Without it, your agent is [[the-genius-with-amnesia|a genius with amnesia]]. It can do things; it just doesn't know your business.
-
-**"Why can't AI just document my business for me?"**
-It can't curate its own context. Research showed AI-generated context files made agents *worse* — lower success, higher cost. Real codification takes human judgment about what matters. That's the work.
-
-**"Why not hire an AI consultant?"**
-A consultant gives you a report that's stale in three months. Codify gives you a system that compounds. → [[the-compounding-loop]]
+**"How do you actually write it?"**
+We read everything your customers have written about you, and we write from that. Every review, your site, your listing, and whatever you already send people. Then a person reads all of it before it reaches you.
 
 **"That's a lot for a website."**
-It isn't two conversations and a homepage. Ask a different question first: how many past customers, old quotes and cold enquiries are sitting in your system right now — and when did anyone last write to them in your voice? For most businesses it's thousands, and never. That list is the second thing you get, loaded into your own account with a campaign written the way you actually talk, staged and waiting for you to press send. The written-down part is what makes it sound like you instead of like a template — that's what it's for. And you pay half to start, half when the campaign is ready. → [[rung-1-foundation-build]]
+It isn't only a website. Every page is written from what your own customers said, your old addresses keep working so you don't lose what you already earn, and you get a straight read on where your calls come from now. A cheaper site gets you pages. → [[the-website|The website]]
 
-**"Do I have to buy the subscription after the site rebuild?"**
-No, and there's no credit or discount pushing you into it. What usually decides it is that by the time we get to the walkthrough your campaign has already gone out and people have replied — and the obvious next question is what happens to the list next month, and the month after. If your marketing has been saying the right things for years, keep your money; we'll tell you that on the walkthrough. → [[rung-2-the-service]]
+**"Can you get me to the top of Google?"**
+We won't promise you a position, and anyone who does is guessing. The rules change and nobody controls them. What we'll promise is the part that almost nobody does: your business described the same true way everywhere a customer looks, kept current instead of written once and left. → [[keeping-you-found|Keeping you found]]
 
-**"What am I actually paying for each month?"**
-You're not paying for AI output — the agent does the LLM-priced work. You're paying for judgment, relationship, taste, and accountability — the four things that don't compress. → [[rung-1-foundation-build]]
+**"Do I have to take the monthly?"**
+No, and nothing is held back if you don't. The site is finished and it's yours. The monthly is what keeps it true as your reviews keep coming in.
+
+**"Is there a setup fee on the monthly?"**
+No. The site already happened and you paid for it once.
+
+**"Do you have anything cheaper?"**
+Cheaper buys less, not the same thing discounted. Fewer pages is a smaller rebuild. Handing over less is a smaller monthly. What we won't do is quote you the same work for less and find the time back somewhere you can't see.
+
+**"Why not just hire someone?"**
+A marketing hire is about $140,000 a year and you'd still be managing them. And when they leave, everything they worked out about your business leaves with them. Here it's written down and it stays.
 
 **"Do I have to take calls?"**
-One a month, and it exists because voice gets sharp on a call and nowhere else. That call is also how the service is managed — what ran, what came back, what to change. Between calls, the work sits in your own account and you can message us any time. (If you take on the wider scope, calls go to bi-weekly for the first 90 days.)
+Not to get started. We do the reading ourselves and ask you for a few things you already have. Once you're on a monthly plan, it's a call a month.
 
-**"What if I stop using it?"**
-Your files are yours. Keep everything. The system keeps working. → [[you-own-everything]]
+**"I'm not technical."**
+You don't need to be, and there's nothing to learn. The work shows up in the account you already use.
 
-**"Which rung should I start at?"**
-There's only one place to start: [[rung-0-snapshot]], free. After that it's a sequence, not a menu — the [[rung-1-foundation-build|Build]] writes your business down, and [[rung-2-the-service|the service]] keeps it true. You can't sensibly do the second without the first. → [[the-three-rungs]]
+**"Where does my data live?"**
+In your own accounts. Your customer data stays where it is now; we don't keep a copy. We never hold your sending details and we never press send.
+
+**"What if I stop?"**
+Everything we built is yours and it stays live. Nothing switches off. What stops is the keeping-current.
 
 ---
 
-**Related:** [[who-its-for]] · [[you-own-everything]] · [[the-three-rungs]]
+**Related:** [[how-codify-works|What we do]] · [[who-its-for|Who it's for]]
