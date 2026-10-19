@@ -11,7 +11,7 @@ summary: "One business end to end. The Snapshot is a real run; the rebuild and t
 
 One business, all three rungs — [[the-three-rungs]] made concrete. Watch what stays constant: every line traces back to something a customer actually wrote.
 
-> **Read this first.** Rung 0 below is a **real, unprompted run** you can open right now. Rungs 1 and 2 are **worked illustrations** — real copy, built from the same mined reviews, showing what the later steps produce. **They are not a delivered engagement.** Nobody has yet bought the paid path, and we'd rather say that than dress a mockup up as a case study. When there's a real one, this page gets replaced.
+> **Read this first.** Rung 0 below is a **real, unprompted run** you can open right now. Rungs 1 and 2 are **worked illustrations** — real copy, built from the same mined reviews, showing what the later steps produce. **They are not a delivered engagement.** Our first paying client's write-up goes up once their first full month of numbers is in. Until then, we'd rather show an illustration than dress up early numbers.
 
 ## Rung 0 — Snapshot (free): the diagnosis
 

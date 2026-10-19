@@ -167,7 +167,6 @@
       "/notes/the-compounding-loop/",
       "/notes/a-client-walkthrough/",
       "/notes/a-worked-example/",
-      "/notes/the-codify-case-study/",
       "/notes/who-its-for/",
       "/notes/common-questions/",
       "/notes/the-genius-with-amnesia/",
@@ -330,29 +329,6 @@
     "status": "live",
     "updated": "2026-09-14T00:00:00.000Z"
   },
-  "/notes/the-codify-case-study/": {
-    "slug": "/notes/the-codify-case-study/",
-    "title": "The Codify case study",
-    "collection": "notes",
-    "aliases": [
-      "the-codify-case-study"
-    ],
-    "outbound": [
-      "/notes/the-static-brain/",
-      "/notes/the-compounding-loop/",
-      "/notes/who-its-for/"
-    ],
-    "inbound": [
-      "/notes/how-codify-works/",
-      "/notes/who-its-for/"
-    ],
-    "tags": [
-      "proof",
-      "case-study"
-    ],
-    "status": "live",
-    "updated": "2026-09-14T00:00:00.000Z"
-  },
   "/notes/the-compounding-loop/": {
     "slug": "/notes/the-compounding-loop/",
     "title": "The compounding loop",
@@ -372,7 +348,6 @@
       "/notes/how-codify-works/",
       "/notes/rung-2-the-service/",
       "/notes/the-alignment-map/",
-      "/notes/the-codify-case-study/",
       "/notes/the-static-brain/",
       "/notes/training-by-voice-note/",
       "/notes/what-changes/",
@@ -485,7 +460,6 @@
       "/notes/rung-0-snapshot/",
       "/notes/rung-1-foundation-build/",
       "/notes/the-alignment-map/",
-      "/notes/the-codify-case-study/",
       "/notes/the-compounding-loop/",
       "/notes/the-genius-with-amnesia/",
       "/notes/the-privacy-line/",
@@ -633,13 +607,11 @@
     "outbound": [
       "/notes/the-genius-with-amnesia/",
       "/notes/common-questions/",
-      "/notes/the-three-rungs/",
-      "/notes/the-codify-case-study/"
+      "/notes/the-three-rungs/"
     ],
     "inbound": [
       "/notes/common-questions/",
-      "/notes/how-codify-works/",
-      "/notes/the-codify-case-study/"
+      "/notes/how-codify-works/"
     ],
     "tags": [
       "audience",

@@ -102,7 +102,6 @@ We write the understanding down and give it to you. It's four plain files in you
 
 - ⭐ **[[a-client-walkthrough]]** — one med spa, all three steps, with screenshots
 - [[a-worked-example]] — a free rebuild in full, start to finish
-- [[the-codify-case-study]] — we ran our own business on this before we sold it
 - [[who-its-for]] — and honestly, who it isn't for
 - [[common-questions]] — the objections, answered straight
 
@@ -122,4 +121,4 @@ We write the understanding down and give it to you. It's four plain files in you
 
 **Why it holds up** · [[you-own-everything]] · [[the-compounding-loop]]
 
-**Proof** · [[a-client-walkthrough]] · [[a-worked-example]] · [[the-codify-case-study]] · [[who-its-for]] · [[common-questions]]
+**Proof** · [[a-client-walkthrough]] · [[a-worked-example]] · [[who-its-for]] · [[common-questions]]
