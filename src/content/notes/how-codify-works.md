@@ -1,124 +1,62 @@
 ---
-title: "How Codify Works"
+title: "We build the website, and we keep you found"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-09-14
-tags: [moc, codify-flow]
-aliases: [how-codify-works, start-here, how-it-works]
-summary: "Your marketing says the same true thing about your business everywhere it's said - and keeps saying it as your business changes. Start here."
+updated: 2026-10-19
+tags: [offer]
+aliases: [how-codify-works]
+summary: "Two things. Your website, rewritten so the lines that sell you trace to something a customer actually wrote. Then, every month, keeping it and everywhere else you're listed saying the same true thing."
 ---
 
-> **Your marketing should say the same true thing about your business everywhere it's said — and keep saying it as your business changes.**
->
-> That's the whole job. Everything below is how we do it.
+Two things, and that's the whole offer.
 
-## What's wrong right now
+## The website
 
-Your business is written down in about a dozen places. Your homepage. The other pages nobody's opened in three years. Your Google listing. Your Facebook bio. The last email you sent. The proposal you hand people. Maybe an ad.
+Your site, rewritten so the lines that sell you trace to something one of your customers actually wrote. In public, in a review, with a date on it. The rest (what you do, where, and who does it) comes from what you've already written or told us. Your brand, your photos, your old addresses still working, so you don't lose what you already earn.
 
-**None of them quite agree with each other.**
+We agree the page list first. Then we quote, and the number holds. → [[the-website|The website]]
 
-That isn't sloppiness, and it isn't your fault. It's what happens when the real version of your business — what you actually do, who you're really for, why you do it your way — only exists in your head. Every person who's ever written anything for you was guessing at it. And they all guessed differently.
+## Keeping you found
 
-So a customer reads your homepage, then your reviews, then your email, then your proposal, and meets four slightly different businesses. Every one of those small disagreements is a small reason to hesitate. Hesitation is what quietly costs you the job.
+A site goes stale the day it ships. Reviews keep arriving, what people ask for shifts, and the description of your business drifts out of date in the places customers actually look.
 
-It matters more now than it did five years ago, because people ask an AI about you instead of clicking through five search results — and it reads all of it at once. Give it four versions of your business and it picks one. It won't ask you which.
+Every month we pull it all back into line: your pages, your Google listing, the replies to your reviews, and whatever else your plan covers. We also check what AI assistants say when someone asks about you, and show you what we find. → [[keeping-you-found|Keeping you found]]
 
-## What we do about it
+## Why it's different
 
-**We sit with you for two conversations and get it out of your head.** Not a form. Not a workshop. Two calls, about ninety minutes each. You talk, we write it down.
+Everyone else writes your website from a brief. What *you* told them in a kickoff call, filtered through a copywriter who met your business an hour ago. So it says "quality craftsmanship" and "customer satisfaction," because that's what everyone says when nobody checked.
 
-What comes out is four short documents — plain English, a few pages each, **yours to keep**:
+Your customers have already written better copy than that, for free, and nobody has ever used it. We read every review, your site, your listing and whatever you already send people, and we write from that.
 
-| | |
-|---|---|
-| **[[your-voice]]** | How you sound. The words you use, and the ones you'd never use. |
-| **[[your-audience]]** | Who you actually serve, what they want, what they're afraid of. |
-| **[[your-offer]]** | What you sell, what it costs, what's included, what you turn down. |
-| **[[your-beliefs]]** | Why you do it your way when most of your trade doesn't. |
+**Ask about any sentence on your site and we'll show you where it came from.** → [[a-worked-example|A worked example]]
 
-Then three things happen that couldn't happen before.
+Three things follow:
 
-**Everything new gets written from them** — your homepage, your emails, your follow-ups. Not guessed at.
+1. **You don't sit through a workshop.** No discovery session, no brand questionnaire, no homework.
+2. **Nothing on your site is invented.** If your customers haven't said it and you haven't said it, it doesn't go on. That's checkable, line by line.
+3. **It stays true.** Your customers' words move. Once a month, so does your marketing.
 
-**Everything old gets checked against them.** We read every page, listing, bio, email and proposal you already have and hand you one page showing what agrees, what contradicts, and what's still live describing a business you stopped running. That's [[the-alignment-map]].
+## What it costs
 
-**And the people who already bought from you hear from you again.** Every past customer, dead quote and cold enquiry sitting in your system, written to in your own words instead of a template. That list is the warmest audience you will ever have, almost nobody works it, and it's usually the first thing that produces a reply. → [[rung-1-foundation-build]]
+Both are quoted against what you're handing over. Neither has a published price.
 
-## What it costs, and what you get
+The website is quoted once the page list is agreed, not before. The monthly depends on how much you hand over, and whatever it covers is written down, with the numbers in it, before you sign anything.
 
-Three steps. Only one is a subscription. → [[the-three-rungs]]
+## How it starts: free
 
-### It's free to start — [[rung-0-snapshot|see what we mean]]
+We read 30 or more of your public reviews, rebuild your actual homepage from what they say, and send you a live link. Your brand, your photos, your layout. Only the words change, and each change is marked with the review it came from, so you can check our working instead of taking our word for it.
 
-We rebuild your homepage using your own customers' words, from your public reviews, and send it to you. Your brand, your photos, your layout — different words. Plus the list of what your reviewers keep bringing up that your homepage never mentions.
+24 to 48 hours. No card, nothing to install, no call. Then you decide whether you want the rest of the site done the same way. → [[a-worked-example|A worked example]]
 
-No call, no card, no obligation. If you never speak to us again you've still got a homepage you could hand to your own web person tomorrow.
+## What we don't do
 
-### Then the site rebuild — [[rung-1-foundation-build|the whole thing, done properly]]
+- **Rankings.** We don't promise them. Nobody controls them, and anyone promising a position is guessing.
+- **Your ad spend.** We write the ads. We don't set budgets or answer for what a campaign returns.
+- **Sending.** Everything waits in your own account for you. We never press send.
+- **Your phone.** We don't answer it or run your sales calls.
+- **Design from scratch.** No logos, no brand identity, no photography. We use what you already have.
 
-**Two things you already own, working.** Your homepage finished and live. And your customer list loaded into your own account with a campaign written the way you actually talk — staged, paused, waiting for you to press send.
+**A person reads everything before it reaches you.** Every batch, not a spot-check.
 
-Underneath both: an honest read of where your calls actually come from, from your own accounts. Your contacts and follow-up set up properly. The alignment map. And the drift receipt — what your homepage said in 2019, in 2022 and today, against what your customers were saying each of those years.
-
-**We agree exactly which pages before we quote, and the number holds.** You never get a price before we both know what's in it.
-
-**Half to start, half when your campaign is staged and ready for you to send.** You're not writing one cheque for a promise — the second half falls due when the work is sitting in your account waiting on your approval. That's a promise about delivery, not about results; nobody honest can tell you what a campaign will return, and we won't.
-
-You're not signed up to anything afterwards.
-
-### Then a monthly plan — [[rung-2-the-service|keeping it going]]
-
-**Your list keeps producing, and everything stays true.** Every job you finish this month and every quote that doesn't close becomes next month's campaign, sharpened by what people actually reply.
-
-And the alignment map becomes the work queue — we work down it, line by line, and keep it closed. Because it drifts again: your customers' language moves, you add a service, you drop one. Nobody decides to drift; it just happens.
-
-**We fix what you already own before we go looking for anything new, and we spend your ad money last.** Buying traffic to a page that says the wrong thing is paying to be misunderstood faster.
-
-Month to month. Cancel any time. You keep everything either way. → [[you-own-everything]]
-
-## What actually happens, week to week
-
-**You never open a terminal, a dashboard or an app.** We run it. → [[the-managed-service]]
-
-It's all waiting in the account you already run your business from — drafts, paused sequences, nothing sent. You send what you want. We manage it with you on a call. → [[the-call]]
-
-If something's off, you reply with a voice note — *"too long," "that's not how I'd say it," "never lead with price"* — and it becomes a rule we keep. → [[training-by-voice-note]]
-
-**A person reads every batch before it reaches you.** Not a filter, not a scoring model. A human being. That's true on the free step too, and it isn't a lever we pull when things get busy.
-
-→ [[what-happens-each-week]] if you want the detail.
-
-## Why this and not an agency
-
-An agency writes your marketing and keeps the understanding. When they leave — and they do — you're back where you started, briefing the next one from scratch.
-
-We write the understanding down and give it to you. It's four plain files in your own private space. They work with any AI, now or in five years. Nobody needs our permission to read them, and you keep them if you cancel.
-
-→ [[you-own-everything]] · [[the-compounding-loop|why month six beats month one]]
-
-## Does it work
-
-- ⭐ **[[a-client-walkthrough]]** — one med spa, all three steps, with screenshots
-- [[a-worked-example]] — a free rebuild in full, start to finish
-- [[who-its-for]] — and honestly, who it isn't for
-- [[common-questions]] — the objections, answered straight
-
----
-
-## Everything, in order
-
-**Start here** · [[the-genius-with-amnesia|why generic marketing sounds generic]] · [[what-changes]]
-
-**The three steps** · [[the-three-rungs]] · [[rung-0-snapshot]] · [[rung-1-foundation-build]] · [[rung-2-the-service]]
-
-**Your four documents** · [[the-static-brain]] · [[your-voice]] · [[your-audience]] · [[your-offer]] · [[your-beliefs]]
-
-**What you get back** · [[the-alignment-map]] · [[the-call]] · [[decision-gates]] · [[training-by-voice-note]]
-
-**How it's run** · [[the-managed-service]] · [[what-happens-each-week]] · [[clients-while-you-sleep]] *(not on a published plan; quoted separately)*
-
-**Why it holds up** · [[you-own-everything]] · [[the-compounding-loop]]
-
-**Proof** · [[a-client-walkthrough]] · [[a-worked-example]] · [[who-its-for]] · [[common-questions]]
+→ [[who-its-for|Who it's for]] · [[common-questions|Common questions]]

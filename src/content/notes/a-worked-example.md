@@ -3,66 +3,61 @@ title: "A worked example"
 visibility: public
 status: updated
 created: 2026-05-30
-updated: 2026-09-14
-tags: [proof, worked-example, snapshot]
+updated: 2026-10-19
+tags: [proof, worked-example]
 aliases: [a-worked-example]
-summary: "A real Snapshot, start to finish — Stonecraft Kitchen & Bath in Charlotte, rebuilt from 50 of their own Google reviews. Nobody asked us to."
+summary: "A real free homepage rebuild for a kitchen and bath remodeler, built from their 50 most recent reviews. Each changed line, and the review it came from."
 ---
 
-Here's the [[rung-0-snapshot|Snapshot]] run on a real business — **Stonecraft Kitchen & Bath Remodeling**, a kitchen and bath remodeler in Charlotte, NC, 4.9★ across 62 Google reviews. Nobody asked us to. This is what landed in their inbox.
+This is the free homepage rebuild, run on a real business: **a kitchen and bath remodeler with 62 Google reviews, rated 4.9.** Nobody asked us to. We read their 50 most recent reviews, rebuilt their homepage from what was in them, and sent them the link.
 
-## What their homepage did today
+We've left their name off this page. They didn't ask to be an example, and the work shows the method just as well without it.
 
-Two things, both checkable in about five seconds.
+## What their customers kept saying
 
-**The word "Charlotte" appeared nowhere on it.** Not once, in the whole page source. For a business whose entire market is one metro, that's the single line that decides whether a homeowner searching "kitchen remodel Charlotte" ever sees them.
-
-**And the AI couldn't find them.** We asked a leading assistant about Stonecraft in Charlotte — the way homeowners now check before they search. It didn't know them, and recommended two competitors instead: DiFabion and Signature Kitchen & Bath. That's not a market problem. That's a page problem, and it's costing them jobs they'll never hear about.
-
-## What their customers actually say
-
-We read 50 of their Google reviews. Three findings, ranked by what each one costs them in customers — not by how interesting it is to us:
-
-1. **Their owner is the product, and his name is nowhere on the page.** Salvador Aguilera is named in **43 of the 48 written reviews.** People aren't hiring "Stonecraft," they're hiring Sal.
-2. **Their customers reach for a specific word.** Eleven reviewers called him a *craftsman*. Only six said *contractor*. One wrote: *"We met with several large design and remodeling groups in Charlotte and found Stonecraft to be perfect for us… These skilled craftsmen (not just a contractor) appreciated this was our house."* — John Watrous, Google review
-3. **Sixteen reviewers mention a second job.** The other bathroom, the kitchen, the floors. One homeowner is four bathrooms in. That repeat rate is the strongest proof they have, and their homepage never mentions it.
+- **The owner's name.** 43 of the 50 reviews named him personally. People weren't hiring a company. They were hiring him. His name wasn't on the homepage.
+- **"Craftsman," not "contractor."** Eleven reviewers reached for *craftsman*. Six said *contractor*.
+- **They came back.** Sixteen reviewers mentioned a second job: the other bathroom, the kitchen, the floors. One homeowner was four bathrooms in. The homepage never mentioned it.
+- **On time.** Review after review said the job finished when promised, or early.
 
 None of that was on their homepage. All of it was in their reviews.
 
-## What we sent back
+## Each change, and where it came from
 
-Not a mockup — **their whole homepage, rebuilt as a live page in their own brand.** Their real logo, their real project photos, their section order, their fonts. Only the words changed.
+Their brand, their logo, their photos, their fonts, their section order. Only the words changed. These are three of the changes, exactly as we sent them, each with the review behind it.
 
-The headline we gave them came straight out of the reviews:
+**Top of the page**
 
-> **Sal does the work himself. That's the whole difference.**
->
-> Stonecraft is Salvador Aguilera and a small crew. He quotes your job, he sets the tile, and he's the one who tells you what he found behind the wall. Of the 48 Charlotte homeowners who wrote you a review, 43 named him.
+- **Was:** a headline about extraordinary kitchen and bathroom designs.
+- **Now:** *"Almost every review names [the owner]. He's the one on your floor."*
+- **Why:** "Extraordinary designs" is what every remodeler in town says, so a homeowner holding three quotes can't choose on it. The thing nobody else can claim is him. 43 of their 50 most recent reviews name him.
 
-![Stonecraft's homepage, rebuilt from their own reviews](/stonecraft-hero.jpg)
+**The welcome section**
 
-The whole page, top to bottom:
+- **Was:** a line about exquisite craftsmanship and unparalleled designs.
+- **Now:** *"Not a contractor with a crew. A craftsman with his own hands on it."*
+- **Where it came from:** a customer who shopped the big design firms first, and wrote: *"These skilled craftsmen (not just a contractor) appreciated this was our house."* He drew the line in exactly the right place, so we used his line instead of inventing one.
 
-![The full Stonecraft rebuild](/stonecraft-rebuild.jpg)
+**Under the headline**
 
-> **See it live:** [previews.codify.build/stonecraft-kitchen-bath-remodeling](https://previews.codify.build/stonecraft-kitchen-bath-remodeling/) — the real page, scrollable.
+- **Was:** quality craftsmanship designed to last a lifetime.
+- **Now:** *"On time. More often, early."*
+- **Where it came from:** *"They showed up on time and worked consistently, completing the project all within the proposed timeframe!"* A lifetime is a promise nobody can check before they hire you. Finishing on time is one your customers already checked for you.
 
-## It isn't one lucky run
+That's what we mean by the lines that sell you tracing to a review. It isn't a summary of what customers feel. It's the sentence, and who wrote it, and when.
 
-Same week, same process, a custom-home builder in Asheville. Their reviews kept saying one thing nobody had ever put on the page: clients were still calling them a decade after moving in.
+## What AI assistants said about them
 
-![Living Stone Design + Build, rebuilt from their reviews](/livingstone-rebuild.jpg)
+We asked a leading AI assistant about them by name and town, the way a homeowner might before visiting their site. It answered confidently, and it was wrong in three ways: it gave them a street address that isn't theirs, said they were mainly a countertop fabricator, and credited them with memberships their site never mentions.
 
-> **See it live:** [previews.codify.build/living-stone-design-build](https://previews.codify.build/living-stone-design-build/)
-
-## Why this is the whole pitch
-
-Real work, already done, before any conversation starts. We keep their exact branding so there's nothing to imagine — they open the link and see their own site saying something truer.
-
-And every line is answerable. If a sentence is wrong, it's wrong because a reviewer said it and we took them at their word — which is a conversation, not an argument.
-
-> **Honest notes:** 50 real Google reviews mined and cited; logo, photos, fonts and colours pulled live from their rendered site; the "Charlotte appears zero times" finding verified against full page source; the AI-search result reproduced before sending. Review counts and contact details were accurate the day it was built. It's a prototype for review, not their live site.
+No trick fixes that. An assistant answers from whatever text about a business is easiest to find, and theirs gave it almost nothing: no service area in plain words, no list of the work they do, and not one mention of the owner. That's the gap the monthly work closes, by putting the same true description everywhere they're read. → [[keeping-you-found|Keeping you found]]
 
 ## What happens next
 
-This rebuild is the free one. To see what a business gets when they carry on to the [[rung-1-foundation-build|full site rebuild]] and the [[rung-2-the-service|service]], read [[a-client-walkthrough]].
+The free rebuild is one page. The [[the-website|full site]] is every page done the same way, with the old addresses kept working.
+
+> **Honest notes:** the reviews were read from their public Google profile on the day we built it. Review counts were accurate that day. The rebuilt page was a prototype for them to look at, never their live site. Where the owner's name appears in the page copy above we've replaced it with [the owner]; the customer quotes are word for word.
+
+---
+
+**Related:** [[how-codify-works|What we do]] · [[the-website|The website]] · [[keeping-you-found|Keeping you found]]

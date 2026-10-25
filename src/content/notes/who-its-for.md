@@ -1,34 +1,29 @@
 ---
 title: "Who it's for"
 visibility: public
-status: live
+status: updated
 created: 2026-05-30
-updated: 2026-09-14
+updated: 2026-10-19
 tags: [audience, fit]
 aliases: [who-its-for]
-summary: "Codify is for owners who want their marketing to sound like them and stay that way — not one more tool to re-brief every Monday."
+summary: "Businesses whose customers name their people. If your reviews say 'Anton walked us through it' and not just 'great job', there's enough to rebuild from."
 ---
 
-Codify is for owners who want their marketing to sound like them and stay that way — not one more tool to re-brief every Monday.
+**Businesses whose customers name their people.**
 
-## It's for you if
+If your reviews say *"Anton walked us through it"* and not just *"great job,"* there's a company in there with a crew, a process and several kinds of work, and enough written about it to rebuild your site from.
 
-- You're a senior exec, founder, or operator whose expertise is your edge — and you know it.
-- You've felt [[the-genius-with-amnesia]] ceiling: every AI tool starts from scratch, so it stays generic.
-- You're done hiring and want to *install* — to direct a team, not be the team.
-- You want to own your context — files that work with any model, not knowledge locked in someone else's platform.
-- You value methodology over magic. You don't need motivation; you need a system.
+In practice: established local businesses and professional services where the owner's reputation is the business, and where generic marketing quietly costs you jobs.
 
-## It's not for you if
+## It isn't for you if
 
-- You want a magic prompt pack. We're the anti-prompt-pack.
-- You don't yet have a voice and an audience worth extracting (you need expertise to codify first).
-- You want "set it and forget it." The system compounds *because* you engage with it — a real call every month where you tell us what we got wrong. Not zero.
-- You want someone to take marketing off your plate entirely. "Handled" means off your plate to *do*, not off your plate to *decide*.
-- You're shopping for the cheapest cold-email VA. We cost more in month one and far less by month twelve, because the system sharpens while a VA resets every onboarding.
+- **Your reviews only ever name you.** There isn't enough published to rebuild from, and doing it properly would cost more than your business should spend. We'll still send you the free homepage if we've made one. We just won't pitch you the rest.
+- **You haven't got customers yet.** No reviews, nothing published. There's nothing to write from.
+- **You'd rather do it yourself.** Some owners enjoy this and do their own site. Fair choice. We don't chase it.
+- **You want a number promised.** We don't promise rankings, leads or revenue. We're accountable for the work being true and read by a person, and we won't pretend to control the rest.
 
-Still deciding? → [[common-questions]] · [[the-three-rungs]]
+Still deciding? → [[common-questions|Common questions]]
 
 ---
 
-**Related:** [[the-genius-with-amnesia]] · [[common-questions]]
+**Related:** [[how-codify-works|What we do]] · [[common-questions|Common questions]]
