@@ -6,7 +6,7 @@ created: 2026-10-19
 updated: 2026-10-19
 tags: [offer, website]
 aliases: [the-website]
-summary: "Your site, rewritten so every line traces to something a customer actually wrote. Page list agreed first, then a quote that holds."
+summary: "Your site, rewritten so the lines that sell you trace to something a customer actually wrote. Page list agreed first, then a quote that holds."
 ---
 
 **Worth what your business is worth. Not a template with your logo on it.**
@@ -14,7 +14,7 @@ summary: "Your site, rewritten so every line traces to something a customer actu
 ## What you get
 
 - **Every page written from your own customers' words.** We read every review, your current site, your Google listing and whatever you already send people. Each line on the new site traces back to something a customer said, or something you said.
-- **The source of any line, on request.** Point at a sentence and we show you the review it came from. That's the promise the whole thing rests on.
+- **The source of any line, on request.** Point at a sentence and we show you where it came from. That's the promise the whole thing rests on.
 - **Your old addresses kept working.** Every page people already find you through is redirected to its new home, so you don't lose what you already earn.
 - **A straight read on where your calls come from now**, taken from your own accounts, not from someone's report.
 - **Your brand, your photos.** We don't redesign your logo or reshoot anything. We use what you have.

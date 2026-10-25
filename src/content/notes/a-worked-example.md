@@ -44,7 +44,7 @@ Their brand, their logo, their photos, their fonts, their section order. Only th
 - **Now:** *"On time. More often, early."*
 - **Where it came from:** *"They showed up on time and worked consistently, completing the project all within the proposed timeframe!"* A lifetime is a promise nobody can check before they hire you. Finishing on time is one your customers already checked for you.
 
-That's what we mean by every line tracing to a review. It isn't a summary of what customers feel. It's the sentence, and who wrote it, and when.
+That's what we mean by the lines that sell you tracing to a review. It isn't a summary of what customers feel. It's the sentence, and who wrote it, and when.
 
 ## What AI assistants said about them
 

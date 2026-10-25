@@ -6,14 +6,14 @@ created: 2026-05-30
 updated: 2026-10-19
 tags: [offer]
 aliases: [how-codify-works]
-summary: "Two things. Your website, rewritten so every line traces to something a customer actually wrote. Then, every month, keeping it and everywhere else you're listed saying the same true thing."
+summary: "Two things. Your website, rewritten so the lines that sell you trace to something a customer actually wrote. Then, every month, keeping it and everywhere else you're listed saying the same true thing."
 ---
 
 Two things, and that's the whole offer.
 
 ## The website
 
-Your site, rewritten so every line on it traces to something one of your customers actually wrote. In public, in a review, with a date on it. Your brand, your photos, your old addresses still working, so you don't lose what you already earn.
+Your site, rewritten so the lines that sell you trace to something one of your customers actually wrote. In public, in a review, with a date on it. The rest (what you do, where, and who does it) comes from what you've already written or told us. Your brand, your photos, your old addresses still working, so you don't lose what you already earn.
 
 We agree the page list first. Then we quote, and the number holds. → [[the-website|The website]]
 
@@ -29,7 +29,7 @@ Everyone else writes your website from a brief. What *you* told them in a kickof
 
 Your customers have already written better copy than that, for free, and nobody has ever used it. We read every review, your site, your listing and whatever you already send people, and we write from that.
 
-**Ask about any sentence on your site and we'll show you which review it came from.** → [[a-worked-example|A worked example]]
+**Ask about any sentence on your site and we'll show you where it came from.** → [[a-worked-example|A worked example]]
 
 Three things follow:
 
